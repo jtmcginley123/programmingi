@@ -1,0 +1,1932 @@
+id,neighborhood,host_since,host_acceptance_rate,superhost,host_total_listings,room_type,accommodates,bathrooms,bedrooms,beds,price,min_nights
+26,Shaw,10/31/2009,0.89,F,7,Entire home/apt,4,1 bath,2,2,72.00,31
+45,Capitol Hill,9/1/2011,0.8,F,4,Entire home/apt,3,1 bath,1,1,205.00,2
+56,Edgewood,6/27/2012,0.99,F,11,Entire home/apt,6,1 bath,1,4,93.00,2
+87,Edgewood,12/10/2010,0.76,F,91,Private room,1,2 shared baths,0,1,30.00,31
+93,Shaw,2/26/2012,0.83,F,2,Entire home/apt,3,1 bath,1,2,200.00,3
+99,Columbia Heights,8/16/2013,0.98,F,2,Entire home/apt,2,1 bath,1,2,96.00,2
+106,Union Station,10/3/2013,0.83,F,2,Entire home/apt,6,2.5 baths,3,3,224.00,4
+111,Shaw,7/24/2012,0.4,F,1,Entire home/apt,2,1 bath,1,1,130.00,31
+117,Downtown,10/14/2013,0.99,F,1376,Entire home/apt,3,1 bath,1,2,338.00,1
+125,Dupont Circle,12/10/2010,0.76,F,91,Private room,1,1 shared bath,1,1,55.00,31
+128,Columbia Heights,9/15/2012,0.95,F,13,Entire home/apt,6,2 baths,2,3,272.00,3
+134,Columbia Heights,8/9/2013,0.86,F,1,Entire home/apt,2,1 bath,1,1,104.00,2
+136,Union Station,2/5/2014,0.95,F,1,Private room,2,1.5 shared baths,1,2,77.00,2
+142,Edgewood,1/22/2014,0.99,F,4,Private room,2,1.5 shared baths,1,1,99.00,2
+143,Downtown,1/22/2014,0.99,F,4,Private room,2,1.5 shared baths,1,1,88.00,2
+151,Columbia Heights,3/23/2014,0.9,F,1,Entire home/apt,5,1.5 baths,3,3,222.00,2
+158,Columbia Heights,4/24/2014,0.47,F,14,Entire home/apt,2,1 bath,0,1,93.00,3
+162,Shaw,5/3/2014,1,F,1,Entire home/apt,3,1 bath,1,2,187.00,3
+177,Capitol Hill,7/18/2014,0.92,F,1,Entire home/apt,4,1 bath,1,2,150.00,20
+180,Georgetown,7/20/2014,0.97,F,1,Entire home/apt,3,1 bath,0,2,133.00,2
+206,Dupont Circle,9/9/2014,0.76,F,2,Entire home/apt,2,1 bath,1,1,111.00,3
+207,Columbia Heights,4/4/2012,0.82,F,21,Entire home/apt,3,1 bath,1,2,91.00,31
+209,Downtown,1/22/2014,0.99,F,4,Private room,1,1.5 shared baths,1,1,73.00,2
+213,Dupont Circle,1/15/2011,1,F,3,Entire home/apt,3,1 bath,1,2,167.00,3
+215,Georgetown,10/12/2014,0.9,F,1,Entire home/apt,3,1 bath,1,3,131.00,3
+221,Downtown,8/9/2013,1,F,7,Private room,1,1 shared bath,1,1,68.00,31
+223,Downtown,10/14/2013,0.99,F,1376,Entire home/apt,5,2 baths,2,2,397.00,1
+239,Shaw,2/26/2013,0.99,F,7,Entire home/apt,4,1 bath,1,1,148.00,2
+253,Edgewood,1/7/2015,1,F,3,Entire home/apt,6,2 baths,2,2,166.00,31
+258,Edgewood,11/21/2013,1,F,2,Entire home/apt,5,2.5 baths,3,3,279.00,2
+260,Edgewood,1/9/2015,0.98,F,7,Entire home/apt,6,2 baths,4,4,266.00,2
+267,Kalorama Heights,12/18/2012,0.63,F,1,Entire home/apt,5,1 bath,2,3,157.00,2
+278,Edgewood,3/14/2015,0.64,F,1,Private room,2,1 bath,1,1,102.00,2
+283,Shaw,4/25/2013,0.94,F,4,Private room,4,1 shared bath,1,2,143.00,2
+289,Downtown,3/30/2015,0.99,F,2117,Entire home/apt,5,2 baths,2,2,397.00,1
+293,Columbia Heights,4/24/2014,0.47,F,14,Entire home/apt,2,1 bath,1,2,109.00,4
+297,Capitol Hill,10/22/2013,0.99,F,2,Entire home/apt,6,2.5 baths,3,3,351.00,3
+298,Edgewood,8/27/2009,0.99,F,1,Entire home/apt,3,1 bath,1,1,69.00,2
+317,Union Station,11/21/2014,0.5,F,3,Entire home/apt,6,2.5 baths,3,4,202.00,31
+323,Downtown,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,338.00,1
+339,Downtown,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,338.00,1
+353,Columbia Heights,6/29/2015,1,F,3,Entire home/apt,3,1 bath,1,1,111.00,31
+355,Union Station,10/5/2014,1,F,1,Entire home/apt,6,1 bath,2,2,167.00,3
+357,Kalorama Heights,4/24/2014,0.47,F,14,Entire home/apt,3,1 bath,0,2,109.00,5
+359,Columbia Heights,8/16/2015,0.96,F,8,Entire home/apt,5,2 baths,2,2,156.00,3
+369,Columbia Heights,8/16/2015,0.96,F,8,Entire home/apt,4,1 bath,1,2,119.00,3
+370,Shaw,10/8/2013,1,F,5,Entire home/apt,6,2 baths,2,2,129.00,31
+371,Columbia Heights,8/16/2015,0.96,F,8,,5,1 bath,2,7,186.00,2
+374,Columbia Heights,8/16/2015,0.96,F,8,Entire home/apt,10,3.5 baths,5,6,501.00,2
+391,Shaw,8/3/2010,0.46,F,1,Entire home/apt,1,1 bath,1,1,115.00,3
+393,Capitol Hill,4/11/2013,1,F,1,Entire home/apt,6,1 bath,2,3,186.00,1
+397,Downtown,8/9/2013,1,F,7,Private room,1,1 shared bath,1,1,77.00,31
+418,Kalorama Heights,4/24/2014,0.47,F,14,Entire home/apt,3,1 bath,1,2,102.00,4
+430,Kalorama Heights,1/2/2016,0.81,F,1,Entire home/apt,2,1 bath,1,1,180.00,3
+432,Union Station,9/20/2015,0.92,F,3,Private room,4,2 baths,2,2,157.00,3
+496,Columbia Heights,10/6/2013,0.95,F,1,,4,1 bath,1,2,125.00,2
+506,Downtown,8/9/2013,1,F,7,Private room,1,1 shared bath,1,1,81.00,31
+511,Union Station,5/8/2015,1,F,1,Entire home/apt,4,1 bath,1,2,183.00,4
+544,Edgewood,11/17/2009,0.19,F,17,Private room,1,1 shared bath,1,1,38.00,32
+546,Edgewood,11/17/2009,0.19,F,17,Private room,1,1 private bath,1,1,44.00,31
+552,Columbia Heights,6/14/2016,1,F,2,Private room,2,1 private bath,1,1,120.00,1
+557,Union Station,6/21/2016,0.79,F,3,Entire home/apt,3,1 bath,1,2,76.00,31
+565,Union Station,2/10/2016,0.97,F,1,Entire home/apt,4,1 bath,1,1,128.00,2
+581,Edgewood,8/9/2016,1,F,2,Entire home/apt,6,1 bath,2,2,137.00,3
+583,Downtown,8/9/2013,1,F,7,Private room,1,1 shared bath,1,1,50.00,31
+587,Columbia Heights,1/17/2016,0.93,F,2,Entire home/apt,6,1 bath,2,2,168.00,2
+588,Edgewood,11/17/2009,0.19,F,17,Entire home/apt,6,2 baths,2,2,118.00,31
+594,Kalorama Heights,9/2/2016,1,F,4,,4,1 bath,0,1,72.00,31
+615,Edgewood,11/17/2009,0.19,F,17,Private room,1,1.5 baths,1,1,52.00,32
+628,Capitol Hill,10/24/2016,1,F,1,Entire home/apt,4,1 bath,1,1,157.00,2
+642,Union Station,5/31/2014,0.86,F,2,Entire home/apt,3,1 bath,1,2,96.00,2
+649,Capitol Hill,6/19/2012,1,F,1,Entire home/apt,2,1 bath,0,1,128.00,3
+665,Capitol Hill,2/17/2015,1,F,1,Entire home/apt,4,1 bath,1,1,140.00,31
+676,Downtown,3/30/2015,0.99,F,2117,Entire home/apt,5,2 baths,2,2,397.00,1
+682,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,84.00,1
+684,Columbia Heights,12/17/2016,0.87,F,2,Private room,1,1 shared bath,1,1,86.00,2
+697,Columbia Heights,6/16/2016,0.95,F,11,Private room,4,1 private bath,1,1,76.00,2
+701,Union Station,3/12/2013,1,F,1,,2,1 bath,0,1,180.00,2
+702,Union Station,10/8/2013,0.99,F,2,Entire home/apt,3,1 bath,1,1,92.00,1
+704,Columbia Heights,1/4/2017,0.89,F,1,Entire home/apt,3,2 baths,2,2,124.00,3
+711,Union Station,9/23/2014,1,F,1,Entire home/apt,3,1 bath,1,2,185.00,2
+715,Union Station,10/14/2015,1,F,147,Entire home/apt,4,1 bath,1,2,122.00,3
+721,Edgewood,12/10/2010,0.76,F,91,Private room,1,3 shared baths,1,1,36.00,31
+731,Edgewood,1/23/2017,1,F,1,Entire home/apt,4,1 bath,2,3,134.00,1
+737,Columbia Heights,3/29/2010,0.25,F,1,Entire home/apt,3,2 baths,2,1,110.00,80
+745,Kalorama Heights,8/4/2016,1,F,8,Entire home/apt,2,1 bath,0,1,116.00,2
+747,Union Station,8/18/2013,1,F,1,Entire home/apt,4,1 bath,1,1,107.00,2
+748,Edgewood,11/17/2009,0.19,F,17,Private room,1,1 private bath,1,1,56.00,32
+753,Georgetown,11/23/2011,1,F,3,,1,1 bath,1,1,102.00,3
+773,Columbia Heights,2/15/2011,0.89,F,5,Entire home/apt,4,1 bath,2,2,187.00,3
+792,Shaw,2/26/2013,0.99,F,7,Entire home/apt,4,1 bath,1,2,174.00,2
+798,Edgewood,4/17/2017,1,F,3,Entire home/apt,4,1 bath,1,2,99.00,1
+799,Columbia Heights,6/11/2011,0.97,F,3,Entire home/apt,2,1 bath,0,1,114.00,3
+800,Dupont Circle,7/29/2015,0.99,F,777,Private room,2,1 private bath,0,1,116.00,1
+802,Dupont Circle,1/13/2017,0.94,F,7,,2,1 bath,0,1,127.00,31
+806,Capitol Hill,5/11/2016,0.99,F,8,Entire home/apt,3,1 bath,1,3,354.00,1
+808,Union Station,6/21/2016,0.79,F,3,Entire home/apt,5,2 baths,3,3,139.00,31
+809,Dupont Circle,1/13/2017,0.94,F,7,Entire home/apt,4,2.5 baths,2,2,280.00,31
+817,Dupont Circle,7/29/2015,0.99,F,777,Private room,2,1 private bath,1,1,111.00,1
+820,Shaw,5/11/2017,0.96,F,1,Entire home/apt,5,1 bath,1,2,129.00,1
+828,Dupont Circle,3/11/2015,0.99,F,5,Entire home/apt,3,1 bath,1,1,175.00,1
+830,Capitol Hill,7/22/2014,1,F,5,Private room,2,1 private bath,1,1,120.00,2
+835,Dupont Circle,7/29/2015,0.99,F,777,Hotel room,2,1 private bath,1,1,106.00,1
+841,Columbia Heights,9/10/2015,1,F,1,Entire home/apt,4,1 bath,2,2,126.00,31
+846,Dupont Circle,7/29/2015,0.99,F,777,Private room,2,1 private bath,0,1,80.00,1
+860,Union Station,12/8/2014,0.95,F,1,Entire home/apt,4,1 bath,1,2,157.00,2
+861,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,3,1 bath,1,2,287.00,2
+867,Columbia Heights,8/27/2011,1,F,2,Entire home/apt,8,1.5 baths,4,6,500.00,1
+869,Union Station,7/5/2017,1,F,3,Private room,1,1 shared bath,1,1,60.00,31
+880,Edgewood,1/1/2016,1,F,1,Entire home/apt,2,1 bath,1,1,91.00,31
+887,Capitol Hill,6/3/2011,1,F,2,Entire home/apt,8,3.5 baths,4,4,335.00,3
+889,Dupont Circle,8/1/2017,1,F,2,Entire home/apt,5,1 bath,2,4,183.00,2
+900,Dupont Circle,3/11/2015,0.99,F,5,Entire home/apt,7,1 bath,2,4,200.00,1
+909,Capitol Hill,8/18/2017,0.94,F,18,Hotel room,4,1 private bath,1,4,113.00,1
+923,Kalorama Heights,4/24/2014,0.47,F,14,Entire home/apt,3,1 bath,1,2,104.00,5
+930,Capitol Hill,8/18/2017,0.94,F,18,Shared room,8,1 shared bath,1,8,26.00,1
+931,Capitol Hill,8/18/2017,0.94,F,18,Shared room,6,1 shared bath,1,6,28.00,1
+939,Edgewood,4/7/2017,0.96,F,21,Entire home/apt,5,1 bath,2,3,134.00,28
+948,Capitol Hill,8/18/2017,0.94,F,18,Private room,4,1 private bath,1,4,99.00,1
+951,Union Station,7/5/2017,1,F,3,Private room,1,1 shared bath,1,1,54.00,31
+956,Edgewood,7/10/2013,1,F,2,Entire home/apt,4,1 bath,2,2,154.00,3
+964,Union Station,10/29/2012,0.91,F,1,Entire home/apt,6,1.5 baths,3,3,185.00,2
+965,Columbia Heights,11/21/2017,1,F,5,Private room,2,1 shared bath,1,1,63.00,1
+970,Downtown,8/9/2013,1,F,7,Private room,1,1 shared bath,1,1,50.00,31
+983,Downtown,12/22/2017,1,F,1,Entire home/apt,2,1 bath,0,1,122.00,2
+985,Columbia Heights,12/25/2017,1,F,1,Entire home/apt,3,1 bath,1,2,88.00,1
+996,Downtown,8/9/2013,1,F,7,Private room,1,1 private bath,0,1,55.00,31
+1008,Capitol Hill,8/18/2017,0.94,F,18,,6,1 bath,1,6,28.00,1
+1015,Columbia Heights,11/21/2017,1,F,5,Private room,2,1 shared bath,1,1,72.00,1
+1017,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,176.00,30
+1018,Capitol Hill,12/4/2016,0.86,F,2,Entire home/apt,4,1 bath,1,1,212.00,2
+1044,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,197.00,1
+1051,Union Station,7/5/2017,1,F,3,Private room,1,1 private bath,1,1,63.00,31
+1064,Columbia Heights,5/16/2014,1,F,5,Private room,2,1 shared bath,1,1,67.00,7
+1070,Union Station,6/11/2016,1,F,2,Entire home/apt,4,1 bath,1,3,107.00,1
+1085,Edgewood,9/26/2013,0.92,F,2,Entire home/apt,3,1 bath,2,2,176.00,4
+1100,Columbia Heights,6/16/2016,0.95,F,11,Private room,2,1 shared bath,1,1,84.00,2
+1102,Capitol Hill,5/1/2018,1,F,1,Entire home/apt,4,1 bath,1,1,108.00,1
+1123,Union Station,5/21/2018,0.98,F,1,Entire home/apt,4,1 bath,1,2,116.00,1
+1131,Kalorama Heights,8/4/2016,1,F,8,,2,1 bath,1,1,137.00,2
+1141,Dupont Circle,12/23/2012,0.71,F,14,Entire home/apt,2,1 bath,1,2,132.00,14
+1155,Edgewood,9/14/2009,1,F,2,Entire home/apt,4,1 bath,1,3,97.00,3
+1158,Georgetown,1/10/2018,1,F,6,Entire home/apt,4,1 bath,0,2,96.00,31
+1161,Union Station,11/30/2016,0.94,F,7,Entire home/apt,2,1 bath,0,1,84.00,31
+1168,Capitol Hill,6/7/2016,1,F,4,Entire home/apt,6,1.5 baths,3,2,241.00,2
+1170,Capitol Hill,8/18/2017,0.94,F,18,Shared room,8,1 shared bath,1,1,32.00,1
+1208,Dupont Circle,8/1/2017,1,F,2,Entire home/apt,5,1 bath,2,4,246.00,2
+1209,Union Station,8/29/2016,0.95,F,1,Entire home/apt,4,1 bath,1,2,121.00,2
+1211,Union Station,11/30/2016,0.94,F,7,Entire home/apt,2,1 bath,1,1,115.00,31
+1212,Shaw,7/6/2018,1,F,2,Private room,1,1 bath,1,1,70.00,2
+1221,Columbia Heights,11/21/2017,1,F,5,Private room,2,1 shared bath,1,1,77.00,1
+1227,Capitol Hill,6/27/2012,0.99,F,11,Entire home/apt,4,1 bath,1,4,138.00,2
+1229,Edgewood,12/2/2015,0.9,F,2,Entire home/apt,3,1 bath,1,1,89.00,2
+1232,Union Station,6/4/2016,1,F,2,Entire home/apt,2,1 bath,1,1,113.00,3
+1234,Union Station,3/20/2014,1,F,1,Entire home/apt,1,1 bath,0,1,100.00,13
+1255,Columbia Heights,9/14/2013,0.8,F,1,Entire home/apt,4,1.5 baths,2,2,171.00,3
+1265,Dupont Circle,11/10/2018,0.97,F,4,Entire home/apt,3,1 bath,1,2,176.00,1
+1281,Georgetown,12/12/2018,1,F,1,Entire home/apt,4,1 bath,1,3,199.00,2
+1282,Columbia Heights,6/29/2013,0.9,F,1,Entire home/apt,2,1 bath,1,2,130.00,4
+1285,Union Station,12/17/2018,0.41,F,1,Entire home/apt,2,1 bath,1,1,135.00,2
+1299,Edgewood,2/4/2015,0.87,F,1,Entire home/apt,2,1 bath,1,1,154.00,3
+1325,Union Station,10/11/2018,1,F,2,Entire home/apt,4,1 bath,1,2,146.00,1
+1340,Shaw,2/6/2014,0.5,F,2,Entire home/apt,4,1 bath,2,2,68.00,31
+1343,Union Station,2/13/2019,0.99,F,1,Entire home/apt,3,1 bath,1,1,141.00,3
+1374,Kalorama Heights,8/4/2016,1,F,8,Entire home/apt,4,1 bath,1,2,122.00,2
+1376,Dupont Circle,11/10/2018,0.97,F,4,Entire home/apt,3,1 bath,1,1,178.00,2
+1397,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,189.00,1
+1421,Georgetown,1/10/2018,1,F,6,Entire home/apt,4,1 bath,0,2,119.00,31
+1464,Columbia Heights,12/28/2017,1,F,2,Entire home/apt,4,2 baths,2,2,157.00,4
+1467,Dupont Circle,10/1/2016,1,F,3,Entire home/apt,1,1 bath,1,1,77.00,31
+1468,Edgewood,6/12/2019,1,F,1,Entire home/apt,4,1.5 baths,2,2,227.00,31
+1475,Columbia Heights,12/10/2010,0.76,F,91,,1,2 shared baths,1,1,35.00,31
+1484,Kalorama Heights,6/19/2019,1,F,11,Entire home/apt,2,1 bath,1,1,162.00,1
+1485,Kalorama Heights,6/19/2019,1,F,11,Entire home/apt,2,1 bath,1,1,158.00,1
+1486,Dupont Circle,6/19/2019,1,F,11,Entire home/apt,2,1 bath,1,1,161.00,1
+1487,Dupont Circle,6/19/2019,1,F,11,Entire home/apt,2,1 bath,1,1,158.00,1
+1489,Dupont Circle,6/19/2019,1,F,11,Entire home/apt,2,1 bath,0,1,124.00,1
+1490,Capitol Hill,7/1/2019,0.99,F,1,Entire home/apt,4,1 bath,0,2,71.00,2
+1515,Capitol Hill,7/27/2019,1,F,3,Private room,2,1.5 baths,1,2,209.00,2
+1521,Capitol Hill,7/30/2019,0.95,F,4,Private room,2,1 shared bath,1,3,112.00,1
+1523,Columbia Heights,12/10/2010,0.76,F,91,Private room,1,2 shared baths,1,1,38.00,31
+1537,Kalorama Heights,8/25/2017,0.85,F,1,Entire home/apt,2,1 bath,1,1,135.00,2
+1555,Union Station,8/17/2019,1,F,1,Entire home/apt,4,1 bath,1,2,136.00,2
+1563,Foggy Bottom,8/27/2019,0.94,F,2,Entire home/apt,4,1 bath,2,3,185.00,2
+1595,Edgewood,7/22/2017,1,F,1,Entire home/apt,4,1 bath,1,3,122.00,1
+1615,Dupont Circle,10/24/2019,1,F,10,,2,1 bath,1,0,242.00,1
+1644,Union Station,9/3/2018,0.98,F,1,Entire home/apt,4,1 bath,2,2,90.00,1
+1652,Capitol Hill,9/23/2013,0.82,F,2,Entire home/apt,1,1 bath,0,2,92.00,7
+1667,Shaw,5/11/2016,1,F,8,Shared room,1,1 shared bath,1,12,75.00,1
+1668,Downtown,5/11/2016,1,F,8,Shared room,1,1 shared bath,1,10,80.00,1
+1669,Downtown,5/11/2016,1,F,8,Shared room,1,1 shared bath,1,8,84.00,1
+1670,Shaw,5/11/2016,1,F,8,Shared room,1,1 shared bath,1,6,90.00,1
+1671,Shaw,5/11/2016,1,F,8,Shared room,1,1 shared bath,1,1,91.00,1
+1672,Downtown,5/11/2016,1,F,8,Shared room,1,1 shared bath,1,4,96.00,1
+1673,Shaw,5/11/2016,1,F,8,Shared room,1,1 shared bath,1,2,118.00,1
+1677,Union Station,9/7/2015,0.98,F,1,Entire home/apt,4,1 bath,2,2,247.00,2
+1688,Kalorama Heights,7/30/2014,0.88,F,3,Entire home/apt,2,1 bath,1,1,138.00,4
+1691,Columbia Heights,2/15/2011,0.89,F,5,,4,2 baths,2,2,135.00,3
+1696,Capitol Hill,7/4/2012,0.9,F,1,Entire home/apt,2,1 bath,1,1,154.00,2
+1698,Georgetown,7/6/2015,0.96,F,1,Entire home/apt,4,1 bath,1,3,148.00,2
+1703,Shaw,11/10/2017,0.58,F,3,Entire home/apt,4,1 bath,1,2,72.00,1
+1705,Union Station,6/21/2017,0.96,F,2,Entire home/apt,4,1 bath,0,2,91.00,2
+1708,Downtown,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,270.00,31
+1709,Edgewood,6/11/2015,1,F,1,Private room,1,2 baths,1,1,105.00,2
+1711,Capitol Hill,11/3/2015,1,F,2,Private room,3,1 private bath,1,1,102.00,2
+1715,Columbia Heights,5/16/2014,1,F,5,Private room,1,1 shared bath,1,1,46.00,7
+1726,Downtown,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,241.00,31
+1736,Kalorama Heights,11/23/2018,0.98,F,32,Entire home/apt,2,1 bath,0,2,76.00,31
+1738,Kalorama Heights,1/6/2020,1,F,14,Private room,2,1 private bath,1,2,195.00,1
+1752,Edgewood,5/11/2016,0.89,F,3,Entire home/apt,4,1 bath,2,2,170.00,31
+1764,Columbia Heights,6/16/2016,0.95,F,11,Private room,8,1 shared bath,2,2,96.00,2
+1768,Kalorama Heights,1/6/2020,1,F,14,Private room,2,1 bath,1,1,177.00,1
+1774,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,145.00,31
+1791,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,174.00,2
+1792,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,176.00,2
+1793,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,209.00,2
+1796,Edgewood,10/8/2013,1,F,5,Entire home/apt,4,1 bath,1,2,87.00,28
+1799,Edgewood,5/11/2020,0.94,F,1,Entire home/apt,3,1 bath,1,2,101.00,2
+1807,Edgewood,3/7/2015,0.8,F,3,Entire home/apt,3,1 bath,1,2,140.00,4
+1810,Dupont Circle,6/19/2019,1,F,11,Entire home/apt,2,1 bath,0,1,139.00,1
+1811,Kalorama Heights,6/19/2019,1,F,11,Private room,2,1 private bath,0,1,130.00,1
+1812,Dupont Circle,6/19/2019,1,F,11,Private room,2,1 bath,1,1,155.00,1
+1821,Capitol Hill,5/10/2013,0.83,F,1,Entire home/apt,4,1 bath,1,2,198.00,1
+1826,Union Station,8/5/2015,1,F,6,Private room,2,1 private bath,1,1,125.00,1
+1827,Union Station,8/5/2015,1,F,6,Private room,2,1 private bath,1,2,147.00,1
+1828,Union Station,8/5/2015,1,F,6,Private room,3,1 private bath,1,2,161.00,1
+1829,Capitol Hill,9/28/2011,0.5,F,3,Entire home/apt,4,2.5 baths,2,3,202.00,3
+1832,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,161.00,1
+1833,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,1,167.00,31
+1834,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,1,139.00,31
+1852,Union Station,6/24/2019,0.71,F,1,Entire home/apt,2,1 bath,1,1,126.00,2
+1859,Capitol Hill,8/4/2020,0.92,F,1,Entire home/apt,2,1 bath,0,1,114.00,2
+1865,Union Station,7/29/2020,1,F,4,Entire home/apt,5,1.5 baths,2,2,279.00,4
+1881,Shaw,6/19/2016,0.9,F,6,Private room,4,2.5 shared baths,2,2,256.00,3
+1888,Capitol Hill,11/14/2019,1,F,3,Shared room,1,1 shared bath,1,6,70.00,1
+1889,Capitol Hill,11/14/2019,1,F,3,Shared room,1,1 shared bath,1,0,81.00,1
+1890,Capitol Hill,11/14/2019,1,F,3,Shared room,1,1 shared bath,1,0,89.00,1
+1896,Columbia Heights,9/26/2020,0.75,F,3,Entire home/apt,2,1 bath,0,3,82.00,31
+1919,Capitol Hill,10/13/2020,0.99,F,1,Entire home/apt,2,1 bath,0,1,126.00,2
+1924,Columbia Heights,7/29/2017,1,F,5,Entire home/apt,2,1 bath,0,1,67.00,3
+1946,Shaw,7/29/2015,0.99,F,777,Entire home/apt,6,2 baths,2,4,218.00,2
+1952,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,167.00,31
+1953,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,210.00,31
+1954,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,193.00,31
+1959,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,162.00,31
+1961,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,2,153.00,31
+1973,Columbia Heights,12/23/2017,1,F,1,Entire home/apt,6,1 bath,2,2,194.00,3
+1978,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,232.00,1
+1979,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,210.00,2
+2003,Union Station,6/11/2016,1,F,2,Entire home/apt,5,1 bath,1,1,107.00,1
+2004,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,158.00,1
+2008,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,145.00,31
+2010,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,111.00,31
+2011,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,6,1 bath,2,3,361.00,2
+2016,Union Station,11/17/2009,0.19,F,17,Private room,1,Shared half-bath,1,1,66.00,4
+2027,Kalorama Heights,3/27/2014,1,F,2,Private room,2,1 private bath,1,1,90.00,31
+2049,Dupont Circle,1/25/2021,1,F,1,Entire home/apt,2,1 bath,0,2,67.00,2
+2059,Downtown,1/2/2021,0.99,F,20,Entire home/apt,6,1 bath,2,2,158.00,1
+2065,Kalorama Heights,1/6/2020,1,F,14,Private room,2,1 bath,1,1,173.00,1
+2068,Union Station,3/12/2017,0.99,F,2,Entire home/apt,6,2.5 baths,3,3,315.00,2
+2079,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,1,226.00,31
+2080,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,3,1 bath,1,1,208.00,1
+2089,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,112.00,1
+2090,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,250.00,2
+2093,Foggy Bottom,2/22/2021,0.98,F,6,,6,1 bath,1,3,241.00,1
+2095,Union Station,1/12/2017,0.97,F,1,,3,1 bath,1,2,149.00,3
+2111,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,1,110.00,31
+2114,Dupont Circle,3/11/2021,0.98,F,8,Entire home/apt,2,1 bath,1,1,94.00,1
+2115,Dupont Circle,3/11/2021,0.98,F,8,Entire home/apt,2,1 bath,1,1,94.00,1
+2116,Dupont Circle,3/11/2021,0.98,F,8,Entire home/apt,2,1 bath,1,1,125.00,1
+2117,Dupont Circle,3/11/2021,0.98,F,8,Entire home/apt,3,1 bath,1,2,103.00,1
+2118,Dupont Circle,3/11/2021,0.98,F,8,Entire home/apt,3,1 bath,1,1,107.00,1
+2130,Shaw,1/26/2021,1,F,41,Private room,5,1 private bath,0,2,96.00,1
+2131,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,122.00,1
+2141,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,109.00,1
+2154,Edgewood,8/9/2015,1,F,2,Entire home/apt,4,1 bath,1,2,121.00,2
+2157,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,2 baths,2,2,276.00,31
+2162,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,221.00,2
+2169,Kalorama Heights,1/6/2020,1,F,14,Private room,2,1 bath,1,2,195.00,1
+2172,Edgewood,8/20/2018,0.97,F,34,Entire home/apt,2,1 bath,1,1,86.00,1
+2174,Downtown,6/8/2020,1,F,10,Entire home/apt,5,1 bath,2,3,174.00,1
+2177,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,2,3,259.00,2
+2183,Dupont Circle,6/8/2015,1,F,5,Entire home/apt,2,1 bath,0,2,175.00,1
+2184,Columbia Heights,8/9/2014,1,F,4,Private room,2,1 shared bath,1,1,73.00,1
+2185,Columbia Heights,8/9/2014,1,F,4,Private room,2,1 shared bath,1,1,59.00,1
+2193,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,201.00,31
+2194,Union Station,5/15/2021,0.98,F,3,Entire home/apt,5,1 bath,2,2,188.00,2
+2200,Downtown,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,223.00,31
+2202,Dupont Circle,5/17/2021,0.98,F,4,Entire home/apt,4,1 bath,1,2,110.00,2
+2205,Kalorama Heights,1/6/2020,1,F,14,Private room,4,1 bath,1,1,195.00,1
+2206,Kalorama Heights,1/6/2020,1,F,14,Private room,2,1 shared bath,1,1,157.00,1
+2209,Union Station,9/11/2015,1,F,1,Entire home/apt,5,1 bath,1,3,144.00,2
+2230,Shaw,1/24/2019,1,F,6,Private room,2,2 shared baths,1,1,118.00,1
+2234,Capitol Hill,7/29/2015,0.99,F,777,,3,1 bath,1,2,266.00,1
+2238,Shaw,1/24/2019,1,F,6,Private room,2,2 shared baths,1,1,118.00,1
+2239,Shaw,1/24/2019,1,F,6,Private room,2,2 shared baths,1,1,118.00,1
+2240,Shaw,1/24/2019,1,F,6,Private room,2,2 shared baths,1,1,118.00,1
+2241,Shaw,1/24/2019,1,F,6,Private room,2,2 shared baths,1,1,138.00,1
+2243,Kalorama Heights,8/4/2016,1,F,8,Entire home/apt,4,1 bath,1,2,116.00,2
+2253,Downtown,1/21/2018,1,F,4,Entire home/apt,4,1 bath,1,2,116.00,3
+2260,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,134.00,31
+2283,Dupont Circle,4/6/2018,0.19,F,12,Entire home/apt,4,1 bath,1,2,100.00,31
+2333,Capitol Hill,2/12/2020,1,F,1,Entire home/apt,6,1 bath,2,3,267.00,2
+2362,Dupont Circle,8/13/2013,0.98,F,217,Entire home/apt,6,2 baths,3,3,275.00,30
+2363,Dupont Circle,8/13/2013,0.98,F,217,Entire home/apt,6,3 baths,3,3,286.00,29
+2374,Capitol Hill,4/7/2021,0.98,F,10,Entire home/apt,6,2 baths,2,3,251.00,3
+2390,Foggy Bottom,2/22/2021,0.98,F,6,Entire home/apt,2,1 bath,1,2,194.00,1
+2391,Foggy Bottom,2/22/2021,0.98,F,6,Entire home/apt,4,1 bath,1,2,211.00,1
+2397,Shaw,9/7/2021,0.99,F,15,Entire home/apt,5,1 bath,2,3,227.00,31
+2405,Edgewood,7/29/2021,1,F,3,Private room,2,1.5 shared baths,1,1,151.00,31
+2407,Dupont Circle,1/22/2015,1,F,1,Entire home/apt,4,2 baths,2,2,132.00,31
+2412,Union Station,6/1/2021,1,F,2,Entire home/apt,10,2.5 baths,3,4,553.00,31
+2415,Edgewood,10/18/2016,1,F,2,Entire home/apt,3,1 bath,1,2,95.00,31
+2429,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,151.00,31
+2430,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,162.00,31
+2435,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,109.00,2
+2436,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,151.00,31
+2437,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,215.00,2
+2442,Capitol Hill,10/25/2021,0.98,F,11,Entire home/apt,2,1 bath,1,1,134.00,2
+2457,Capitol Hill,10/25/2021,0.98,F,11,Entire home/apt,2,1 bath,1,1,124.00,2
+2472,Edgewood,2/25/2012,0.99,F,6,Entire home/apt,4,1 bath,2,3,153.00,2
+2480,Edgewood,8/14/2021,0.99,F,15,Private room,3,2 shared baths,0,2,50.00,1
+2482,Edgewood,8/14/2021,0.99,F,15,Private room,2,2 shared baths,1,1,47.00,1
+2484,Edgewood,8/14/2021,0.99,F,15,Private room,1,2 shared baths,1,1,43.00,1
+2485,Edgewood,8/14/2021,0.99,F,15,Private room,2,2 shared baths,1,1,46.00,1
+2487,Edgewood,11/22/2021,1,F,2,Entire home/apt,2,1.5 baths,0,1,110.00,31
+2489,Union Station,11/23/2021,1,F,1,Entire home/apt,6,1.5 baths,2,3,351.00,3
+2490,Capitol Hill,5/11/2016,0.99,F,8,Entire home/apt,4,1.5 baths,2,3,401.00,1
+2494,Capitol Hill,12/22/2016,1,F,1,Entire home/apt,5,1 bath,2,3,225.00,2
+2495,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,130.00,2
+2501,Union Station,10/14/2015,1,F,147,Entire home/apt,8,2.5 baths,2,3,466.00,3
+2505,Capitol Hill,12/30/2014,0.99,F,1,Entire home/apt,4,1 bath,1,2,108.00,2
+2512,Dupont Circle,10/8/2013,0.99,F,6,Entire home/apt,5,2 baths,2,2,211.00,1
+2515,Edgewood,11/11/2013,0.97,F,1,Entire home/apt,3,1 bath,1,2,101.00,1
+2520,Union Station,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,214.00,31
+2526,Georgetown,10/8/2018,1,F,92,Entire home/apt,2,1 bath,0,1,300.00,1
+2527,Georgetown,10/8/2018,1,F,92,Entire home/apt,2,1 bath,0,1,279.00,1
+2528,Georgetown,10/8/2018,1,F,92,Entire home/apt,6,2 baths,2,3,524.00,1
+2529,Georgetown,10/8/2018,1,F,92,Entire home/apt,2,1 bath,0,1,229.00,1
+2530,Georgetown,10/8/2018,1,F,92,Entire home/apt,4,1 bath,0,2,313.00,1
+2531,Georgetown,10/8/2018,1,F,92,Entire home/apt,4,1 bath,1,2,321.00,1
+2532,Georgetown,10/8/2018,1,F,92,Entire home/apt,4,1 bath,1,2,324.00,1
+2533,Georgetown,10/8/2018,1,F,92,Entire home/apt,4,1 bath,1,2,232.00,1
+2544,Capitol Hill,12/27/2021,0.94,F,1,Entire home/apt,6,1.5 baths,3,2,221.00,2
+2550,Georgetown,10/8/2018,1,F,92,Entire home/apt,4,1 bath,1,2,332.00,1
+2552,Edgewood,12/10/2010,0.76,F,91,Private room,1,3 shared baths,1,1,34.00,31
+2576,Capitol Hill,10/25/2021,0.98,F,11,Entire home/apt,4,1.5 baths,2,2,165.00,2
+2588,Capitol Hill,1/20/2022,0.84,F,1,Entire home/apt,6,2.5 baths,3,3,270.00,2
+2601,Union Station,7/29/2015,0.99,F,777,Entire home/apt,12,4 baths,5,6,492.00,3
+2605,Dupont Circle,3/9/2019,0.98,F,26,Entire home/apt,2,2 baths,1,1,160.00,30
+2612,Edgewood,2/25/2012,0.99,F,6,Entire home/apt,4,1 bath,2,2,109.00,2
+2614,Georgetown,10/8/2018,1,F,92,Entire home/apt,2,1 bath,0,1,249.00,1
+2617,Shaw,6/1/2018,1,F,5,Entire home/apt,4,1 bath,2,2,117.00,3
+2621,Edgewood,2/7/2022,0.9,F,1,Entire home/apt,4,1 bath,1,3,62.00,2
+2636,Capitol Hill,7/30/2019,0.95,F,4,Entire home/apt,6,1 bath,2,3,243.00,2
+2637,Capitol Hill,7/30/2019,0.95,F,4,Private room,6,1 shared bath,1,3,109.00,1
+2642,Edgewood,12/10/2010,0.76,F,91,Private room,1,3 shared baths,1,1,34.00,31
+2649,Union Station,8/30/2021,0.91,F,2,Entire home/apt,4,1 bath,1,1,190.00,3
+2651,Capitol Hill,2/28/2022,1,F,1,Entire home/apt,4,1.5 baths,2,2,329.00,2
+2665,Foggy Bottom,2/22/2021,0.98,F,6,Entire home/apt,2,1 bath,1,1,194.00,1
+2666,Foggy Bottom,2/22/2021,0.98,F,6,Entire home/apt,2,1 bath,1,1,190.00,1
+2670,Capitol Hill,6/2/2014,0.97,F,4,Entire home/apt,10,2.5 baths,4,6,240.00,28
+2674,Shaw,12/16/2016,0.97,F,5683,,2,1 bath,1,1,301.00,31
+2693,Union Station,7/22/2014,1,F,5,Private room,2,1 private bath,1,1,135.00,2
+2703,Capitol Hill,7/20/2019,0.98,F,2,Entire home/apt,6,1.5 baths,2,3,182.00,1
+2706,Union Station,6/30/2016,0.98,F,2,Entire home/apt,2,1 bath,0,1,109.00,3
+2717,Georgetown,11/19/2021,1,F,8,Private room,2,1 shared bath,1,1,334.00,1
+2721,Shaw,6/22/2020,0.98,F,6,Entire home/apt,2,1 bath,1,1,121.00,2
+2738,Capitol Hill,4/10/2016,0.78,F,1,Entire home/apt,5,1 bath,1,2,143.00,1
+2753,Union Station,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,214.00,31
+2765,Columbia Heights,3/23/2022,1,F,1,Entire home/apt,4,1 bath,2,2,151.00,3
+2790,Edgewood,5/1/2022,0.89,F,6,Private room,1,1 shared bath,1,1,53.00,31
+2794,Edgewood,5/1/2022,0.89,F,6,Private room,1,1 shared bath,1,1,44.00,31
+2799,Capitol Hill,7/30/2019,0.95,F,4,Entire home/apt,8,1.5 baths,2,3,229.00,7
+2801,Dupont Circle,6/22/2020,0.98,F,6,Entire home/apt,2,1 bath,1,1,100.00,31
+2803,Edgewood,12/10/2010,0.76,F,91,Private room,1,3 shared baths,1,1,35.00,31
+2804,Edgewood,12/10/2010,0.76,F,91,Private room,1,3 shared baths,1,1,35.00,31
+2826,Shaw,6/22/2020,0.98,F,6,Entire home/apt,5,1 bath,2,2,158.00,4
+2841,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,178.00,31
+2876,Edgewood,8/14/2021,0.99,F,15,Private room,1,2 shared baths,1,1,46.00,1
+2877,Edgewood,8/14/2021,0.99,F,15,Private room,2,2 shared baths,1,1,48.00,1
+2878,Edgewood,8/14/2021,0.99,F,15,Private room,1,2 shared baths,1,1,53.00,1
+2879,Edgewood,8/14/2021,0.99,F,15,Private room,3,2 shared baths,1,2,54.00,1
+2897,Edgewood,3/2/2016,1,F,2,Entire home/apt,4,1 bath,1,1,109.00,3
+2925,Capitol Hill,10/5/2013,0.98,F,1,Entire home/apt,4,1 bath,1,2,150.00,2
+2927,Dupont Circle,7/26/2013,1,F,2,Entire home/apt,2,1 bath,1,1,60.00,31
+2950,Edgewood,10/25/2021,0.98,F,11,Entire home/apt,4,2 baths,2,2,94.00,2
+2964,Shaw,4/5/2022,0.99,F,1,Entire home/apt,4,1 bath,1,1,154.00,2
+2966,Downtown,5/16/2022,0.99,F,29,Entire home/apt,6,1 bath,2,2,149.00,1
+2975,Downtown,8/4/2021,1,F,7,Private room,2,1 private bath,1,1,267.00,1
+2982,Dupont Circle,5/17/2021,0.98,F,4,Entire home/apt,3,1 bath,1,2,138.00,2
+2989,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,2,2,252.00,1
+2996,Columbia Heights,7/29/2017,1,F,5,Entire home/apt,4,1.5 baths,2,2,105.00,3
+3004,Edgewood,8/30/2022,1,F,1,Entire home/apt,3,1 bath,1,2,83.00,2
+3019,Columbia Heights,9/9/2022,0.99,F,2,Entire home/apt,4,1 bath,2,2,89.00,2
+3024,Columbia Heights,6/7/2012,1,F,1,Entire home/apt,3,1 bath,1,3,64.00,31
+3034,Columbia Heights,5/1/2022,0.89,F,6,Private room,1,1 shared bath,1,1,43.00,31
+3060,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,213.00,2
+3063,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,152.00,31
+3070,Kalorama Heights,10/24/2017,1,F,4,Entire home/apt,5,1 bath,2,2,115.00,31
+3077,Union Station,7/29/2015,0.99,F,777,Entire home/apt,6,1 bath,2,2,119.00,31
+3098,Downtown,2/1/2017,1,F,1,Entire home/apt,4,1 bath,1,2,120.00,1
+3106,Edgewood,11/5/2022,0.95,F,2,Entire home/apt,4,1 bath,2,0,151.00,1
+3120,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,144.00,31
+3123,Edgewood,3/5/2019,1,F,2,Private room,2,1 shared bath,1,1,64.00,2
+3124,Edgewood,3/5/2019,1,F,2,Private room,2,1 shared bath,1,1,71.00,2
+3128,Kalorama Heights,11/18/2022,1,F,1,Entire home/apt,10,5 baths,5,6,766.00,3
+3132,Downtown,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,223.00,31
+3136,Columbia Heights,9/9/2022,0.99,F,2,Entire home/apt,4,1 bath,2,2,105.00,2
+3139,Dupont Circle,3/11/2021,0.98,F,8,Entire home/apt,2,1 bath,1,1,116.00,1
+3154,Edgewood,9/5/2016,0.92,F,3,Entire home/apt,4,2 baths,2,2,169.00,2
+3160,Union Station,7/9/2020,1,F,4,Entire home/apt,5,1 bath,1,3,198.00,3
+3173,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,234.00,1
+3174,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,187.00,1
+3176,Columbia Heights,7/29/2015,0.99,F,777,Entire home/apt,5,1 bath,2,3,240.00,31
+3184,Columbia Heights,10/22/2013,0.68,F,1,Entire home/apt,4,1 bath,2,2,155.00,3
+3185,Dupont Circle,6/8/2015,1,F,5,Entire home/apt,2,1 bath,0,2,96.00,31
+3194,Dupont Circle,3/11/2021,0.98,F,8,Private room,2,1 private bath,1,1,89.00,1
+3196,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,209.00,2
+3197,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,209.00,2
+3203,Shaw,1/2/2023,1,F,14,Private room,3,1 private bath,1,2,111.00,1
+3206,Edgewood,7/13/2018,1,F,2,Entire home/apt,2,1 bath,1,1,77.00,2
+3218,Columbia Heights,7/29/2015,0.99,F,777,Entire home/apt,4,2 baths,2,2,122.00,1
+3219,Union Station,7/9/2020,1,F,4,Entire home/apt,4,1 bath,1,3,123.00,4
+3238,Edgewood,3/16/2016,0.46,F,5,Private room,2,1 private bath,1,3,98.00,30
+3246,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,0,128.00,31
+3260,Columbia Heights,3/24/2017,1,F,2762,Entire home/apt,4,1 bath,2,3,123.00,2
+3262,Union Station,7/9/2020,1,F,4,Private room,2,1 private bath,1,0,130.00,1
+3273,Shaw,1/2/2023,1,F,14,Private room,3,1 private bath,1,2,107.00,1
+3288,Kalorama Heights,3/8/2014,0.68,F,37,Entire home/apt,2,1 bath,1,1,192.00,31
+3298,Georgetown,10/24/2014,0.92,F,3,Entire home/apt,6,2.5 baths,2,2,239.00,3
+3312,Shaw,1/2/2023,1,F,14,Private room,3,1 private bath,1,2,110.00,1
+3323,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,1,234.00,1
+3327,Union Station,6/27/2012,0.99,F,11,Entire home/apt,6,1 bath,2,3,129.00,2
+3350,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,139.00,31
+3378,Union Station,10/14/2013,0.99,F,1376,Entire home/apt,5,2 baths,2,2,341.00,1
+3381,Edgewood,12/7/2011,1,F,1,Entire home/apt,4,1 bath,2,2,135.00,31
+3401,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,1,144.00,31
+3402,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,167.00,31
+3404,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,217.00,31
+3406,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,167.00,31
+3427,Foggy Bottom,9/4/2015,0.71,F,3,Entire home/apt,2,1 bath,1,1,102.00,31
+3431,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,185.00,1
+3440,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,180.00,1
+3459,Shaw,6/2/2018,0.95,F,1,Entire home/apt,2,1 bath,1,2,190.00,2
+3462,Kalorama Heights,1/6/2020,1,F,14,Private room,1,1 bath,1,1,58.00,1
+3471,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,167.00,1
+3496,Dupont Circle,10/24/2019,1,F,10,Entire home/apt,2,1 bath,1,1,195.00,1
+3498,Dupont Circle,10/24/2019,1,F,10,Entire home/apt,2,1 bath,0,1,205.00,1
+3499,Dupont Circle,10/24/2019,1,F,10,Entire home/apt,2,1 bath,1,1,224.00,1
+3500,Dupont Circle,10/24/2019,1,F,10,Entire home/apt,2,1 bath,1,1,234.00,1
+3501,Dupont Circle,10/24/2019,1,F,10,Entire home/apt,2,1 bath,1,1,267.00,1
+3507,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,3,1 bath,1,2,254.00,2
+3522,Downtown,7/29/2015,0.99,F,777,Entire home/apt,4,2 baths,2,2,190.00,31
+3525,Union Station,8/6/2020,0.92,F,73,,7,2.5 baths,3,4,255.00,1
+3537,Edgewood,3/24/2017,1,F,2762,Entire home/apt,4,1 bath,2,2,121.00,2
+3550,Dupont Circle,3/8/2015,0.75,F,1,Entire home/apt,2,1 bath,1,1,131.00,2
+3563,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,278.00,1
+3569,Columbia Heights,12/7/2013,0.89,F,1,Entire home/apt,2,1 bath,1,0,153.00,1
+3573,Union Station,8/12/2014,1,F,3,Entire home/apt,4,1 bath,1,2,176.00,2
+3591,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,6,2 baths,2,3,220.00,1
+3596,Georgetown,10/21/2014,0.98,F,14,Entire home/apt,2,1 bath,1,1,212.00,1
+3597,Georgetown,10/21/2014,0.98,F,14,Entire home/apt,2,1 bath,1,1,180.00,1
+3598,Shaw,1/2/2023,1,F,14,Private room,2,1 private bath,1,2,99.00,1
+3599,Shaw,1/2/2023,1,F,14,Private room,3,1 private bath,1,2,100.00,1
+3612,Shaw,1/2/2023,1,F,14,Private room,2,1 shared bath,1,1,88.00,1
+3615,Shaw,1/2/2023,1,F,14,Private room,1,1 private bath,1,1,90.00,1
+3620,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,6,1.5 baths,3,4,313.00,31
+3627,Columbia Heights,7/29/2015,0.99,F,777,Entire home/apt,6,2 baths,3,3,341.00,31
+3631,Union Station,4/7/2021,0.98,F,10,Entire home/apt,8,2 baths,4,6,191.00,2
+3659,Columbia Heights,7/29/2015,0.99,F,777,Entire home/apt,6,2 baths,3,3,274.00,31
+3676,Shaw,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,2,2,150.00,1
+3677,Shaw,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,2,2,150.00,1
+3680,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,180.00,3
+3685,Dupont Circle,9/14/2015,1,F,7,Entire home/apt,2,1 bath,1,1,55.00,31
+3715,Columbia Heights,5/8/2015,0.6,F,1,Private room,2,1.5 baths,1,1,131.00,1
+3717,Edgewood,8/14/2018,0.94,F,3,Entire home/apt,2,1 bath,1,2,184.00,1
+3737,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,2,2,276.00,1
+3747,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1.5 baths,2,2,174.00,2
+3749,Shaw,2/26/2013,0.99,F,7,Entire home/apt,8,2 baths,4,4,314.00,2
+3770,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,6,3 baths,2,3,305.00,31
+3784,Capitol Hill,10/22/2013,0.99,F,2,Entire home/apt,4,1 bath,1,2,157.00,2
+3789,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,3,1 bath,1,2,108.00,1
+3793,Columbia Heights,11/13/2015,0.91,F,1,Entire home/apt,4,1 bath,0,2,93.00,1
+3819,Columbia Heights,4/4/2012,0.82,F,21,,1,1.5 shared baths,1,1,45.00,31
+3820,Downtown,8/4/2021,1,F,7,Private room,4,1 private bath,1,2,271.00,1
+3821,Kalorama Heights,8/4/2016,1,F,8,Entire home/apt,2,1 bath,0,1,97.00,2
+3825,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,234.00,1
+3830,Union Station,7/29/2015,0.99,F,777,Entire home/apt,6,2 baths,2,2,208.00,3
+3837,Columbia Heights,4/4/2012,0.82,F,21,Private room,1,1.5 shared baths,1,1,42.00,31
+3847,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,205.00,3
+3862,Kalorama Heights,2/20/2023,0.87,F,6397,,2,1 bath,1,1,50000.00,1
+3872,Kalorama Heights,2/20/2023,0.87,F,6397,,8,2 baths,2,4,50000.00,1
+3874,Kalorama Heights,2/20/2023,0.87,F,6397,Hotel room,12,3 baths,3,6,50000.00,1
+3876,Kalorama Heights,2/20/2023,0.87,F,6397,Hotel room,16,4 baths,4,8,50000.00,1
+3904,Shaw,7/29/2015,0.99,F,777,Entire home/apt,5,2 baths,2,3,216.00,3
+3905,Shaw,7/29/2015,0.99,F,777,Entire home/apt,7,2 baths,2,4,206.00,3
+3916,Union Station,1/23/2017,1,F,1,Entire home/apt,6,2 baths,3,4,421.00,2
+3940,Union Station,4/7/2021,0.98,F,10,Entire home/apt,8,3 baths,4,7,166.00,2
+3957,Shaw,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,113.00,2
+3963,Edgewood,11/29/2019,1,F,2,Entire home/apt,3,1 bath,1,2,116.00,1
+3965,Downtown,10/14/2013,0.99,F,1376,Entire home/apt,3,1 bath,1,2,338.00,1
+3966,Downtown,10/14/2013,0.99,F,1376,Entire home/apt,5,2 baths,2,2,397.00,1
+3975,Columbia Heights,10/2/2017,1,F,9,Entire home/apt,2,1 bath,1,0,68.00,31
+4006,Dupont Circle,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,237.00,31
+4010,Shaw,12/16/2016,0.97,F,5683,Entire home/apt,4,2.5 baths,2,2,310.00,31
+4027,Union Station,7/29/2015,0.99,F,777,Entire home/apt,4,2.5 baths,2,2,308.00,1
+4046,Union Station,10/14/2013,0.99,F,1376,Entire home/apt,3,1 bath,1,1,224.00,1
+4051,Union Station,10/14/2013,0.99,F,1376,Entire home/apt,3,1 bath,1,1,234.00,1
+4069,Union Station,12/19/2017,0.99,F,1148,Entire home/apt,3,1 bath,1,1,272.00,1
+4081,Dupont Circle,10/14/2015,1,F,147,Entire home/apt,6,1 bath,2,3,387.00,31
+4091,Columbia Heights,9/18/2015,0.97,F,1,Private room,3,1 private bath,1,2,98.00,1
+4097,Downtown,9/16/2016,0.99,F,1159,Entire home/apt,3,1 bath,1,2,393.00,1
+4098,Downtown,9/16/2016,0.99,F,1159,Entire home/apt,3,1 bath,1,2,393.00,1
+4099,Downtown,9/16/2016,0.99,F,1159,Entire home/apt,3,1 bath,1,2,393.00,1
+4100,Downtown,9/16/2016,0.99,F,1159,Entire home/apt,3,1 bath,1,2,393.00,1
+4101,Downtown,9/16/2016,0.99,F,1159,Entire home/apt,5,2 baths,2,2,461.00,1
+4102,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,127.00,31
+4103,Edgewood,12/25/2023,0.99,F,5,Entire home/apt,4,1 bath,2,2,181.00,3
+4104,Downtown,12/25/2023,0.99,F,5,Entire home/apt,3,1 bath,1,0,205.00,3
+4110,Union Station,9/16/2016,0.99,F,1159,Entire home/apt,3,1 bath,1,1,260.00,1
+4117,Union Station,9/16/2016,0.99,F,1159,Entire home/apt,3,1 bath,1,1,260.00,1
+4118,Union Station,9/16/2016,0.99,F,1159,Entire home/apt,3,1 bath,1,2,272.00,1
+4129,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,103.00,3
+4131,Downtown,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,195.00,180
+4137,Capitol Hill,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,243.00,31
+4140,Kalorama Heights,3/7/2014,1,F,1,Entire home/apt,4,1 bath,1,2,135.00,2
+4142,Downtown,5/16/2022,0.99,F,29,Entire home/apt,6,1 bath,2,2,152.00,1
+4192,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,137.00,31
+4207,Columbia Heights,7/29/2015,0.99,F,777,Entire home/apt,8,3 baths,4,4,164.00,2
+4208,Edgewood,1/30/2024,0.89,F,1,Entire home/apt,6,1 bath,2,4,133.00,2
+4210,Columbia Heights,7/29/2015,0.99,F,777,,8,3 baths,4,4,256.00,31
+4215,Downtown,1/31/2024,0.99,F,7,Private room,2,1 private bath,1,,284.00,1
+4218,Downtown,1/31/2024,0.99,F,7,Private room,2,1 private bath,1,,300.00,1
+4232,Columbia Heights,5/18/2012,0.89,F,10,Entire home/apt,4,1 bath,1,2,100.00,5
+4245,Capitol Hill,5/6/2022,0.95,F,1,Entire home/apt,2,1 bath,1,1,131.00,4
+4246,Kalorama Heights,9/14/2012,0.08,F,2,Entire home/apt,2,1 bath,1,1,92.00,90
+4259,Downtown,1/19/2022,1,F,62,Entire home/apt,5,2 baths,2,3,394.00,3
+4261,Downtown,1/19/2022,1,F,62,Entire home/apt,5,2 baths,2,3,290.00,3
+4265,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,2 baths,2,2,222.00,31
+4266,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4267,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,234.00,1
+4268,Union Station,2/13/2024,0.99,F,37,,5,2 baths,2,2,341.00,1
+4269,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,234.00,1
+4271,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4272,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4273,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4275,Union Station,2/13/2024,0.99,F,37,Entire home/apt,5,2 baths,2,2,341.00,1
+4276,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,2,234.00,1
+4278,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,248.00,1
+4279,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4280,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4281,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,234.00,1
+4282,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,234.00,1
+4283,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,234.00,1
+4284,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,2,244.00,1
+4286,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,2,234.00,1
+4287,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4288,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4289,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,224.00,1
+4290,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,2,206.00,1
+4291,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,234.00,1
+4293,Union Station,2/13/2024,0.99,F,37,Entire home/apt,5,2 baths,2,2,341.00,1
+4294,Union Station,2/13/2024,0.99,F,37,Entire home/apt,5,2 baths,2,2,341.00,1
+4295,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,1,234.00,1
+4296,Union Station,2/13/2024,0.99,F,37,Entire home/apt,5,1 bath,2,2,274.00,1
+4297,Union Station,2/13/2024,0.99,F,37,Entire home/apt,5,2 baths,2,2,341.00,1
+4298,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,2,234.00,1
+4299,Union Station,2/13/2024,0.99,F,37,Entire home/apt,3,1 bath,1,2,244.00,1
+4302,Union Station,7/2/2020,0.99,F,535,Entire home/apt,4,1.5 baths,2,2,167.00,2
+4304,Shaw,4/9/2017,1,F,1,Entire home/apt,2,1 bath,1,2,164.00,1
+4308,Downtown,9/16/2016,0.99,F,1159,Entire home/apt,5,2 baths,2,2,461.00,1
+4309,Downtown,9/16/2016,0.99,F,1159,Entire home/apt,5,2 baths,2,2,461.00,1
+4311,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,6,2 baths,2,3,235.00,30
+4315,Downtown,10/14/2013,0.99,F,1376,Entire home/apt,3,1 bath,1,2,338.00,1
+4317,Downtown,10/14/2013,0.99,F,1376,Entire home/apt,5,2 baths,2,2,397.00,1
+4320,Union Station,12/19/2017,0.99,F,1148,Entire home/apt,3,1 bath,1,2,283.00,1
+4323,Union Station,12/19/2017,0.99,F,1148,Entire home/apt,3,1 bath,1,2,272.00,1
+4326,Capitol Hill,12/9/2016,1,F,1,Entire home/apt,6,4 baths,2,3,714.00,3
+4328,Downtown,12/4/2023,1,F,1,Private room,2,1 private bath,1,1,245.00,1
+4334,Downtown,12/19/2017,0.99,F,1148,Entire home/apt,3,1 bath,1,2,393.00,1
+4335,Downtown,12/19/2017,0.99,F,1148,Entire home/apt,3,1 bath,1,2,393.00,1
+4337,Downtown,12/19/2017,0.99,F,1148,Entire home/apt,5,2 baths,2,2,461.00,1
+4338,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,1,272.00,1
+4340,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,1,224.00,1
+4351,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,234.00,1
+4353,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,1,234.00,1
+4354,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,1,234.00,1
+4355,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,244.00,1
+4358,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,5,2 baths,2,3,274.00,1
+4389,Edgewood,7/2/2020,0.99,F,535,Entire home/apt,4,1.5 baths,2,2,160.00,1
+4392,Columbia Heights,3/7/2024,1,F,3,Entire home/apt,4,1 bath,2,2,90.00,3
+4393,Columbia Heights,3/7/2024,1,F,3,Entire home/apt,6,2.5 baths,3,3,154.00,3
+4403,Kalorama Heights,1/6/2020,1,F,14,Shared room,1,1 shared bath,1,1,63.00,1
+4404,Kalorama Heights,1/6/2020,1,F,14,,1,1 shared bath,1,1,51.00,1
+4413,Kalorama Heights,2/5/2014,0.99,F,6,Entire home/apt,2,1 bath,1,1,96.00,1
+4452,Edgewood,10/25/2021,0.98,F,11,Entire home/apt,4,1 bath,2,2,220.00,2
+4462,Columbia Heights,6/26/2016,0.91,F,5,Entire home/apt,4,1 bath,1,1,127.00,1
+4475,Columbia Heights,11/29/2023,0.99,F,3,Entire home/apt,4,1 bath,1,2,152.00,1
+4484,Columbia Heights,11/17/2023,0.94,F,3,Private room,1,2 baths,1,1,109.00,3
+4485,Dupont Circle,2/2/2019,0.7,F,8,Private room,2,1 private bath,1,1,128.00,31
+4519,Capitol Hill,7/18/2017,0.65,F,5,Entire home/apt,2,1 bath,0,0,127.00,31
+4577,Downtown,7/29/2015,0.99,F,777,Entire home/apt,4,2 baths,2,2,213.00,31
+4620,Union Station,5/2/2024,0.71,F,1,Private room,5,1 private bath,2,1,235.00,1
+4630,Edgewood,12/13/2016,1,F,1,Entire home/apt,2,1 bath,1,1,172.00,3
+4647,Downtown,12/16/2016,0.97,F,5683,Entire home/apt,2,1 bath,1,1,257.00,31
+4649,Capitol Hill,2/9/2022,1,F,1,Entire home/apt,4,1 bath,1,2,91.00,2
+4662,Shaw,8/6/2020,0.92,F,73,Entire home/apt,3,1 bath,1,2,122.00,31
+4673,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,1,148.00,2
+4689,Downtown,2/25/2022,0.44,F,6347,Entire home/apt,2,1 bath,1,1,281.00,1
+4704,Union Station,5/5/2016,0.99,F,1,Entire home/apt,5,1 bath,1,3,149.00,2
+4729,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,3,1 bath,1,2,234.00,1
+4730,Dupont Circle,10/29/2017,0.5,F,1,Entire home/apt,2,1 bath,1,1,170.00,31
+4743,Downtown,6/8/2015,1,F,5,Entire home/apt,4,1.5 baths,2,2,247.00,2
+4751,Downtown,2/2/2019,0.7,F,8,Entire home/apt,4,1 bath,1,1,125.00,1
+4783,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,194.00,31
+4817,Union Station,2/5/2015,0.99,F,18,Entire home/apt,6,1 bath,2,3,103.00,1
+4821,Kalorama Heights,6/26/2024,0.96,F,1,Entire home/apt,4,1 bath,1,3,106.00,1
+4824,Capitol Hill,6/28/2024,0.98,F,2,Entire home/apt,6,2 baths,2,3,209.00,2
+4847,Union Station,5/16/2022,0.99,F,29,Entire home/apt,10,2.5 baths,3,4,166.00,1
+4850,Union Station,10/30/2015,0.91,F,1,Entire home/apt,4,1.5 baths,1,1,169.00,2
+4857,Kalorama Heights,2/5/2014,0.99,F,6,Entire home/apt,2,1 bath,1,1,99.00,1
+4885,Dupont Circle,2/25/2022,0.44,F,6347,Entire home/apt,2,1 bath,1,1,368.00,1
+4913,Union Station,7/24/2024,0.76,F,1,Entire home/apt,2,1 bath,1,2,168.00,3
+4925,Union Station,9/18/2017,0.96,F,2,Entire home/apt,4,1 bath,1,2,109.00,1
+4931,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,254.00,31
+4939,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,5,1 bath,2,2,274.00,1
+4940,Union Station,3/30/2015,0.99,F,2117,Entire home/apt,5,1 bath,2,2,274.00,1
+4941,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,120.00,31
+4942,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,201.00,31
+4943,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,180.00,31
+4944,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,2,157.00,31
+4948,Columbia Heights,8/2/2024,0.86,F,1,Private room,1,1 private bath,1,1,94.00,1
+4955,Edgewood,10/2/2017,1,F,1,Entire home/apt,4,1 bath,1,1,115.00,2
+4956,Edgewood,6/7/2015,0.85,F,1,,3,1 bath,1,2,135.00,1
+4958,Union Station,8/6/2024,0.97,F,1,Entire home/apt,2,1 bath,1,1,82.00,1
+4978,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,114.00,31
+4980,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,171.00,31
+4981,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,158.00,31
+4982,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,117.00,1
+4983,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1.5 baths,2,2,247.00,31
+4984,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,145.00,31
+4985,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,3,1 bath,1,2,186.00,31
+5023,Union Station,5/16/2022,0.99,F,29,Entire home/apt,6,1 bath,0,1,105.00,1
+5040,Union Station,3/12/2017,0.99,F,2,Entire home/apt,4,1 bath,1,1,88.00,2
+5047,Columbia Heights,6/26/2016,0.91,F,5,Entire home/apt,2,1 bath,1,1,116.00,1
+5058,Columbia Heights,5/18/2012,0.89,F,10,Entire home/apt,7,2.5 baths,3,3,285.00,5
+5063,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,146.00,31
+5083,Dupont Circle,8/28/2024,1,F,1,Private room,2,1 private bath,1,1,202.00,1
+5084,Capitol Hill,4/6/2016,0.77,F,1,Entire home/apt,4,1 bath,1,2,148.00,2
+5086,Dupont Circle,5/17/2021,0.98,F,4,Entire home/apt,3,1 bath,1,2,124.00,2
+5096,Dupont Circle,8/24/2024,0.99,F,3,Private room,2,1 bath,1,1,161.00,1
+5109,Capitol Hill,6/12/2013,0.41,F,125,Private room,2,3 shared baths,1,1,91.00,31
+5117,Union Station,10/10/2014,0.96,F,1,Private room,2,1 private bath,1,1,105.00,2
+5129,Edgewood,9/5/2016,0.92,F,3,Entire home/apt,4,2 baths,2,2,192.00,2
+5135,Georgetown,12/17/2014,0.93,F,1,Entire home/apt,4,1 bath,1,2,282.00,2
+5136,Shaw,4/28/2022,0.74,F,1,Entire home/apt,4,1 bath,1,2,213.00,3
+5159,Downtown,9/18/2024,0.94,F,4,Entire home/apt,2,1 bath,1,2,119.00,2
+5173,Union Station,2/13/2024,0.99,F,37,Entire home/apt,5,1 bath,2,2,274.00,1
+5193,Edgewood,9/25/2024,0.88,F,2,Private room,4,1 private bath,1,2,146.00,2
+5201,Capitol Hill,6/21/2017,0.96,F,2,Entire home/apt,7,2 baths,3,4,365.00,3
+5206,Capitol Hill,7/29/2015,0.99,F,777,Entire home/apt,8,3.5 baths,4,4,359.00,3
+5211,Capitol Hill,6/16/2017,0.99,F,3,Entire home/apt,8,3.5 baths,4,4,450.00,1
+5212,Union Station,11/13/2015,0.96,F,2,Entire home/apt,2,1 bath,1,1,103.00,2
+5214,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,248.00,31
+5220,Dupont Circle,6/8/2015,1,F,5,Entire home/apt,2,1 bath,1,1,85.00,31
+5250,Capitol Hill,10/16/2024,1,F,1,Entire home/apt,7,2 baths,4,4,345.00,3
+5256,Dupont Circle,5/17/2021,0.98,F,4,Entire home/apt,4,1 bath,2,3,124.00,2
+5270,Union Station,1/31/2015,1,F,1,Entire home/apt,4,1 bath,1,2,128.00,1
+5281,Union Station,10/4/2018,1,F,3,Entire home/apt,2,1 bath,1,1,129.00,3
+5292,Edgewood,9/24/2013,0.83,F,2,Entire home/apt,2,1 bath,1,1,99.00,2
+5313,Capitol Hill,10/30/2024,1,F,1,Entire home/apt,5,1.5 baths,2,3,170.00,2
+5317,Union Station,7/29/2015,0.99,F,777,Entire home/apt,4,1 bath,1,2,181.00,2
+5321,Union Station,10/17/2013,0.83,F,3,Entire home/apt,4,1 bath,1,1,109.00,1
+5335,Downtown,10/14/2016,1,F,3,Entire home/apt,4,1 bath,1,1,92.00,3
+5471,Edgewood,10/25/2021,0.98,F,11,Entire home/apt,4,2 baths,2,2,116.00,31
+5493,Union Station,6/14/2016,1,F,1,Entire home/apt,4,1 bath,1,2,197.00,2
+5502,Edgewood,11/1/2012,1,F,3,Entire home/apt,2,1 bath,0,1,108.00,3
+5504,Edgewood,11/19/2024,0.86,F,1,Entire home/apt,3,1 bath,1,1,124.00,2
+5539,Edgewood,11/29/2024,1,F,1,Entire home/apt,2,1 bath,1,1,195.00,2
+5549,Kalorama Heights,2/5/2014,0.99,F,6,Entire home/apt,2,1 bath,1,1,114.00,1
+5562,Downtown,3/13/2018,0.37,F,3,Entire home/apt,2,1 bath,1,1,149.00,2
+5611,Union Station,8/5/2015,1,F,6,Private room,2,1 private bath,1,2,161.00,1
+5622,Union Station,9/3/2017,1,F,1,Entire home/apt,3,1 bath,1,1,143.00,3
+5623,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,1,1,165.00,31
+5625,Dupont Circle,7/29/2015,0.99,F,777,Entire home/apt,2,1 bath,0,1,178.00,31
+5633,Union Station,10/4/2018,1,F,3,Entire home/apt,2,1 bath,1,1,131.00,1
+5670,Union Station,9/12/2016,1,F,2,Entire home/apt,7,1.5 baths,3,3,261.00,2
+5675,Edgewood,12/30/2024,1,F,4,,2,1 private bath,1,1,140.00,31
+5731,Edgewood,12/12/2017,1,F,1,,3,1 bath,1,3,117.00,1
+5762,Union Station,9/27/2022,1,F,3,Entire home/apt,4,1 bath,1,1,162.00,2
+5777,Union Station,1/15/2025,1,F,1,Entire home/apt,2,1 bath,1,1,165.00,2
+5845,Edgewood,8/22/2013,0.88,F,1,Private room,2,1.5 baths,1,1,72.00,2
+5865,Union Station,2/16/2013,0.87,F,5,Entire home/apt,3,1 bath,1,1,92.00,1
+5876,Edgewood,2/5/2025,0.96,F,1,Entire home/apt,6,2 baths,2,2,245.00,2
+5880,Union Station,4/24/2019,0.96,F,1,Entire home/apt,5,1.5 baths,2,4,185.00,1
+5891,Edgewood,7/20/2014,1,F,8,Private room,2,1 private bath,1,1,99.00,1
+5892,Edgewood,7/20/2014,1,F,8,Private room,2,1.5 shared baths,1,1,75.00,1
+5893,Edgewood,7/20/2014,1,F,8,Private room,2,1.5 shared baths,1,2,78.00,1
+5902,Edgewood,8/14/2021,0.99,F,15,Private room,2,2 shared baths,1,2,48.00,1
+5918,Union Station,1/3/2017,1,F,1,Entire home/apt,4,1 bath,2,3,138.00,2
+5924,Union Station,2/2/2017,0.9,F,1,Entire home/apt,4,1 bath,1,2,127.00,2
+5977,Edgewood,11/6/2016,1,F,4,Entire home/apt,3,2 baths,2,2,211.00,3
+5996,Union Station,2/27/2016,0.96,F,1,Entire home/apt,3,1 bath,1,2,118.00,1
+6027,Union Station,2/11/2025,1,F,3,Entire home/apt,4,1 bath,2,2,163.00,1
+6034,Union Station,11/1/2013,0.91,F,6,Entire home/apt,6,2 baths,2,3,225.00,2
+6048,Union Station,3/16/2025,0.99,F,9,Entire home/apt,4,2 baths,2,2,170.00,2
+6052,Union Station,3/16/2025,0.99,F,9,Entire home/apt,4,2 baths,2,2,178.00,3
+6054,Union Station,2/27/2025,0.97,F,15,Private room,1,1 private bath,1,1,60.00,30
+6069,Union Station,3/16/2025,0.99,F,9,Entire home/apt,2,1 bath,1,1,148.00,2
+6070,Union Station,3/16/2025,0.99,F,9,Entire home/apt,2,1 bath,1,1,174.00,2
+6095,Union Station,3/27/2025,0.95,F,1,Entire home/apt,6,2 baths,3,3,154.00,2
+6104,Union Station,6/8/2020,1,F,10,Entire home/apt,5,1 bath,2,5,109.00,1
+6110,Edgewood,1/13/2023,1,F,1,Entire home/apt,6,1.5 baths,3,4,273.00,1
+6111,Union Station,3/30/2025,1,F,1,Entire home/apt,6,2 baths,3,3,326.00,2
+6141,Union Station,6/4/2016,1,F,2,Entire home/apt,4,1 bath,2,2,145.00,3
+6210,Union Station,11/28/2014,1,F,1,Entire home/apt,2,1 bath,0,1,106.00,1
+6296,Edgewood,5/12/2025,0.95,F,1,Entire home/apt,4,1 bath,2,2,128.00,2
+6309,Union Station,3/24/2013,0.89,F,1,Entire home/apt,2,1 bath,1,1,118.00,1
+6313,Union Station,12/3/2024,1,F,1,Entire home/apt,6,2.5 baths,4,4,470.00,2
+6318,Edgewood,4/25/2015,0.85,F,3,Entire home/apt,4,2 baths,2,2,320.00,2
+6322,Edgewood,1/28/2016,1,F,1,Entire home/apt,2,1 bath,1,1,134.00,2
+6332,Edgewood,4/25/2015,0.85,F,3,Entire home/apt,8,3 baths,3,3,393.00,2
+6374,Edgewood,9/5/2016,0.92,F,3,Entire home/apt,4,2 baths,2,2,162.00,1
+6385,Edgewood,3/8/2017,0.94,F,1,Entire home/apt,4,1 bath,1,2,80.00,2
+6411,Union Station,9/26/2021,1,F,1,,5,1 bath,2,3,170.00,1
+3,Edgewood,12/12/2008,0.94,T,5,Private room,2,1 private bath,1,1,79.00,1
+4,Capitol Hill,12/12/2008,0.97,T,2,Private room,1,1.5 shared baths,1,1,128.00,6
+14,Kalorama Heights,6/4/2010,0.98,T,18,Private room,2,1 private bath,1,1,229.00,1
+16,Kalorama Heights,11/27/2010,0.96,T,1,Entire home/apt,3,1 bath,2,2,84.00,5
+17,Columbia Heights,1/2/2011,1,T,1,Entire home/apt,3,1 bath,1,2,76.00,31
+24,Edgewood,12/12/2008,0.94,T,5,Private room,2,1 private bath,1,1,115.00,1
+29,Edgewood,8/13/2011,0.8,T,5,Private room,2,1.5 shared baths,1,1,59.00,31
+38,Shaw,12/14/2011,0.94,T,1,Entire home/apt,2,1 bath,1,1,201.00,2
+39,Dupont Circle,12/22/2011,1,T,1,Entire home/apt,4,1 bath,1,2,128.00,3
+46,Capitol Hill,3/12/2012,0.88,T,3,Entire home/apt,4,1 bath,1,1,174.00,3
+47,Capitol Hill,3/30/2012,0.79,T,7,Entire home/apt,2,1 bath,0,1,224.00,2
+50,Capitol Hill,9/21/2009,0.98,T,2,Entire home/apt,5,2 baths,2,3,139.00,3
+51,Union Station,4/29/2012,0.98,T,1,Entire home/apt,2,1 bath,1,1,95.00,2
+53,Capitol Hill,6/8/2012,0.96,T,7,Entire home/apt,4,1 bath,1,2,142.00,2
+57,Dupont Circle,6/28/2012,1,T,2,Entire home/apt,2,1 bath,0,1,101.00,1
+60,Columbia Heights,1/4/2012,0.99,T,4,Entire home/apt,6,1 bath,0,2,133.00,1
+61,Columbia Heights,8/2/2012,0.68,T,3,Entire home/apt,1,1 bath,0,1,61.00,5
+62,Union Station,11/12/2011,1,T,3,Entire home/apt,2,1 bath,1,1,125.00,2
+65,Kalorama Heights,11/5/2012,0.88,T,4,Entire home/apt,5,2 baths,2,3,160.00,1
+71,Dupont Circle,4/15/2011,1,T,7,Private room,2,1 private bath,1,2,118.00,1
+89,Shaw,4/4/2012,1,T,2,Entire home/apt,4,1 bath,0,1,151.00,2
+90,Dupont Circle,4/15/2011,1,T,7,Entire home/apt,6,1 bath,1,3,145.00,1
+94,Capitol Hill,7/24/2013,0.98,T,3,Entire home/apt,6,3 baths,3,3,336.00,3
+97,Columbia Heights,6/13/2012,0.98,T,2,Entire home/apt,7,1 bath,2,3,125.00,2
+100,Dupont Circle,8/23/2013,0.95,T,4,Entire home/apt,2,1 bath,1,1,145.00,28
+102,Shaw,9/5/2013,1,T,1,Entire home/apt,4,1 bath,1,2,150.00,2
+104,Union Station,9/14/2013,0.96,T,2,Entire home/apt,2,1 bath,0,1,78.00,2
+107,Columbia Heights,10/6/2013,1,T,3,Entire home/apt,8,1.5 baths,4,5,455.00,3
+109,Columbia Heights,10/12/2013,0.99,T,2,Entire home/apt,6,1 bath,1,3,177.00,2
+110,Capitol Hill,10/16/2013,0.98,T,2,Private room,1,1.5 shared baths,1,1,110.00,4
+112,Union Station,10/21/2013,1,T,2,Entire home/apt,3,1 bath,2,2,138.00,2
+118,Columbia Heights,8/2/2012,0.68,T,3,Entire home/apt,4,2 baths,2,2,154.00,2
+120,Union Station,9/23/2013,0.98,T,4,Entire home/apt,4,1 bath,2,2,178.00,30
+127,Shaw,7/4/2011,1,T,1,Entire home/apt,2,1 bath,0,1,90.00,28
+130,Capitol Hill,1/25/2014,0.96,T,3,Entire home/apt,4,1 bath,1,2,148.00,3
+138,Edgewood,5/12/2013,0.98,T,9,Private room,1,1.5 shared baths,1,1,56.00,2
+146,Columbia Heights,1/8/2014,0.4,T,1,Entire home/apt,2,1 bath,1,1,110.00,1
+149,Kalorama Heights,1/17/2014,0.97,T,2,Entire home/apt,4,2 baths,2,3,314.00,3
+154,Georgetown,6/6/2012,0.55,T,2,Entire home/apt,6,1.5 baths,2,2,305.00,4
+155,Capitol Hill,8/29/2013,0.97,T,2,Entire home/apt,4,1 bath,1,1,155.00,1
+157,Capitol Hill,4/14/2014,0.99,T,10,Private room,2,1 private bath,1,1,82.00,2
+159,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,2.5 shared baths,1,1,145.00,7
+160,Capitol Hill,4/14/2014,0.99,T,10,Private room,2,1 private bath,1,2,84.00,2
+163,Columbia Heights,4/17/2013,0.98,T,1,Entire home/apt,4,1 bath,1,2,96.00,2
+164,Union Station,5/31/2014,1,T,1,Entire home/apt,2,1 bath,1,1,184.00,2
+170,Union Station,6/29/2014,0.9,T,5,Private room,1,1.5 baths,1,1,105.00,3
+171,Union Station,6/29/2014,0.9,T,5,Private room,1,1.5 baths,1,1,105.00,3
+173,Shaw,4/18/2014,0.99,T,1,Entire home/apt,2,1 bath,1,1,139.00,3
+175,Edgewood,4/10/2013,0.96,T,4,Entire home/apt,5,1 bath,2,2,143.00,2
+178,Union Station,10/29/2013,0.99,T,7,Private room,2,1 private bath,1,1,97.00,2
+185,Columbia Heights,10/12/2013,0.99,T,2,Entire home/apt,4,1 bath,1,3,95.00,31
+186,Edgewood,7/30/2014,0.62,T,18,Private room,2,1 private bath,1,1,104.00,1
+188,Edgewood,7/30/2014,0.62,T,18,Private room,2,1.5 shared baths,1,1,145.00,1
+191,Dupont Circle,8/23/2013,0.95,T,4,Entire home/apt,2,1 bath,1,1,145.00,28
+195,Dupont Circle,8/18/2014,1,T,3,Entire home/apt,2,1 bath,1,1,148.00,2
+200,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,1.5 shared baths,1,1,153.00,1
+205,Capitol Hill,9/7/2014,0.97,T,2,Entire home/apt,5,1.5 baths,2,2,218.00,2
+210,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,2 shared baths,1,1,153.00,3
+212,Shaw,9/18/2014,1,T,4,Private room,2,1 private bath,1,1,108.00,2
+216,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,2.5 shared baths,1,1,108.00,3
+218,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,2.5 shared baths,1,1,144.00,5
+219,Capitol Hill,4/14/2014,0.99,T,10,Private room,2,1 private bath,1,1,75.00,2
+228,Union Station,10/19/2014,0.94,T,7,Entire home/apt,3,1 bath,1,2,175.00,1
+229,Union Station,3/30/2013,0.97,T,4,Entire home/apt,4,1 bath,1,1,157.00,2
+233,Kalorama Heights,11/17/2014,0.97,T,4,Entire home/apt,4,1 bath,2,2,179.00,2
+235,Union Station,6/24/2014,1,T,4,Entire home/apt,5,1 bath,1,3,170.00,1
+237,Columbia Heights,9/20/2014,0.91,T,1,Private room,5,2 baths,2,2,87.00,2
+240,Edgewood,12/2/2014,0.91,T,3,Private room,2,1 shared bath,1,1,102.00,1
+241,Edgewood,12/2/2014,0.91,T,3,Entire home/apt,3,1 bath,1,1,119.00,1
+242,Columbia Heights,12/3/2014,0.93,T,1,Entire home/apt,3,1 bath,1,1,106.00,2
+246,Capitol Hill,9/19/2012,0.99,T,1,Entire home/apt,2,1 bath,1,1,159.00,2
+248,Capitol Hill,3/7/2013,0.98,T,4,Private room,2,1 private bath,1,1,122.00,2
+249,Union Station,3/1/2014,1,T,2,Entire home/apt,2,1 bath,1,1,102.00,31
+252,Capitol Hill,12/16/2014,1,T,3,Entire home/apt,4,1 bath,1,2,277.00,2
+254,Shaw,6/24/2012,0.71,T,3,Entire home/apt,4,1 bath,1,1,160.00,40
+255,Capitol Hill,12/16/2014,1,T,3,Entire home/apt,6,1 bath,2,3,380.00,2
+257,Union Station,1/11/2015,1,T,3,Entire home/apt,3,1 bath,1,1,155.00,2
+259,Dupont Circle,3/16/2013,0.93,T,45,Entire home/apt,4,1 bath,2,2,214.00,1
+261,Dupont Circle,1/27/2012,1,T,10,Entire home/apt,2,1.5 baths,1,1,10.00,31
+262,Union Station,10/21/2012,0.86,T,4,Private room,1,1 private bath,1,1,76.00,3
+263,Union Station,10/7/2014,0.99,T,3,Entire home/apt,2,1 bath,0,1,120.00,2
+268,Edgewood,8/3/2014,1,T,1,Entire home/apt,3,1 bath,1,2,118.00,3
+269,Shaw,11/27/2013,1,T,2,Entire home/apt,2,1 bath,1,1,182.00,2
+270,Georgetown,2/10/2015,1,T,2,Entire home/apt,4,1 bath,1,2,155.00,1
+272,Shaw,12/29/2014,0.94,T,2,Entire home/apt,4,1 bath,0,2,111.00,3
+273,Foggy Bottom,3/5/2015,0.96,T,6,Entire home/apt,3,1 bath,1,2,102.00,28
+275,Shaw,9/18/2014,1,T,4,,2,1 private bath,1,1,126.00,2
+279,Shaw,11/20/2013,1,T,3,Entire home/apt,4,1 bath,1,1,124.00,2
+280,Columbia Heights,5/11/2013,1,T,2,Entire home/apt,4,1 bath,1,1,125.00,1
+285,Union Station,6/24/2014,1,T,4,Entire home/apt,4,1 bath,1,3,161.00,1
+291,Union Station,10/21/2012,0.86,T,4,Private room,2,1 private bath,1,1,78.00,3
+306,Georgetown,5/14/2012,0.96,T,3,Entire home/apt,3,1 bath,1,2,53.00,2
+310,Capitol Hill,5/22/2015,1,T,3,Entire home/apt,6,3.5 baths,3,3,358.00,2
+312,Capitol Hill,5/18/2009,1,T,108,Entire home/apt,2,1 bath,1,2,167.00,1
+318,Kalorama Heights,6/10/2015,1,T,1,Entire home/apt,4,1 bath,1,2,120.00,2
+319,Capitol Hill,6/14/2015,0.97,T,2,Entire home/apt,3,1 bath,0,1,118.00,3
+329,Columbia Heights,7/27/2013,1,T,1,Entire home/apt,4,1 bath,1,1,91.00,90
+331,Union Station,3/31/2014,1,T,9,Entire home/apt,4,1 bath,1,1,202.00,31
+337,Dupont Circle,3/5/2015,0.96,T,6,Entire home/apt,6,1 bath,2,4,185.00,28
+340,Georgetown,5/7/2015,0.91,T,1,Entire home/apt,1,1 bath,1,1,95.00,28
+342,Shaw,8/2/2015,1,T,1,Entire home/apt,2,1.5 baths,1,1,177.00,31
+345,Dupont Circle,8/10/2015,1,T,8,Entire home/apt,2,1 bath,1,1,162.00,31
+346,Georgetown,8/10/2015,1,T,8,Entire home/apt,2,1 bath,0,1,128.00,31
+356,Union Station,3/17/2014,0.99,T,2,Entire home/apt,4,1 bath,1,2,161.00,1
+368,Union Station,5/11/2015,1,T,4,Private room,2,1 shared bath,1,1,71.00,1
+375,Union Station,7/12/2013,1,T,4,Entire home/apt,2,1 bath,1,1,158.00,2
+378,Georgetown,8/10/2015,1,T,8,Entire home/apt,2,1 bath,0,1,128.00,31
+379,Georgetown,8/10/2015,1,T,8,Entire home/apt,2,1 bath,0,1,135.00,31
+380,Dupont Circle,8/10/2015,1,T,8,Entire home/apt,2,1 bath,1,1,208.00,3
+381,Dupont Circle,8/10/2015,1,T,8,Entire home/apt,2,1 bath,1,1,208.00,3
+385,Union Station,10/11/2015,0.97,T,5,Private room,2,1.5 shared baths,1,1,118.00,2
+387,Union Station,10/15/2015,0.98,T,316,Entire home/apt,6,1 bath,2,4,274.00,3
+388,Union Station,10/15/2015,0.98,T,316,Entire home/apt,6,1 bath,2,3,222.00,3
+392,Capitol Hill,10/25/2015,0.98,T,2,Entire home/apt,2,1 bath,1,1,123.00,1
+394,Union Station,9/23/2013,0.98,T,4,Entire home/apt,10,3.5 baths,5,5,489.00,4
+395,Dupont Circle,7/3/2013,0.98,T,2,Entire home/apt,3,1.5 baths,1,2,238.00,2
+396,Union Station,9/26/2013,0.95,T,1,Entire home/apt,2,1 bath,1,1,118.00,2
+399,Capitol Hill,3/22/2014,0.86,T,4,Entire home/apt,4,1 bath,1,3,116.00,28
+400,Edgewood,11/5/2015,0.99,T,2,Entire home/apt,3,1 bath,1,1,153.00,2
+403,Dupont Circle,10/15/2015,0.98,T,316,Entire home/apt,4,2 baths,2,2,207.00,3
+408,Capitol Hill,3/30/2014,0.88,T,1,Entire home/apt,2,1 bath,1,2,103.00,31
+414,Union Station,10/7/2014,0.99,T,3,Entire home/apt,2,1 bath,0,1,95.00,2
+419,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,280.00,3
+420,Georgetown,2/10/2015,1,T,2,Entire home/apt,4,1 bath,1,2,159.00,1
+421,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,448.00,3
+422,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,492.00,3
+424,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,280.00,3
+426,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,280.00,3
+428,Shaw,12/25/2014,0.99,T,3,Entire home/apt,6,2.5 baths,2,2,305.00,2
+433,Capitol Hill,1/6/2016,1,T,15,Entire home/apt,2,1 bath,0,1,135.00,2
+434,Union Station,1/7/2016,0.85,T,2,Entire home/apt,3,1 bath,1,1,155.00,3
+438,Capitol Hill,7/19/2014,1,T,9,Entire home/apt,4,1 bath,1,2,202.00,1
+439,Union Station,1/12/2016,1,T,1,Entire home/apt,4,1 bath,1,2,141.00,3
+441,Capitol Hill,1/6/2016,1,T,15,Entire home/apt,4,1 bath,1,2,262.00,2
+442,Capitol Hill,1/6/2016,1,T,15,Entire home/apt,4,1 bath,1,2,314.00,2
+445,Capitol Hill,6/15/2014,0.99,T,1,Entire home/apt,2,1 bath,0,1,124.00,2
+449,Columbia Heights,1/23/2016,0.98,T,3,Entire home/apt,5,2 baths,2,2,223.00,1
+450,Union Station,10/11/2015,0.97,T,5,Private room,2,1.5 shared baths,1,1,128.00,2
+458,Kalorama Heights,2/9/2016,1,T,1,Entire home/apt,4,1 bath,2,2,176.00,3
+459,Foggy Bottom,2/10/2016,1,T,6,Entire home/apt,4,1 bath,1,2,154.00,1
+460,Capitol Hill,2/10/2016,0.98,T,1,Entire home/apt,2,1 bath,0,1,151.00,3
+468,Union Station,6/20/2014,1,T,1,Entire home/apt,2,1 bath,0,2,81.00,31
+469,Union Station,10/11/2015,0.97,T,5,Private room,2,1 shared bath,1,1,148.00,2
+472,Capitol Hill,2/29/2016,1,T,1,Entire home/apt,4,1 bath,2,3,219.00,2
+474,Edgewood,4/4/2015,0.83,T,1,Entire home/apt,2,1 bath,1,1,85.00,3
+481,Capitol Hill,3/7/2013,0.98,T,4,Private room,1,1 shared bath,1,1,110.00,2
+483,Shaw,5/11/2014,0.93,T,5,Entire home/apt,4,1 bath,1,2,131.00,3
+486,Capitol Hill,3/7/2013,0.98,T,4,Private room,2,1 private bath,1,1,100.00,2
+488,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,1.5 shared baths,1,1,144.00,10
+490,Foggy Bottom,2/10/2016,1,T,6,Entire home/apt,4,1 bath,1,2,160.00,1
+491,Foggy Bottom,2/10/2016,1,T,6,Entire home/apt,4,1 bath,1,1,149.00,1
+492,Foggy Bottom,2/10/2016,1,T,6,Entire home/apt,4,1 bath,1,2,166.00,1
+502,Union Station,8/10/2012,0.76,T,7,Entire home/apt,4,2.5 baths,2,2,175.00,28
+503,Shaw,5/11/2014,0.93,T,5,Private room,2,1.5 shared baths,1,1,99.00,3
+504,Shaw,5/11/2014,0.93,T,5,Entire home/apt,2,1 bath,1,1,126.00,3
+505,Capitol Hill,4/5/2016,1,T,1,Entire home/apt,3,1 bath,1,1,110.00,2
+508,Union Station,9/19/2015,0.99,T,1,Entire home/apt,3,1 bath,1,2,122.00,2
+510,Capitol Hill,4/24/2012,1,T,1,Entire home/apt,2,1 bath,1,2,113.00,3
+517,Edgewood,5/12/2013,0.98,T,9,Private room,1,1.5 shared baths,1,1,82.00,2
+527,Dupont Circle,2/15/2013,1,T,1,Entire home/apt,4,1 bath,1,1,179.00,1
+529,Capitol Hill,11/27/2013,0.87,T,31,Entire home/apt,4,1 bath,1,2,150.00,31
+532,Columbia Heights,12/28/2008,1,T,8,Private room,2,2 shared baths,1,1,67.00,1
+533,Columbia Heights,8/3/2013,0.99,T,6,Private room,1,1 private bath,1,1,65.00,2
+539,Edgewood,11/2/2014,0.95,T,2,Private room,2,1 shared bath,1,1,64.00,2
+547,Edgewood,12/2/2014,0.91,T,3,Private room,2,1.5 baths,1,1,84.00,1
+551,Shaw,6/24/2012,0.71,T,3,Entire home/apt,4,1 bath,1,2,172.00,30
+555,Union Station,5/29/2012,1,T,5,Entire home/apt,4,1 bath,0,2,109.00,1
+556,Capitol Hill,2/18/2016,0.98,T,1,Entire home/apt,3,1 bath,1,2,124.00,2
+558,Edgewood,12/6/2012,0.96,T,3,Entire home/apt,2,1 bath,1,2,154.00,1
+564,Shaw,6/11/2014,0.98,T,186,Entire home/apt,3,1 bath,1,1,195.00,3
+569,Columbia Heights,4/7/2013,0.85,T,2,Entire home/apt,3,1 bath,1,1,105.00,2
+571,Kalorama Heights,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,142.00,3
+573,Columbia Heights,3/28/2016,0.57,T,4,Entire home/apt,2,1 bath,1,1,77.00,31
+577,Union Station,12/5/2012,1,T,1,Entire home/apt,3,1.5 baths,1,2,119.00,3
+580,Union Station,8/9/2016,1,T,1,Entire home/apt,4,1 bath,0,3,170.00,3
+590,Dupont Circle,4/13/2014,0.98,T,1,Entire home/apt,4,1 bath,2,2,191.00,1
+595,Capitol Hill,11/8/2015,1,T,1,Entire home/apt,4,1 bath,1,1,122.00,3
+597,Union Station,7/27/2016,0.98,T,5,Entire home/apt,2,1 bath,1,1,109.00,2
+599,Edgewood,4/8/2014,1,T,1,Entire home/apt,4,1 bath,1,2,166.00,2
+600,Union Station,7/28/2016,0.98,T,1,Entire home/apt,5,1 bath,2,3,169.00,7
+608,Capitol Hill,8/31/2015,1,T,1,Entire home/apt,2,1 bath,0,1,152.00,2
+613,Dupont Circle,10/20/2015,1,T,1,Entire home/apt,2,1 bath,0,1,135.00,2
+617,Columbia Heights,6/13/2012,0.98,T,2,Entire home/apt,7,1 bath,2,3,136.00,3
+620,Shaw,7/30/2012,1,T,1,Entire home/apt,2,1 bath,1,1,226.00,2
+622,Columbia Heights,3/9/2016,0.95,T,1,Entire home/apt,4,1 bath,1,2,140.00,2
+623,Shaw,10/17/2016,0.76,T,2,Entire home/apt,3,1 bath,1,1,220.00,3
+624,Capitol Hill,1/13/2016,1,T,1,Entire home/apt,2,1 bath,1,1,82.00,2
+632,Union Station,4/11/2014,1,T,1,Entire home/apt,3,1 bath,1,4,151.00,2
+641,Capitol Hill,6/15/2015,0.78,T,4,Entire home/apt,12,3 baths,5,5,563.00,3
+646,Downtown,3/28/2012,1,T,3,Entire home/apt,4,1 bath,1,2,88.00,32
+647,Union Station,1/7/2015,1,T,1,Entire home/apt,2,1 bath,1,1,76.00,1
+651,Capitol Hill,7/5/2013,1,T,2,Entire home/apt,3,1 bath,1,2,88.00,40
+653,Edgewood,3/24/2014,0.81,T,4,Entire home/apt,2,1 bath,1,3,105.00,4
+654,Edgewood,11/28/2016,1,T,1,Entire home/apt,2,1 bath,1,1,199.00,2
+655,Georgetown,11/29/2016,0.99,T,12,Private room,2,1 private bath,1,1,177.00,1
+657,Columbia Heights,11/19/2012,1,T,4,Entire home/apt,4,1 bath,2,2,124.00,2
+658,Georgetown,11/29/2016,0.99,T,12,Private room,2,1 private bath,1,1,177.00,1
+664,Union Station,5/29/2012,1,T,5,Entire home/apt,4,1 bath,1,2,125.00,1
+673,Capitol Hill,1/10/2016,0.99,T,10,Entire home/apt,4,1 bath,1,1,169.00,2
+677,Columbia Heights,4/14/2015,1,T,3,Entire home/apt,2,1 bath,1,1,135.00,31
+678,Union Station,11/17/2016,0.93,T,4,Private room,2,1.5 shared baths,1,1,76.00,1
+680,Union Station,11/17/2016,0.93,T,4,Private room,4,1.5 shared baths,1,2,95.00,1
+687,Capitol Hill,7/19/2014,1,T,9,Entire home/apt,9,2 baths,3,6,410.00,31
+689,Columbia Heights,3/31/2014,0.99,T,1,Private room,2,1 private bath,1,1,154.00,1
+690,Union Station,8/18/2014,0.63,T,2,Entire home/apt,4,1.5 baths,3,3,129.00,31
+692,Columbia Heights,12/24/2016,1,T,3,Entire home/apt,5,1 bath,2,2,115.00,1
+693,Shaw,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,196.00,3
+694,Edgewood,3/28/2012,1,T,3,Entire home/apt,4,1 bath,1,2,104.00,32
+695,Union Station,6/28/2015,0.94,T,1,Entire home/apt,2,1 bath,1,1,128.00,3
+698,Capitol Hill,11/22/2014,1,T,1,Entire home/apt,3,1 bath,1,2,90.00,30
+706,Capitol Hill,9/15/2016,1,T,2,Entire home/apt,4,1 bath,0,2,214.00,2
+707,Union Station,1/12/2014,0.99,T,1,Entire home/apt,4,1 bath,1,1,159.00,1
+708,Downtown,11/2/2013,1,T,3,Entire home/apt,3,1 bath,1,1,325.00,2
+709,Columbia Heights,4/7/2016,1,T,1,Entire home/apt,4,1 bath,1,2,90.00,31
+712,Georgetown,12/31/2008,0.82,T,3,Entire home/apt,2,1 bath,1,1,146.00,4
+720,Capitol Hill,1/6/2016,0.98,T,2,Entire home/apt,2,1 bath,1,1,129.00,1
+729,Capitol Hill,1/21/2017,1,T,1,,2,1 bath,1,2,150.00,2
+738,Shaw,6/11/2014,0.98,T,186,Entire home/apt,5,1.5 baths,2,3,150.00,7
+739,Georgetown,4/11/2011,0.98,T,6,Entire home/apt,2,1 bath,1,1,149.00,2
+740,Columbia Heights,4/26/2012,0.98,T,1,Entire home/apt,8,1 bath,2,4,134.00,1
+749,Union Station,4/6/2011,0.99,T,256,Entire home/apt,2,1 bath,1,1,92.00,2
+750,Georgetown,8/10/2014,1,T,2,Private room,2,1 private bath,1,1,84.00,1
+765,Columbia Heights,8/22/2014,1,T,1,Entire home/apt,2,1 bath,1,1,145.00,2
+767,Kalorama Heights,10/13/2010,1,T,1,Entire home/apt,4,1 bath,1,1,139.00,3
+768,Georgetown,6/4/2014,0.96,T,2,Private room,2,1 private bath,1,2,104.00,5
+769,Union Station,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,121.00,3
+774,Capitol Hill,9/5/2012,1,T,1,Entire home/apt,2,1 bath,0,1,158.00,1
+775,Capitol Hill,12/12/2008,0.97,T,2,Private room,2,1.5 shared baths,1,1,128.00,6
+781,Dupont Circle,4/15/2011,1,T,7,Private room,4,1 private bath,1,2,122.00,1
+782,Dupont Circle,4/15/2011,1,T,7,Private room,4,1 private bath,1,2,125.00,1
+788,Edgewood,6/16/2015,1,T,1,Entire home/apt,2,1 bath,1,1,145.00,2
+789,Union Station,8/17/2014,0.98,T,1,Entire home/apt,3,1 bath,1,2,165.00,1
+791,Edgewood,4/6/2017,0.99,T,7,Private room,2,1 shared bath,1,1,76.00,2
+794,Capitol Hill,7/19/2012,0.96,T,3,Entire home/apt,4,2.5 baths,2,3,195.00,7
+796,Columbia Heights,2/13/2016,1,T,3,Entire home/apt,3,1 bath,1,1,172.00,2
+810,Capitol Hill,4/29/2017,1,T,1,Entire home/apt,3,1 bath,0,2,126.00,2
+812,Columbia Heights,12/28/2008,1,T,8,Private room,2,2 shared baths,1,1,81.00,1
+816,Kalorama Heights,4/6/2011,0.99,T,256,Entire home/apt,4,1 bath,1,2,140.00,1
+822,Capitol Hill,9/29/2015,1,T,2,Private room,2,1 private bath,1,1,96.00,2
+827,Edgewood,7/30/2014,0.62,T,18,Private room,1,1 private bath,1,1,109.00,30
+831,Edgewood,7/30/2014,0.62,T,18,Private room,1,1 shared bath,1,1,132.00,2
+833,Columbia Heights,5/20/2013,0.96,T,7,Entire home/apt,5,1 bath,1,2,132.00,2
+834,Union Station,3/31/2014,1,T,9,Entire home/apt,6,1 bath,2,2,268.00,2
+838,Union Station,8/27/2012,1,T,1,Entire home/apt,5,1.5 baths,1,2,156.00,3
+840,Union Station,3/31/2014,1,T,9,Entire home/apt,6,1 bath,2,2,282.00,2
+842,Columbia Heights,5/13/2017,1,T,3,Private room,2,1 private bath,1,1,64.00,31
+852,Edgewood,5/15/2014,0.99,T,4,Entire home/apt,4,2 baths,2,6,220.00,31
+853,Edgewood,5/20/2013,1,T,2,Entire home/apt,4,1 bath,1,1,131.00,3
+857,Capitol Hill,8/21/2011,0.97,T,2,Entire home/apt,4,1 bath,2,2,201.00,2
+862,Union Station,3/31/2014,1,T,9,Entire home/apt,2,1 bath,1,1,196.00,2
+863,Downtown,9/4/2014,1,T,2,Private room,1,1 shared bath,1,1,67.00,15
+864,Shaw,6/24/2012,0.71,T,3,Private room,2,1.5 shared baths,1,2,77.00,30
+865,Edgewood,7/9/2016,0.89,T,2,Private room,2,1 private bath,1,1,85.00,1
+868,Capitol Hill,5/10/2015,1,T,2,Entire home/apt,8,3 baths,3,4,311.00,3
+870,Shaw,7/29/2016,0.92,T,3,Entire home/apt,2,1 bath,1,1,158.00,31
+875,Georgetown,6/4/2014,0.96,T,2,Entire home/apt,2,1 bath,1,2,116.00,3
+877,Edgewood,2/1/2015,1,T,6,Entire home/apt,5,1 bath,2,2,111.00,1
+884,Union Station,8/11/2016,0.98,T,2,Private room,2,1 shared bath,1,1,75.00,2
+886,Capitol Hill,1/6/2015,1,T,1,Entire home/apt,2,1 bath,1,1,143.00,2
+888,Capitol Hill,12/14/2015,1,T,1,Entire home/apt,4,1 bath,1,1,104.00,1
+890,Capitol Hill,8/2/2017,0.9,T,1,Entire home/apt,6,2.5 baths,3,3,156.00,2
+892,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,2.5 shared baths,1,1,158.00,3
+894,Union Station,3/31/2014,1,T,9,Entire home/apt,2,1 bath,1,1,213.00,2
+897,Shaw,5/11/2014,0.93,T,5,Private room,1,1.5 shared baths,1,1,95.00,3
+898,Capitol Hill,8/7/2017,1,T,1,Entire home/apt,4,1 bath,1,1,115.00,3
+908,Foggy Bottom,6/24/2011,0.99,T,6,Entire home/apt,2,1 bath,2,2,80.00,90
+911,Kalorama Heights,7/28/2017,1,T,2,Entire home/apt,2,1 bath,0,1,157.00,1
+914,Union Station,8/22/2017,1,T,4,Entire home/apt,5,2.5 baths,2,4,184.00,31
+917,Capitol Hill,9/1/2017,0.98,T,2,Entire home/apt,2,1 bath,1,2,157.00,2
+918,Capitol Hill,1/10/2016,0.99,T,10,Entire home/apt,2,1 bath,1,1,158.00,4
+928,Union Station,1/10/2016,0.99,T,10,Entire home/apt,2,1 bath,1,1,177.00,4
+932,Columbia Heights,12/28/2008,1,T,8,Private room,3,2 shared baths,1,1,65.00,1
+934,Union Station,3/7/2016,1,T,3,Entire home/apt,4,1 bath,1,2,122.00,3
+935,Capitol Hill,8/20/2014,1,T,1,Entire home/apt,2,1 bath,1,1,121.00,2
+936,Columbia Heights,7/27/2016,0.98,T,3,Entire home/apt,3,1 bath,1,1,109.00,3
+942,Edgewood,4/28/2016,0.97,T,2,Entire home/apt,2,1 bath,1,1,105.00,3
+943,Dupont Circle,3/16/2013,0.93,T,45,,2,2.5 shared baths,1,1,180.00,5
+947,Union Station,2/3/2015,1,T,1,Entire home/apt,2,1 bath,1,2,112.00,5
+949,Foggy Bottom,3/5/2015,0.96,T,6,Entire home/apt,4,1 bath,1,1,110.00,28
+954,Columbia Heights,1/25/2015,0.98,T,2,,4,1 bath,1,2,115.00,2
+961,Capitol Hill,4/13/2017,1,T,5,Entire home/apt,2,1 bath,1,1,62.00,31
+969,Columbia Heights,3/27/2017,1,T,2,Entire home/apt,4,1 bath,1,2,129.00,3
+971,Union Station,7/7/2014,0.98,T,2,Entire home/apt,2,1 bath,0,1,136.00,2
+978,Columbia Heights,2/12/2017,1,T,1,Entire home/apt,4,1 bath,1,2,109.00,2
+979,Union Station,7/17/2017,1,T,6,Entire home/apt,4,1 bath,2,2,173.00,31
+980,Capitol Hill,2/5/2013,0.89,T,4,Entire home/apt,2,1 bath,0,1,96.00,2
+982,Edgewood,2/2/2012,0.97,T,3,Entire home/apt,2,1 bath,1,1,105.00,3
+984,Union Station,1/16/2015,1,T,3,Private room,2,1 private bath,1,1,135.00,1
+989,Columbia Heights,12/30/2017,0.9,T,1,Entire home/apt,4,1 bath,1,2,106.00,3
+990,Union Station,8/23/2017,0.91,T,1,Entire home/apt,3,1 bath,0,2,108.00,1
+991,Capitol Hill,4/13/2017,1,T,5,Entire home/apt,2,1 bath,1,1,63.00,31
+995,Shaw,1/4/2018,0.94,T,1,Entire home/apt,3,1 bath,0,2,103.00,2
+997,Columbia Heights,5/4/2015,0.96,T,3,Entire home/apt,4,1 bath,1,1,95.00,4
+1000,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,2.5 shared baths,1,1,147.00,2
+1001,Dupont Circle,1/29/2016,1,T,4,Private room,3,1 private bath,1,1,107.00,3
+1003,Dupont Circle,3/16/2013,0.93,T,45,Private room,1,2.5 shared baths,1,1,135.00,30
+1006,Dupont Circle,1/29/2016,1,T,4,Private room,2,1 private bath,1,1,103.00,3
+1007,Shaw,1/11/2018,1,T,1,Entire home/apt,3,1 bath,1,2,207.00,3
+1009,Shaw,7/27/2015,1,T,2,Entire home/apt,4,1 bath,1,2,123.00,1
+1010,Edgewood,4/6/2017,0.99,T,7,Private room,2,1.5 baths,1,1,71.00,2
+1011,Union Station,1/13/2018,0.91,T,2,Entire home/apt,4,1 bath,1,2,121.00,2
+1014,Edgewood,1/16/2018,1,T,1,Entire home/apt,3,1 bath,1,1,85.00,2
+1026,Shaw,10/28/2013,1,T,15,Entire home/apt,2,1 bath,1,2,109.00,31
+1027,Kalorama Heights,1/27/2012,1,T,10,Entire home/apt,4,2 baths,3,3,450.00,31
+1028,Edgewood,5/5/2015,1,T,3,Entire home/apt,2,1 bath,0,1,119.00,2
+1030,Union Station,10/2/2011,0.99,T,1,Entire home/apt,4,1 bath,0,2,87.00,2
+1032,Columbia Heights,10/3/2012,0.94,T,14,Entire home/apt,5,1 bath,1,3,125.00,31
+1033,Shaw,8/7/2014,1,T,1,Entire home/apt,4,1 bath,0,1,126.00,2
+1034,Edgewood,6/28/2015,1,T,2,Entire home/apt,2,1 bath,1,1,100.00,1
+1045,Columbia Heights,3/7/2015,0.89,T,2,Entire home/apt,2,1 bath,0,1,111.00,2
+1047,Edgewood,4/6/2017,0.99,T,7,Private room,2,1 shared bath,1,1,85.00,2
+1048,Columbia Heights,2/27/2018,1,T,2,Entire home/apt,2,1 bath,1,1,150.00,3
+1049,Dupont Circle,9/8/2014,0.89,T,11,Entire home/apt,1,1 bath,0,1,112.00,182
+1054,Shaw,5/5/2016,1,T,1,Entire home/apt,3,1 bath,1,2,182.00,3
+1058,Union Station,6/1/2014,0.99,T,2,Entire home/apt,5,1 bath,2,3,201.00,4
+1059,Union Station,3/15/2016,1,T,2,Entire home/apt,3,1 bath,1,2,103.00,1
+1060,Union Station,3/14/2018,0.96,T,1,Entire home/apt,4,1 bath,1,2,93.00,2
+1065,Edgewood,4/6/2017,0.99,T,7,Private room,2,1 shared bath,1,1,72.00,2
+1073,Union Station,3/12/2014,0.96,T,1,Entire home/apt,2,1 bath,0,1,120.00,2
+1076,Capitol Hill,7/27/2016,0.99,T,3,Private room,2,1 shared bath,1,1,74.00,1
+1078,Columbia Heights,4/12/2018,1,T,1,Entire home/apt,1,1 bath,1,1,72.00,31
+1082,Union Station,7/27/2016,0.99,T,3,Entire home/apt,3,1 bath,0,2,90.00,1
+1083,Shaw,7/27/2015,1,T,2,Entire home/apt,5,1 bath,1,2,129.00,1
+1084,Edgewood,4/29/2017,1,T,1,Entire home/apt,2,1 bath,1,1,83.00,31
+1087,Columbia Heights,9/28/2015,1,T,6,Entire home/apt,2,1 bath,1,1,90.00,2
+1090,Columbia Heights,12/28/2008,1,T,8,Private room,2,2 shared baths,1,1,79.00,1
+1092,Kalorama Heights,2/27/2013,1,T,1,Entire home/apt,2,1 bath,1,2,159.00,3
+1099,Dupont Circle,4/28/2018,1,T,1,Entire home/apt,2,2 baths,2,2,176.00,31
+1103,Capitol Hill,4/18/2015,1,T,7,Entire home/apt,4,2.5 baths,2,2,237.00,31
+1114,Edgewood,11/11/2017,0.93,T,1,Entire home/apt,2,1 bath,1,1,81.00,2
+1118,Union Station,6/1/2014,0.99,T,2,Entire home/apt,4,1 bath,1,2,140.00,2
+1127,Union Station,7/27/2016,0.98,T,5,Private room,1,1.5 shared baths,1,1,91.00,2
+1142,Union Station,7/22/2013,0.96,T,33,Entire home/apt,5,1 bath,2,3,137.00,31
+1143,Edgewood,9/30/2013,1,T,5,Entire home/apt,6,1 bath,2,4,139.00,2
+1145,Edgewood,11/2/2014,0.95,T,2,Entire home/apt,2,1 bath,1,1,122.00,2
+1150,Shaw,10/16/2016,1,T,3,Entire home/apt,2,1 bath,1,1,117.00,1
+1157,Dupont Circle,10/16/2016,1,T,3,Entire home/apt,2,1 bath,1,1,84.00,1
+1159,Capitol Hill,3/25/2017,1,T,2,Entire home/apt,2,1 bath,0,1,85.00,31
+1163,Georgetown,3/30/2015,0.99,T,9,Entire home/apt,4,1 bath,2,2,168.00,2
+1166,Columbia Heights,11/29/2017,0.97,T,5,Entire home/apt,6,2.5 baths,2,2,234.00,2
+1167,Capitol Hill,1/16/2016,0.88,T,1,Entire home/apt,4,1 bath,0,2,148.00,2
+1172,Capitol Hill,2/11/2016,0.95,T,2,Entire home/apt,4,1.5 baths,2,2,264.00,2
+1175,Columbia Heights,7/22/2014,0.96,T,1,Entire home/apt,2,1 bath,0,1,86.00,3
+1179,Edgewood,8/12/2013,0.92,T,1,Entire home/apt,2,1 bath,1,1,107.00,3
+1180,Shaw,12/9/2016,0.8,T,1,Entire home/apt,6,2 baths,3,3,418.00,31
+1182,Shaw,11/30/2016,0.8,T,3,Private room,6,1 private bath,2,3,185.00,2
+1185,Georgetown,4/19/2016,1,T,6,Entire home/apt,7,2 baths,3,5,304.00,2
+1189,Union Station,2/28/2014,1,T,1,Entire home/apt,4,1 bath,1,2,92.00,2
+1193,Union Station,7/8/2018,1,T,1,Entire home/apt,4,1 bath,1,1,95.00,1
+1194,Capitol Hill,9/8/2014,0.93,T,1,Entire home/apt,2,1 bath,0,2,106.00,2
+1195,Kalorama Heights,3/16/2013,0.93,T,45,Private room,2,1.5 baths,1,1,144.00,28
+1197,Shaw,10/6/2013,0.99,T,20,Entire home/apt,6,1 bath,2,5,214.00,3
+1198,Union Station,4/18/2017,1,T,4,Entire home/apt,4,1 bath,2,2,262.00,2
+1200,Columbia Heights,7/28/2013,1,T,1,Entire home/apt,4,1 bath,2,3,153.00,3
+1207,Kalorama Heights,9/3/2018,0.99,T,1,Entire home/apt,2,1 bath,1,2,86.00,1
+1215,Edgewood,11/2/2016,0.98,T,9,Private room,1,1 shared bath,1,1,51.00,1
+1218,Capitol Hill,8/22/2017,1,T,4,Entire home/apt,8,2 baths,2,2,252.00,31
+1222,Union Station,4/20/2016,0.98,T,1,Entire home/apt,2,1 bath,0,1,150.00,1
+1224,Union Station,4/10/2015,1,T,1,Private room,2,1 private bath,1,1,108.00,2
+1233,Capitol Hill,1/23/2012,1,T,2,Entire home/apt,3,1 bath,0,2,185.00,2
+1235,Capitol Hill,10/8/2018,0.94,T,1,Entire home/apt,4,1 bath,1,2,182.00,3
+1240,Columbia Heights,6/28/2015,0.97,T,1,Entire home/apt,6,2 baths,2,3,174.00,1
+1244,Edgewood,11/2/2016,0.98,T,9,Private room,1,1 shared bath,1,1,68.00,1
+1245,Capitol Hill,8/9/2018,1,T,7,Entire home/apt,7,1.5 baths,3,4,305.00,1
+1247,Union Station,7/27/2016,0.98,T,5,Private room,1,1.5 shared baths,1,1,67.00,2
+1248,Edgewood,10/8/2012,1,T,14,Entire home/apt,6,1 bath,3,3,157.00,2
+1254,Edgewood,10/23/2012,1,T,4,Entire home/apt,6,1 bath,1,1,166.00,1
+1256,Capitol Hill,4/27/2016,0.86,T,75,Entire home/apt,3,1 bath,1,1,156.00,31
+1257,Edgewood,3/6/2011,1,T,1,Entire home/apt,2,1 bath,1,1,110.00,2
+1259,Georgetown,9/14/2011,0.94,T,3,Entire home/apt,7,2.5 baths,3,4,700.00,4
+1260,Capitol Hill,10/15/2015,0.98,T,316,Entire home/apt,3,1 bath,0,2,109.00,3
+1266,Capitol Hill,4/29/2017,0.98,T,2,Entire home/apt,3,1 bath,0,2,136.00,1
+1267,Dupont Circle,5/18/2009,1,T,108,Entire home/apt,4,1 bath,1,2,267.00,1
+1268,Dupont Circle,5/18/2009,1,T,108,Entire home/apt,5,1 bath,2,4,281.00,1
+1269,Edgewood,4/21/2015,1,T,1,Entire home/apt,2,1 bath,0,1,103.00,2
+1270,Union Station,2/16/2014,1,T,3,Entire home/apt,4,1 bath,1,3,189.00,1
+1272,Georgetown,9/20/2018,0.94,T,1,Entire home/apt,4,1 bath,2,2,187.00,2
+1274,Georgetown,9/20/2014,1,T,37,Entire home/apt,4,1 bath,1,2,129.00,1
+1280,Edgewood,10/7/2017,0.83,T,3,Entire home/apt,6,2 baths,2,3,161.00,1
+1291,Shaw,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,136.00,3
+1296,Edgewood,10/15/2015,0.98,T,316,Entire home/apt,5,1 bath,1,3,142.00,3
+1301,Downtown,8/6/2014,1,T,7,Entire home/apt,4,1 bath,1,1,270.00,3
+1314,Columbia Heights,6/12/2013,1,T,2,Entire home/apt,2,1 bath,0,1,110.00,2
+1316,Kalorama Heights,5/4/2017,1,T,2,Entire home/apt,4,2 baths,2,2,136.00,31
+1318,Capitol Hill,3/14/2013,1,T,4,Private room,4,2.5 baths,3,3,189.00,2
+1320,Columbia Heights,5/24/2013,0.99,T,1,Entire home/apt,2,1 bath,1,1,97.00,1
+1321,Kalorama Heights,1/22/2019,1,T,1,Entire home/apt,6,2 baths,2,3,213.00,2
+1322,Columbia Heights,1/23/2019,0.98,T,1,Entire home/apt,3,1 bath,1,2,119.00,4
+1328,Union Station,1/29/2019,0.98,T,1,Entire home/apt,6,1 bath,1,2,159.00,2
+1339,Dupont Circle,3/16/2013,0.93,T,45,Private room,1,2.5 shared baths,1,1,140.00,30
+1342,Dupont Circle,4/6/2011,0.99,T,256,Entire home/apt,2,1 bath,1,1,67.00,1
+1346,Union Station,12/22/2016,0.68,T,45,Entire home/apt,3,1 bath,2,2,100.00,31
+1349,Capitol Hill,7/24/2013,0.98,T,3,Entire home/apt,8,2 baths,3,3,405.00,3
+1361,Columbia Heights,8/26/2013,1,T,1,Entire home/apt,6,2 baths,2,3,222.00,2
+1364,Edgewood,3/14/2012,0.91,T,4,Entire home/apt,6,1 bath,2,2,145.00,2
+1365,Columbia Heights,3/4/2019,1,T,1,Entire home/apt,2,1 bath,1,2,60.00,3
+1368,Columbia Heights,2/14/2019,1,T,2,Entire home/apt,2,1 bath,1,1,85.00,2
+1371,Kalorama Heights,4/15/2018,1,T,2,Entire home/apt,2,1 bath,0,1,83.00,2
+1372,Capitol Hill,2/11/2016,0.95,T,2,Entire home/apt,2,1.5 baths,1,1,192.00,2
+1375,Capitol Hill,8/4/2015,0.89,T,1,Entire home/apt,3,1 bath,0,2,119.00,1
+1383,Edgewood,11/2/2016,0.98,T,9,Private room,1,1 shared bath,1,1,50.00,1
+1386,Union Station,8/11/2016,0.98,T,2,Private room,1,1 shared bath,1,1,60.00,5
+1387,Shaw,6/15/2017,1,T,3,Private room,3,1 shared bath,1,2,103.00,1
+1388,Shaw,6/15/2017,1,T,3,Private room,3,1 shared bath,2,2,118.00,1
+1389,Shaw,6/15/2017,1,T,3,Private room,2,1 shared bath,1,1,113.00,1
+1390,Columbia Heights,1/16/2014,0.97,T,2,Entire home/apt,5,1 bath,2,2,155.00,2
+1398,Georgetown,9/20/2014,1,T,37,Entire home/apt,3,1 bath,1,2,225.00,1
+1417,Shaw,4/28/2019,0.99,T,1,Entire home/apt,2,1 bath,1,1,144.00,2
+1420,Capitol Hill,7/19/2017,0.86,T,5,Private room,1,1 shared bath,1,1,67.00,90
+1422,Shaw,4/25/2013,1,T,1,Entire home/apt,5,1 bath,2,2,272.00,2
+1436,Union Station,8/30/2015,1,T,2,Entire home/apt,4,1 bath,1,3,98.00,3
+1440,Union Station,10/15/2015,0.98,T,316,Entire home/apt,8,1.5 baths,2,6,248.00,31
+1441,Union Station,1/30/2016,0.92,T,1,Entire home/apt,4,1 bath,1,3,165.00,3
+1442,Capitol Hill,7/19/2017,0.86,T,5,Private room,1,1 shared bath,1,1,69.00,90
+1443,Edgewood,5/12/2013,0.98,T,9,Private room,1,1 private bath,1,1,77.00,2
+1450,Dupont Circle,3/16/2013,0.93,T,45,Private room,2,2.5 baths,2,1,151.00,1
+1453,Dupont Circle,4/25/2016,1,T,1,Entire home/apt,2,1 bath,1,1,240.00,3
+1460,Columbia Heights,1/26/2016,0.99,T,1,Entire home/apt,4,1 bath,1,2,164.00,2
+1469,Columbia Heights,2/13/2016,1,T,3,Entire home/apt,6,1.5 baths,2,2,222.00,2
+1470,Union Station,7/27/2016,0.99,T,3,Private room,2,1 shared bath,1,1,71.00,1
+1471,Capitol Hill,1/2/2017,1,T,1,Entire home/apt,4,1 bath,1,2,208.00,2
+1482,Union Station,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,127.00,3
+1483,Shaw,10/8/2011,0.98,T,1,Entire home/apt,4,2 baths,2,2,188.00,2
+1492,Capitol Hill,3/21/2016,1,T,2,Entire home/apt,5,1 bath,1,3,161.00,1
+1498,Columbia Heights,6/4/2014,1,T,6,Entire home/apt,16,2 baths,4,10,258.00,1
+1499,Shaw,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,121.00,3
+1503,Union Station,5/29/2018,0.99,T,1,Entire home/apt,4,1 bath,1,2,175.00,2
+1508,Capitol Hill,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,2,3,264.00,3
+1516,Capitol Hill,7/5/2019,0.94,T,1,Entire home/apt,2,1 bath,1,2,172.00,3
+1517,Union Station,9/11/2015,1,T,1,Entire home/apt,4,1 bath,1,3,135.00,3
+1518,Edgewood,4/29/2014,1,T,2,Entire home/apt,3,1 bath,1,1,128.00,2
+1525,Georgetown,10/14/2018,0.99,T,1,Entire home/apt,8,3.5 baths,3,5,562.00,2
+1530,Columbia Heights,11/7/2010,1,T,4,Entire home/apt,3,1 bath,1,2,101.00,1
+1531,Capitol Hill,12/30/2016,1,T,1,Entire home/apt,3,1 bath,1,1,119.00,2
+1546,Kalorama Heights,6/4/2010,0.98,T,18,Private room,1,1 private bath,1,1,207.00,1
+1551,Union Station,11/23/2014,1,T,1,Entire home/apt,2,1 bath,1,2,222.00,2
+1554,Dupont Circle,3/5/2015,0.96,T,6,Entire home/apt,2,1 bath,0,1,86.00,28
+1556,Union Station,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,112.00,3
+1562,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,4,2 baths,2,2,88.00,31
+1568,Capitol Hill,3/20/2014,0.94,T,1,Entire home/apt,3,1 bath,1,1,180.00,2
+1569,Capitol Hill,3/3/2017,0.98,T,1,Entire home/apt,2,1 bath,0,1,179.00,2
+1574,Capitol Hill,9/9/2019,1,T,2,Entire home/apt,2,1 bath,0,1,168.00,2
+1579,Edgewood,10/15/2015,0.98,T,316,Entire home/apt,4,1.5 baths,1,2,113.00,3
+1582,Union Station,10/19/2014,0.94,T,7,Entire home/apt,4,1 bath,1,2,192.00,1
+1584,Union Station,8/7/2013,1,T,1,Entire home/apt,3,1 bath,1,1,116.00,2
+1593,Columbia Heights,9/28/2019,0.96,T,2,Entire home/apt,2,1 bath,0,1,127.00,3
+1602,Union Station,8/27/2014,0.97,T,4,Entire home/apt,2,1 bath,0,1,127.00,2
+1604,Edgewood,4/10/2013,0.9,T,1,Entire home/apt,2,1 bath,1,1,79.00,2
+1606,Union Station,5/29/2012,1,T,5,Entire home/apt,6,1 bath,0,3,112.00,1
+1608,Shaw,10/17/2019,1,T,1,Entire home/apt,5,1 bath,2,2,207.00,2
+1617,Shaw,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,0,1,121.00,3
+1618,Capitol Hill,1/9/2014,0.97,T,2,Entire home/apt,5,1 bath,1,1,205.00,1
+1619,Dupont Circle,4/6/2011,0.99,T,256,Entire home/apt,2,1 bath,1,1,67.00,1
+1630,Union Station,11/16/2019,0.98,T,1,Entire home/apt,4,1 bath,0,2,86.00,3
+1631,Shaw,3/6/2017,1,T,1,Entire home/apt,6,2.5 baths,3,4,740.00,3
+1634,Shaw,7/3/2014,1,T,1,Entire home/apt,4,1 bath,1,2,199.00,4
+1636,Union Station,7/9/2012,1,T,3,Entire home/apt,4,1 bath,2,2,170.00,31
+1638,Union Station,8/27/2014,0.97,T,4,Entire home/apt,2,1 bath,0,1,144.00,2
+1640,Columbia Heights,11/29/2017,0.97,T,5,Entire home/apt,3,1 bath,1,1,93.00,2
+1641,Edgewood,5/12/2013,1,T,1,Entire home/apt,2,1 bath,1,1,102.00,1
+1645,Union Station,5/22/2016,0.95,T,2,Entire home/apt,8,1.5 baths,3,5,344.00,4
+1647,Kalorama Heights,7/28/2017,1,T,2,Entire home/apt,2,1 bath,0,1,161.00,1
+1648,Union Station,5/2/2016,1,T,1,Entire home/apt,4,1 bath,1,2,192.00,2
+1657,Columbia Heights,7/12/2016,0.92,T,1,Entire home/apt,2,1 bath,1,2,92.00,3
+1660,Shaw,12/2/2019,1,T,5,Private room,4,1 private bath,1,2,122.00,1
+1666,Capitol Hill,10/16/2013,0.98,T,2,Private room,1,1 shared bath,1,1,90.00,5
+1687,Columbia Heights,1/3/2020,0.98,T,2,Entire home/apt,4,1 bath,1,1,136.00,2
+1689,Edgewood,2/1/2015,1,T,6,Entire home/apt,5,2.5 baths,2,2,205.00,1
+1692,Capitol Hill,7/18/2016,1,T,2,Entire home/apt,3,1 bath,1,2,188.00,3
+1694,Union Station,6/7/2014,0.99,T,1,Entire home/apt,6,1 bath,2,4,155.00,1
+1695,Capitol Hill,4/12/2014,0.96,T,1,Entire home/apt,2,1 bath,1,2,123.00,3
+1697,Columbia Heights,3/25/2015,0.99,T,5,Entire home/apt,6,1 bath,2,3,184.00,1
+1722,Capitol Hill,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,119.00,31
+1724,Dupont Circle,9/17/2013,1,T,1,Entire home/apt,4,1 bath,1,2,187.00,4
+1728,Capitol Hill,9/10/2013,0.96,T,1,Entire home/apt,2,1 bath,1,1,119.00,2
+1729,Capitol Hill,10/28/2013,1,T,2,Entire home/apt,6,2.5 baths,2,2,347.00,1
+1731,Union Station,2/4/2020,0.98,T,1,Entire home/apt,3,1 bath,1,2,101.00,1
+1732,Capitol Hill,6/14/2016,0.88,T,1,Entire home/apt,3,1 bath,1,1,211.00,2
+1735,Columbia Heights,5/24/2016,0.99,T,5,Entire home/apt,4,1 bath,1,2,101.00,2
+1753,Capitol Hill,12/19/2015,0.95,T,2,Entire home/apt,4,1 bath,1,2,226.00,2
+1754,Shaw,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,135.00,3
+1758,Union Station,12/23/2014,0.96,T,3,Entire home/apt,5,2 baths,2,2,261.00,2
+1772,Union Station,10/8/2019,0.98,T,2,Entire home/apt,4,1 bath,2,3,161.00,2
+1778,Union Station,11/22/2014,0.98,T,1,Entire home/apt,4,1.5 baths,2,3,235.00,3
+1785,Union Station,3/8/2015,1,T,1,Entire home/apt,4,1 bath,1,2,167.00,3
+1814,Edgewood,7/11/2014,1,T,1,Entire home/apt,6,1 bath,2,3,121.00,3
+1816,Dupont Circle,3/6/2018,1,T,14,Entire home/apt,2,1.5 baths,1,1,341.00,3
+1845,Columbia Heights,12/28/2008,1,T,8,Private room,2,2 shared baths,1,1,83.00,1
+1846,Columbia Heights,12/28/2008,1,T,8,Private room,2,2 shared baths,1,1,79.00,1
+1856,Edgewood,7/25/2017,0.99,T,1,Entire home/apt,4,1 bath,1,1,79.00,1
+1868,Georgetown,4/6/2011,0.99,T,256,Entire home/apt,8,3.5 baths,3,5,216.00,1
+1869,Georgetown,4/6/2011,0.99,T,256,Entire home/apt,6,2.5 baths,2,3,132.00,1
+1872,Capitol Hill,8/21/2011,0.97,T,2,Entire home/apt,4,2.5 baths,2,2,342.00,31
+1873,Capitol Hill,2/8/2018,0.71,T,1,Entire home/apt,4,1 bath,1,2,134.00,3
+1874,Union Station,8/29/2020,1,T,1,Entire home/apt,6,1 bath,1,3,206.00,2
+1879,Shaw,1/30/2016,0.97,T,2,Entire home/apt,4,1 bath,1,2,194.00,2
+1886,Dupont Circle,5/6/2018,0.38,T,4,Entire home/apt,2,1 bath,1,1,122.00,2
+1893,Columbia Heights,11/13/2018,0.96,T,3,Entire home/apt,4,1 bath,0,1,88.00,31
+1897,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,4,1 bath,2,3,223.00,2
+1898,Union Station,7/7/2014,0.98,T,2,Entire home/apt,4,1.5 baths,2,3,396.00,2
+1903,Capitol Hill,1/6/2016,1,T,15,Entire home/apt,4,1 bath,1,2,167.00,31
+1914,Capitol Hill,10/6/2020,1,T,1,Entire home/apt,6,1 bath,2,4,330.00,3
+1922,Union Station,12/13/2012,0.99,T,2,Entire home/apt,6,1.5 baths,2,4,276.00,1
+1923,Union Station,3/10/2015,1,T,1,Entire home/apt,4,2.5 baths,2,2,192.00,2
+1929,Capitol Hill,4/23/2019,1,T,9,Entire home/apt,5,1 bath,1,5,209.00,1
+1931,Capitol Hill,4/23/2019,1,T,9,Entire home/apt,3,1 bath,0,2,214.00,1
+1932,Capitol Hill,4/23/2019,1,T,9,Entire home/apt,3,1 bath,0,2,217.00,1
+1933,Capitol Hill,4/23/2019,1,T,9,Entire home/apt,5,1 bath,1,5,273.00,1
+1939,Union Station,6/28/2011,0.83,T,2,Entire home/apt,3,1 bath,0,2,111.00,1
+1948,Kalorama Heights,10/20/2014,1,T,2,Entire home/apt,3,1 bath,0,1,139.00,2
+1949,Capitol Hill,10/13/2014,0.95,T,6,Entire home/apt,4,1 bath,2,3,303.00,1
+1956,Columbia Heights,1/27/2013,0.98,T,3,Entire home/apt,4,1 bath,2,2,123.00,2
+1957,Capitol Hill,10/13/2014,0.95,T,6,Entire home/apt,2,1 bath,1,1,139.00,1
+1965,Capitol Hill,9/29/2015,1,T,2,Entire home/apt,4,2 baths,2,2,295.00,2
+1966,Georgetown,4/6/2011,0.99,T,256,Entire home/apt,3,1 bath,1,2,108.00,1
+1968,Dupont Circle,3/14/2012,0.91,T,4,Entire home/apt,4,1 bath,1,2,99.00,31
+1969,Capitol Hill,10/13/2014,0.95,T,6,Entire home/apt,6,1 bath,2,5,213.00,1
+1972,Edgewood,3/25/2019,1,T,4,Entire home/apt,10,3.5 baths,5,5,197.00,2
+1975,Capitol Hill,1/9/2013,0.93,T,2,Entire home/apt,2,1 bath,1,1,121.00,2
+1981,Columbia Heights,1/26/2014,0.97,T,1,Entire home/apt,4,1 bath,0,1,127.00,1
+1983,Edgewood,3/11/2016,0.88,T,4,Entire home/apt,2,1 bath,1,1,92.00,31
+1987,Columbia Heights,10/15/2015,0.98,T,316,Entire home/apt,4,2 baths,2,2,151.00,3
+1988,Capitol Hill,4/24/2012,0.93,T,1,Entire home/apt,2,1 bath,1,1,114.00,3
+1989,Dupont Circle,6/3/2017,0.96,T,7,Entire home/apt,2,1 bath,1,1,180.00,31
+1990,Kalorama Heights,6/3/2017,0.96,T,7,Entire home/apt,2,1 bath,1,1,121.00,31
+2017,Shaw,7/28/2013,0.64,T,3,Entire home/apt,2,1 bath,1,1,80.00,31
+2022,Union Station,12/13/2012,0.99,T,2,Entire home/apt,4,1 bath,1,1,132.00,2
+2023,Kalorama Heights,10/20/2014,1,T,2,Entire home/apt,2,1 bath,1,2,99.00,2
+2036,Edgewood,7/5/2012,0.85,T,11,Entire home/apt,4,1 bath,1,2,207.00,31
+2041,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,4,1 bath,2,2,178.00,2
+2054,Shaw,1/30/2021,1,T,9,Entire home/apt,2,1 bath,0,1,94.00,31
+2056,Georgetown,9/20/2014,1,T,37,Entire home/apt,2,1 bath,0,1,198.00,1
+2064,Edgewood,6/16/2013,0.94,T,1,Entire home/apt,3,1 bath,0,2,100.00,2
+2071,Union Station,2/17/2021,1,T,1,Entire home/apt,4,1 bath,1,2,131.00,2
+2075,Columbia Heights,5/6/2015,1,T,2,Entire home/apt,5,1 bath,2,3,273.00,2
+2087,Union Station,6/20/2011,0.87,T,6,Entire home/apt,2,1 bath,1,2,161.00,3
+2096,Union Station,3/3/2021,0.94,T,1,Entire home/apt,6,2 baths,3,3,229.00,2
+2106,Kalorama Heights,6/3/2017,0.96,T,7,Entire home/apt,2,1 bath,1,2,124.00,31
+2107,Capitol Hill,8/6/2018,0.97,T,2,Entire home/apt,3,1 bath,1,1,114.00,3
+2119,Capitol Hill,3/15/2021,0.99,T,1,Entire home/apt,4,1 bath,1,2,136.00,2
+2120,Edgewood,1/8/2012,0.97,T,1,Entire home/apt,4,1 bath,1,2,118.00,3
+2121,Union Station,12/15/2014,0.97,T,1,Entire home/apt,4,1 bath,2,2,211.00,2
+2138,Kalorama Heights,1/30/2021,1,T,9,Entire home/apt,6,2 baths,3,4,321.00,1
+2148,Columbia Heights,4/3/2021,1,T,2,Entire home/apt,4,1 bath,1,2,132.00,3
+2151,Union Station,4/9/2021,0.97,T,1,Entire home/apt,3,1 bath,2,2,147.00,3
+2153,Union Station,4/25/2015,0.99,T,1,Entire home/apt,6,1 bath,2,2,214.00,1
+2160,Capitol Hill,2/22/2016,1,T,1,Entire home/apt,4,1 bath,1,2,193.00,2
+2166,Capitol Hill,5/22/2016,0.97,T,1,Entire home/apt,3,1 bath,1,2,91.00,1
+2168,Dupont Circle,8/2/2016,0.84,T,1,Entire home/apt,2,1 bath,1,1,116.00,3
+2176,Edgewood,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,2,2,162.00,3
+2187,Capitol Hill,10/18/2019,0.67,T,5,Private room,1,1 shared bath,1,1,45.00,31
+2191,Dupont Circle,5/10/2021,0.97,T,1,Entire home/apt,3,1 bath,1,2,146.00,2
+2192,Union Station,6/4/2012,1,T,1,Entire home/apt,4,1 bath,1,2,143.00,1
+2208,Capitol Hill,12/6/2017,1,T,2,Entire home/apt,3,1 bath,1,2,131.00,1
+2214,Kalorama Heights,8/7/2016,1,T,2,Entire home/apt,2,1 bath,1,2,137.00,1
+2227,Union Station,2/23/2015,0.98,T,1,Entire home/apt,6,1 bath,2,3,237.00,2
+2235,Dupont Circle,4/3/2016,1,T,2,Entire home/apt,4,1 bath,1,2,205.00,1
+2237,Capitol Hill,6/5/2021,0.96,T,1,Entire home/apt,4,1 bath,1,2,153.00,2
+2246,Union Station,7/10/2014,1,T,1,Entire home/apt,2,1 bath,1,1,155.00,2
+2249,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,5,1 bath,2,2,204.00,2
+2257,Columbia Heights,10/15/2015,0.98,T,316,Entire home/apt,5,1 bath,2,3,124.00,3
+2259,Union Station,5/21/2021,1,T,2,Entire home/apt,4,1 bath,1,2,100.00,31
+2261,Shaw,6/16/2021,0.98,T,1,Entire home/apt,6,1 bath,2,2,236.00,1
+2263,Edgewood,7/31/2014,1,T,23,Entire home/apt,4,1 bath,1,1,104.00,3
+2264,Georgetown,11/26/2012,0.98,T,4,Private room,2,1 private bath,1,2,97.00,3
+2268,Columbia Heights,11/28/2018,0.98,T,1,Entire home/apt,4,1 bath,1,2,119.00,2
+2270,Kalorama Heights,4/26/2014,0.99,T,2,Entire home/apt,3,1 bath,1,2,107.00,2
+2277,Edgewood,6/13/2012,1,T,1,Entire home/apt,3,1 bath,1,2,126.00,2
+2279,Capitol Hill,8/29/2013,0.97,T,2,Entire home/apt,6,2.5 baths,3,3,512.00,2
+2286,Columbia Heights,5/16/2015,0.92,T,1,Entire home/apt,3,1 bath,1,3,120.00,3
+2297,Capitol Hill,3/16/2012,0.98,T,1,Entire home/apt,4,1 bath,1,2,167.00,3
+2300,Kalorama Heights,3/15/2012,1,T,2,Entire home/apt,2,1 bath,1,1,157.00,2
+2303,Downtown,6/14/2016,1,T,1,Entire home/apt,4,1 bath,1,2,154.00,2
+2304,Union Station,8/5/2014,0.93,T,7,Entire home/apt,2,1 bath,1,1,176.00,2
+2324,Edgewood,7/12/2015,0.97,T,1,Entire home/apt,4,1 bath,2,2,122.00,2
+2328,Union Station,8/5/2021,0.99,T,1,Entire home/apt,4,1 bath,2,3,149.00,2
+2334,Shaw,9/15/2014,0.98,T,3,Entire home/apt,2,1 bath,1,2,205.00,4
+2339,Shaw,8/16/2020,1,T,7,Entire home/apt,5,1 bath,2,2,183.00,1
+2340,Downtown,10/23/2016,0.98,T,1,Entire home/apt,2,1 bath,1,2,146.00,2
+2343,Georgetown,5/14/2012,0.96,T,3,Entire home/apt,2,1 bath,1,1,70.00,2
+2345,Union Station,11/21/2020,0.92,T,2,Entire home/apt,1,1 bath,0,1,148.00,7
+2348,Union Station,10/15/2015,0.99,T,2,Entire home/apt,6,1 bath,2,3,196.00,1
+2349,Capitol Hill,10/15/2018,0.7,T,2,Entire home/apt,2,1 bath,1,1,135.00,2
+2355,Union Station,9/5/2012,1,T,1,Entire home/apt,3,1 bath,1,2,86.00,1
+2356,Dupont Circle,10/15/2015,0.98,T,316,Entire home/apt,8,2 baths,3,5,501.00,3
+2357,Kalorama Heights,10/15/2015,0.98,T,316,Entire home/apt,5,2 baths,3,3,265.00,3
+2358,Union Station,5/29/2012,1,T,5,Entire home/apt,4,1 bath,0,2,120.00,1
+2361,Dupont Circle,2/6/2015,0.94,T,2,Entire home/apt,2,1 bath,1,1,227.00,3
+2366,Capitol Hill,8/21/2016,1,T,1,Entire home/apt,4,1 bath,2,2,286.00,2
+2369,Edgewood,9/5/2021,0.97,T,2,Entire home/apt,4,1 bath,1,1,178.00,2
+2371,Columbia Heights,6/28/2011,0.87,T,1,Entire home/apt,4,1 bath,1,3,114.00,1
+2372,Edgewood,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,119.00,3
+2377,Capitol Hill,5/11/2015,0.96,T,21,Entire home/apt,8,4 baths,4,4,451.00,4
+2378,Shaw,9/13/2021,0.95,T,1,Entire home/apt,2,1 bath,0,1,90.00,2
+2379,Edgewood,5/5/2019,1,T,5,Entire home/apt,6,1 bath,2,3,99.00,31
+2380,Columbia Heights,7/7/2012,0.96,T,2,Entire home/apt,4,1 bath,1,2,125.00,3
+2382,Union Station,10/7/2011,1,T,1,Entire home/apt,4,1 bath,1,1,120.00,1
+2385,Georgetown,4/6/2011,0.99,T,256,Entire home/apt,5,1.5 baths,2,2,118.00,1
+2386,Georgetown,4/6/2011,0.99,T,256,Entire home/apt,3,1 bath,1,1,94.00,1
+2387,Georgetown,4/6/2011,0.99,T,256,Entire home/apt,7,2.5 baths,3,3,197.00,31
+2400,Columbia Heights,5/29/2020,0.93,T,1,Entire home/apt,6,1 bath,1,0,113.00,2
+2401,Columbia Heights,9/10/2012,1,T,19,Entire home/apt,4,1 bath,2,2,136.00,1
+2406,Union Station,9/29/2021,0.98,T,3,Entire home/apt,5,2 baths,3,3,278.00,3
+2414,Union Station,6/16/2016,1,T,1,Entire home/apt,4,1 bath,1,1,133.00,1
+2416,Union Station,3/25/2019,1,T,1,Entire home/apt,4,1 bath,1,2,172.00,2
+2418,Edgewood,6/26/2015,1,T,1,Entire home/apt,4,1 bath,1,1,139.00,1
+2422,Edgewood,7/14/2014,1,T,1,Entire home/apt,4,1 bath,1,2,119.00,1
+2424,Edgewood,10/12/2021,0.93,T,1,Entire home/apt,3,1 bath,1,2,114.00,2
+2427,Columbia Heights,10/17/2021,1,T,2,Entire home/apt,6,2 baths,2,3,173.00,2
+2439,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,148.00,2
+2441,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,100.00,2
+2443,Capitol Hill,11/4/2020,0.96,T,1,Entire home/apt,2,1 bath,1,1,125.00,2
+2448,Union Station,11/1/2021,1,T,1,Entire home/apt,4,1 bath,1,2,111.00,2
+2454,Georgetown,5/14/2012,0.96,T,3,Entire home/apt,6,1.5 baths,3,4,399.00,2
+2462,Capitol Hill,10/9/2012,1,T,1,Entire home/apt,4,1 bath,1,2,231.00,2
+2464,Dupont Circle,6/3/2017,0.96,T,7,Entire home/apt,4,1 bath,2,2,185.00,5
+2468,Capitol Hill,5/15/2014,0.87,T,2,Entire home/apt,2,1 bath,1,2,107.00,3
+2475,Capitol Hill,11/18/2021,0.97,T,2,Entire home/apt,4,1 bath,1,2,173.00,2
+2486,Columbia Heights,9/25/2014,1,T,1,Entire home/apt,5,1 bath,2,3,144.00,3
+2498,Shaw,4/27/2016,0.86,T,75,Entire home/apt,4,1 bath,2,3,113.00,31
+2504,Kalorama Heights,3/3/2014,0.97,T,1,Entire home/apt,4,1 bath,1,1,143.00,3
+2507,Union Station,7/24/2013,0.98,T,3,Entire home/apt,9,3 baths,4,5,327.00,3
+2517,Capitol Hill,3/16/2015,1,T,2,Entire home/apt,2,1 bath,1,1,184.00,1
+2521,Capitol Hill,8/24/2016,0.94,T,2,Entire home/apt,2,1 bath,1,2,94.00,3
+2523,Capitol Hill,2/8/2016,1,T,4,Entire home/apt,6,2 baths,3,3,438.00,2
+2534,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,4,1 bath,2,2,225.00,2
+2537,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,114.00,2
+2538,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,158.00,2
+2539,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,71.00,2
+2547,Capitol Hill,12/3/2020,1,T,4,Entire home/apt,5,2 baths,3,3,302.00,3
+2561,Edgewood,3/25/2019,1,T,4,Entire home/apt,4,1 bath,2,2,94.00,2
+2568,Union Station,11/30/2013,0.93,T,1,Entire home/apt,3,1 bath,1,2,128.00,4
+2569,Union Station,6/5/2014,1,T,1,Entire home/apt,4,1 bath,1,3,162.00,2
+2570,Columbia Heights,12/26/2011,0.91,T,2,Entire home/apt,4,1 bath,2,2,149.00,2
+2571,Columbia Heights,5/15/2015,0.99,T,1,Entire home/apt,4,1 bath,1,2,137.00,1
+2579,Edgewood,11/2/2016,0.98,T,9,Entire home/apt,2,1 bath,1,1,92.00,1
+2582,Georgetown,6/14/2015,0.99,T,1,Entire home/apt,8,2 baths,3,6,376.00,1
+2592,Edgewood,12/12/2008,0.94,T,5,Private room,2,1 private bath,1,1,80.00,1
+2598,Capitol Hill,3/26/2016,1,T,1,Entire home/apt,3,1 bath,0,2,208.00,2
+2600,Edgewood,4/6/2011,0.99,T,256,Entire home/apt,6,2.5 baths,3,3,170.00,1
+2608,Edgewood,4/6/2015,0.95,T,1,Entire home/apt,2,1 bath,1,1,75.00,2
+2620,Union Station,1/13/2022,1,T,1,Entire home/apt,4,1 bath,1,2,145.00,1
+2625,Columbia Heights,10/19/2011,1,T,1,Entire home/apt,3,1 bath,1,2,120.00,3
+2627,Shaw,8/2/2021,1,T,3,Entire home/apt,3,1 bath,1,2,103.00,5
+2630,Capitol Hill,2/5/2013,0.79,T,3,Entire home/apt,2,1 bath,1,1,169.00,2
+2644,Capitol Hill,10/15/2018,0.7,T,2,Entire home/apt,2,1 bath,1,1,155.00,2
+2645,Edgewood,10/23/2019,0.98,T,1,Entire home/apt,3,1 bath,0,1,84.00,2
+2650,Kalorama Heights,9/1/2017,1,T,3,Entire home/apt,1,1 bath,1,1,133.00,31
+2652,Dupont Circle,3/6/2018,1,T,14,Private room,2,1.5 baths,1,1,426.00,3
+2654,Dupont Circle,3/6/2018,1,T,14,Private room,2,1.5 baths,1,1,444.00,3
+2660,Capitol Hill,2/28/2022,0.98,T,1,Entire home/apt,4,1 bath,1,2,225.00,3
+2663,Edgewood,2/13/2013,0.88,T,1,Entire home/apt,4,1 bath,2,3,131.00,2
+2669,Capitol Hill,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,115.00,3
+2673,Georgetown,10/15/2015,0.98,T,316,Entire home/apt,6,1.5 baths,2,3,230.00,3
+2679,Edgewood,9/23/2016,1,T,1,Entire home/apt,4,1 bath,2,2,180.00,4
+2686,Capitol Hill,9/9/2019,1,T,2,Entire home/apt,6,1 bath,2,3,320.00,2
+2688,Union Station,12/10/2014,1,T,2,Entire home/apt,4,1 bath,1,2,156.00,1
+2692,Georgetown,5/18/2009,1,T,108,Entire home/apt,5,2 baths,3,3,354.00,1
+2699,Downtown,10/15/2015,0.98,T,316,Entire home/apt,4,2 baths,2,2,283.00,3
+2704,Shaw,8/16/2020,1,T,7,Entire home/apt,2,1 bath,0,1,104.00,1
+2711,Union Station,8/21/2016,0.97,T,1,Entire home/apt,2,1 bath,1,1,186.00,2
+2718,Shaw,6/17/2018,1,T,1,Entire home/apt,4,1 bath,0,2,91.00,1
+2723,Dupont Circle,1/30/2021,1,T,9,Entire home/apt,4,1 bath,0,3,189.00,30
+2724,Shaw,6/30/2016,1,T,14,Entire home/apt,4,1 bath,1,2,134.00,2
+2725,Shaw,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,0,1,116.00,3
+2726,Shaw,10/28/2013,1,T,15,Entire home/apt,2,1 bath,1,2,109.00,31
+2732,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,4,1 bath,2,2,161.00,2
+2736,Edgewood,9/23/2020,0.87,T,1,Entire home/apt,2,1 bath,1,1,70.00,1
+2737,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,74.00,1
+2740,Foggy Bottom,12/6/2011,0.92,T,1,Private room,2,1 private bath,1,1,139.00,1
+2745,Columbia Heights,1/15/2014,0.8,T,1,Entire home/apt,4,1 bath,1,2,132.00,3
+2746,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,123.00,2
+2747,Edgewood,10/28/2015,0.91,T,1,Entire home/apt,3,1 bath,1,1,86.00,1
+2750,Union Station,6/6/2016,1,T,1,Entire home/apt,4,1 bath,1,2,145.00,3
+2754,Capitol Hill,2/8/2016,1,T,4,Entire home/apt,4,1 bath,2,2,214.00,2
+2756,Georgetown,4/14/2022,1,T,3,Entire home/apt,3,1 bath,1,1,195.00,2
+2757,Union Station,7/24/2014,1,T,1,Entire home/apt,2,1 bath,1,1,108.00,2
+2760,Shaw,8/6/2016,0.92,T,1,Entire home/apt,2,1.5 baths,1,1,186.00,2
+2762,Capitol Hill,6/3/2015,0.97,T,2,Entire home/apt,4,1 bath,1,2,142.00,1
+2766,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,2,1 bath,0,1,135.00,2
+2774,Kalorama Heights,4/27/2022,0.97,T,1,Entire home/apt,5,1 bath,1,3,143.00,2
+2775,Shaw,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,149.00,3
+2779,Capitol Hill,1/22/2016,1,T,5,Entire home/apt,6,1 bath,1,3,137.00,1
+2806,Columbia Heights,9/29/2014,0.97,T,13,Entire home/apt,3,1 bath,0,2,128.00,7
+2807,Union Station,1/2/2017,1,T,3,Entire home/apt,13,2.5 baths,3,6,226.00,1
+2810,Edgewood,4/20/2022,1,T,1,Entire home/apt,4,1 bath,1,2,139.00,2
+2812,Edgewood,2/7/2020,0.81,T,2,Entire home/apt,4,1 bath,1,2,132.00,3
+2816,Kalorama Heights,10/7/2021,1,T,1,Entire home/apt,6,2 baths,2,2,246.00,2
+2823,Columbia Heights,11/6/2015,0.83,T,1,Entire home/apt,2,1 bath,1,2,146.00,3
+2824,Capitol Hill,1/9/2018,0.99,T,1,Entire home/apt,2,1 bath,1,1,148.00,2
+2825,Dupont Circle,10/8/2012,1,T,14,Entire home/apt,4,1 bath,1,2,290.00,2
+2829,Columbia Heights,11/7/2013,1,T,8,Entire home/apt,3,1 bath,1,2,84.00,1
+2830,Capitol Hill,2/8/2016,1,T,4,Entire home/apt,2,1 bath,1,1,113.00,2
+2831,Capitol Hill,2/8/2016,1,T,4,Entire home/apt,4,1 bath,2,2,227.00,2
+2833,Dupont Circle,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,159.00,3
+2834,Dupont Circle,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,138.00,3
+2836,Capitol Hill,5/24/2022,1,T,1,Entire home/apt,2,1 bath,1,1,95.00,2
+2837,Dupont Circle,10/8/2012,1,T,14,Entire home/apt,10,2 baths,4,6,319.00,2
+2838,Columbia Heights,12/3/2014,0.98,T,5,Entire home/apt,6,1 bath,2,3,290.00,1
+2846,Union Station,4/25/2015,0.9,T,1,Entire home/apt,3,1 bath,1,2,144.00,3
+2850,Union Station,8/27/2014,0.97,T,4,Entire home/apt,6,1.5 baths,1,3,204.00,2
+2851,Dupont Circle,1/13/2013,0.94,T,1,Entire home/apt,4,1 bath,1,2,214.00,3
+2852,Edgewood,5/15/2014,0.99,T,4,Entire home/apt,5,2 baths,2,3,223.00,2
+2853,Capitol Hill,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,146.00,3
+2855,Edgewood,12/12/2008,0.94,T,5,Private room,2,1 private bath,1,1,101.00,1
+2858,Columbia Heights,6/6/2022,1,T,1,Entire home/apt,3,1 bath,1,1,115.00,2
+2863,Downtown,1/22/2020,0.99,T,1,Entire home/apt,3,1 bath,1,2,282.00,3
+2864,Union Station,10/21/2014,1,T,1,Entire home/apt,6,1.5 baths,2,3,232.00,2
+2865,Downtown,1/25/2022,1,T,6,Private room,2,2 baths,1,1,263.00,1
+2873,Union Station,7/9/2012,0.81,T,1,Entire home/apt,3,1 bath,1,2,102.00,2
+2875,Capitol Hill,10/24/2017,0.98,T,2,Entire home/apt,4,1 bath,1,2,143.00,1
+2880,Shaw,6/13/2022,0.99,T,12,Private room,2,1 private bath,1,1,68.00,31
+2887,Capitol Hill,7/11/2019,0.89,T,1,Entire home/apt,3,1 bath,1,2,212.00,2
+2889,Edgewood,5/29/2014,0.97,T,2,Entire home/apt,6,1.5 baths,1,3,163.00,1
+2904,Union Station,6/25/2022,1,T,3,Entire home/apt,2,1 bath,1,1,180.00,3
+2906,Kalorama Heights,8/10/2018,1,T,2,Entire home/apt,2,1 bath,1,1,187.00,2
+2908,Capitol Hill,6/27/2022,0.95,T,1,Entire home/apt,4,1 bath,1,2,159.00,2
+2911,Dupont Circle,1/20/2015,0.99,T,1,Entire home/apt,2,1 bath,1,1,141.00,2
+2914,Union Station,6/29/2022,0.97,T,3,Entire home/apt,4,1 bath,1,2,133.00,2
+2917,Columbia Heights,6/29/2022,1,T,1,Entire home/apt,4,1 bath,1,2,117.00,2
+2919,Capitol Hill,2/10/2018,0.97,T,1,Entire home/apt,2,1 bath,1,1,82.00,1
+2923,Shaw,6/30/2016,1,T,14,Entire home/apt,6,1.5 baths,2,2,181.00,2
+2928,Kalorama Heights,8/10/2018,1,T,2,Entire home/apt,7,2.5 baths,3,5,401.00,1
+2929,Edgewood,8/24/2020,1,T,1,Entire home/apt,2,1 bath,0,1,99.00,2
+2934,Shaw,6/13/2022,0.99,T,12,Private room,2,1 private bath,1,1,75.00,31
+2935,Shaw,6/13/2022,0.99,T,12,Private room,2,1 private bath,1,1,68.00,31
+2936,Shaw,6/13/2022,0.99,T,12,Private room,2,1 private bath,1,1,72.00,31
+2951,Edgewood,5/29/2013,0.92,T,2,Entire home/apt,4,1 bath,2,2,130.00,2
+2952,Union Station,12/29/2011,0.99,T,1,Entire home/apt,4,2.5 baths,2,3,260.00,2
+2956,Columbia Heights,6/23/2022,1,T,1,Entire home/apt,4,1 bath,1,2,91.00,5
+2965,Union Station,5/6/2013,0.94,T,1,Entire home/apt,4,1 bath,1,2,122.00,2
+2978,Union Station,7/9/2012,1,T,3,Entire home/apt,4,1 bath,2,2,130.00,31
+2979,Shaw,6/13/2022,0.99,T,12,Private room,2,1 private bath,1,1,98.00,31
+2984,Edgewood,7/25/2016,0.98,T,1,Entire home/apt,4,1 bath,1,2,134.00,1
+2988,Edgewood,7/19/2014,0.98,T,1,Entire home/apt,6,1 bath,2,3,190.00,1
+2992,Union Station,7/17/2014,1,T,1,Entire home/apt,4,1 bath,1,2,141.00,2
+2994,Edgewood,12/13/2013,0.97,T,1,Entire home/apt,2,1 bath,1,1,92.00,2
+3001,Georgetown,4/14/2022,1,T,3,Entire home/apt,3,1 bath,0,1,194.00,2
+3010,Georgetown,11/26/2012,0.98,T,4,Private room,3,1 private bath,1,2,88.00,3
+3011,Georgetown,3/4/2017,0.99,T,2,Entire home/apt,6,1 bath,2,2,227.00,1
+3012,Columbia Heights,11/19/2013,0.99,T,1,Entire home/apt,2,1 bath,1,1,79.00,2
+3018,Union Station,5/18/2009,1,T,108,Entire home/apt,2,1 bath,1,1,112.00,1
+3020,Shaw,5/14/2019,0.99,T,2,Entire home/apt,4,1 bath,1,2,143.00,1
+3037,Edgewood,2/18/2015,0.91,T,1,Entire home/apt,2,1 bath,1,1,138.00,2
+3041,Edgewood,12/17/2012,0.84,T,2,Entire home/apt,5,1 bath,1,1,135.00,2
+3045,Shaw,12/31/2015,0.99,T,1,Entire home/apt,2,1 bath,1,1,136.00,2
+3046,Union Station,10/1/2022,0.99,T,1,Entire home/apt,4,1 bath,1,1,120.00,2
+3048,Columbia Heights,5/10/2016,1,T,3,Entire home/apt,3,1 bath,1,2,126.00,2
+3053,Union Station,6/2/2015,1,T,1,Entire home/apt,3,1 bath,1,2,204.00,4
+3058,Union Station,6/5/2013,1,T,1,Entire home/apt,4,2 baths,2,2,291.00,2
+3061,Edgewood,5/4/2015,0.99,T,2,Entire home/apt,3,1 bath,1,2,114.00,2
+3064,Dupont Circle,4/6/2011,0.99,T,256,Entire home/apt,6,2.5 baths,3,3,130.00,31
+3069,Union Station,12/27/2015,0.87,T,1,Entire home/apt,4,1 bath,1,1,137.00,2
+3076,Shaw,6/14/2016,0.54,T,3,Entire home/apt,4,1.5 baths,2,2,130.00,31
+3081,Edgewood,12/12/2008,0.94,T,5,Private room,2,1 private bath,1,1,84.00,1
+3087,Union Station,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,123.00,2
+3089,Columbia Heights,8/28/2013,0.99,T,1,Entire home/apt,2,1 bath,0,1,66.00,1
+3093,Dupont Circle,5/18/2015,0.96,T,13,Entire home/apt,6,1 bath,2,3,263.00,3
+3097,Dupont Circle,6/28/2012,1,T,2,Entire home/apt,2,1 bath,1,1,112.00,1
+3102,Capitol Hill,1/6/2016,0.98,T,2,Entire home/apt,4,1 bath,2,2,238.00,2
+3112,Columbia Heights,11/11/2013,0.95,T,2,Entire home/apt,4,1 bath,1,3,153.00,2
+3117,Edgewood,8/23/2017,1,T,1,Entire home/apt,4,1 bath,1,2,131.00,2
+3121,Edgewood,4/6/2011,0.99,T,256,Entire home/apt,4,2 baths,2,2,105.00,1
+3151,Capitol Hill,12/7/2014,1,T,3,Entire home/apt,4,1.5 baths,2,2,203.00,3
+3152,Capitol Hill,5/15/2014,0.87,T,2,Entire home/apt,5,2.5 baths,3,4,307.00,3
+3155,Edgewood,4/2/2015,0.97,T,1,Entire home/apt,4,1 bath,2,3,176.00,2
+3158,Edgewood,4/6/2011,0.99,T,256,Entire home/apt,4,1 bath,2,2,94.00,1
+3164,Columbia Heights,9/28/2014,1,T,1,Entire home/apt,3,1 bath,1,1,113.00,2
+3165,Union Station,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,134.00,3
+3169,Georgetown,10/15/2015,0.98,T,316,Entire home/apt,7,3.5 baths,4,4,599.00,3
+3179,Edgewood,8/2/2021,1,T,3,Entire home/apt,7,3 baths,3,3,335.00,31
+3180,Georgetown,12/19/2022,0.96,T,2,Entire home/apt,3,1 bath,1,2,251.00,2
+3199,Union Station,8/27/2014,0.97,T,4,Entire home/apt,6,3 baths,3,4,325.00,3
+3204,Union Station,10/19/2014,0.94,T,7,Entire home/apt,4,1 bath,1,2,240.00,1
+3216,Columbia Heights,5/24/2017,0.99,T,2,Entire home/apt,4,1 bath,1,2,77.00,2
+3220,Capitol Hill,12/14/2016,1,T,1,Entire home/apt,3,1 bath,1,2,135.00,3
+3221,Columbia Heights,10/15/2015,0.98,T,316,Entire home/apt,6,2.5 baths,2,3,171.00,3
+3232,Capitol Hill,5/18/2009,1,T,108,Entire home/apt,2,1 bath,1,1,92.00,31
+3245,Union Station,1/29/2023,0.89,T,1,Entire home/apt,4,1 bath,1,2,110.00,2
+3247,Union Station,9/5/2016,0.96,T,1,Entire home/apt,2,1 bath,0,1,116.00,1
+3248,Kalorama Heights,1/17/2018,1,T,7,Private room,2,1.5 baths,1,1,75.00,31
+3252,Shaw,7/29/2016,0.92,T,3,Entire home/apt,4,2 baths,2,2,250.00,31
+3259,Union Station,2/3/2023,1,T,1,Entire home/apt,4,1 bath,1,2,152.00,2
+3271,Capitol Hill,3/30/2015,0.99,T,2,Entire home/apt,4,1 bath,1,2,143.00,1
+3272,Capitol Hill,5/24/2018,0.99,T,1,Entire home/apt,4,1 bath,1,2,161.00,3
+3278,Columbia Heights,6/2/2015,0.99,T,5,Private room,2,1.5 baths,1,1,90.00,1
+3283,Capitol Hill,8/5/2019,0.93,T,1,,2,1 bath,1,1,125.00,2
+3292,Georgetown,5/14/2020,1,T,9,Entire home/apt,4,1 bath,2,2,188.00,1
+3297,Capitol Hill,2/5/2013,0.79,T,3,Entire home/apt,2,2.5 baths,1,2,598.00,3
+3301,Edgewood,4/6/2011,0.99,T,256,Entire home/apt,6,2 baths,3,3,129.00,1
+3302,Edgewood,4/6/2011,0.99,T,256,Entire home/apt,4,1 bath,1,1,78.00,1
+3307,Foggy Bottom,12/9/2015,0.87,T,2,Entire home/apt,6,2.5 baths,3,4,243.00,60
+3334,Columbia Heights,1/27/2013,0.98,T,1,Entire home/apt,4,1 bath,1,2,103.00,1
+3339,Edgewood,12/31/2015,1,T,1,Entire home/apt,3,1 bath,1,1,119.00,2
+3340,Capitol Hill,10/15/2015,0.98,T,316,Entire home/apt,7,2 baths,2,4,269.00,3
+3343,Columbia Heights,7/26/2015,0.92,T,1,Entire home/apt,4,2 baths,2,2,170.00,3
+3348,Edgewood,3/20/2023,1,T,1,Entire home/apt,2,1 bath,1,2,143.00,2
+3349,Dupont Circle,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,149.00,3
+3362,Union Station,3/23/2023,0.96,T,3,Entire home/apt,8,3 baths,5,5,331.00,3
+3364,Shaw,6/13/2022,0.99,T,12,Private room,1,1 private bath,1,1,82.00,31
+3371,Edgewood,11/28/2018,0.99,T,16,Entire home/apt,5,2 baths,2,3,154.00,3
+3372,Edgewood,5/23/2014,1,T,2,Entire home/apt,6,2.5 baths,2,4,199.00,2
+3376,Shaw,8/10/2014,0.99,T,3,Entire home/apt,12,4.5 baths,7,11,933.00,1
+3379,Union Station,4/25/2017,0.98,T,1,Entire home/apt,3,1 bath,1,1,100.00,2
+3382,Downtown,8/10/2014,0.99,T,3,,8,2.5 baths,4,9,579.00,1
+3385,Columbia Heights,3/21/2011,0.99,T,2,Entire home/apt,8,2.5 baths,4,4,496.00,3
+3387,Capitol Hill,11/19/2013,0.96,T,2,Entire home/apt,12,2 baths,3,6,383.00,3
+3388,Capitol Hill,4/8/2017,0.98,T,5,Entire home/apt,6,2 baths,2,3,452.00,2
+3412,Union Station,5/25/2015,0.99,T,2,Entire home/apt,2,1 bath,1,1,133.00,2
+3413,Union Station,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,139.00,3
+3423,Capitol Hill,8/23/2015,0.95,T,1,Entire home/apt,2,1 bath,1,1,115.00,3
+3425,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,1,2,190.00,31
+3428,Columbia Heights,6/30/2016,0.97,T,5,Entire home/apt,5,1 bath,2,3,154.00,2
+3429,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,1.5 baths,2,2,323.00,31
+3450,Foggy Bottom,3/5/2016,0.97,T,6,Entire home/apt,2,1 bath,1,1,222.00,1
+3451,Shaw,10/15/2015,0.98,T,316,Entire home/apt,4,2 baths,2,2,330.00,3
+3452,Shaw,3/23/2013,0.97,T,3,Entire home/apt,4,1.5 baths,2,3,341.00,2
+3463,Kalorama Heights,5/3/2023,1,T,1,Entire home/apt,4,1 bath,1,2,270.00,2
+3465,Columbia Heights,1/24/2014,1,T,1,Entire home/apt,6,1.5 baths,2,3,171.00,2
+3474,Union Station,9/29/2021,0.98,T,3,Entire home/apt,5,2 baths,3,3,216.00,3
+3482,Shaw,6/1/2021,1,T,3,Entire home/apt,6,1 bath,1,1,163.00,2
+3485,Columbia Heights,6/8/2011,0.96,T,1,Entire home/apt,4,1 bath,1,3,98.00,2
+3488,Dupont Circle,7/24/2014,1,T,1,Entire home/apt,4,1 bath,1,2,204.00,2
+3491,Union Station,6/29/2022,0.97,T,3,Entire home/apt,7,2.5 baths,3,4,265.00,3
+3494,Columbia Heights,8/25/2018,0.98,T,1,Entire home/apt,2,1 bath,1,1,103.00,2
+3495,Capitol Hill,10/30/2011,1,T,1,Entire home/apt,4,1 bath,1,1,140.00,2
+3504,Union Station,1/13/2016,0.97,T,1,Entire home/apt,4,1 bath,1,2,134.00,1
+3508,Columbia Heights,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,119.00,3
+3509,Shaw,6/13/2022,0.99,T,12,Private room,2,1 private bath,1,1,70.00,31
+3526,Edgewood,12/12/2017,0.75,T,1,Entire home/apt,2,1 bath,1,1,145.00,2
+3538,Union Station,1/15/2014,0.74,T,1,Entire home/apt,4,1 bath,1,1,158.00,2
+3546,Edgewood,4/21/2016,0.83,T,1,Entire home/apt,2,1 bath,1,1,100.00,21
+3549,Georgetown,11/26/2012,0.98,T,4,Private room,1,1 bath,1,1,67.00,3
+3551,Edgewood,2/25/2023,0.98,T,2,Entire home/apt,5,1 bath,2,2,203.00,2
+3552,Union Station,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,2,2,146.00,3
+3561,Columbia Heights,3/30/2015,1,T,4,Private room,2,1 shared bath,1,1,105.00,2
+3562,Columbia Heights,3/30/2015,1,T,4,Private room,2,1 shared bath,1,1,100.00,2
+3566,Kalorama Heights,1/17/2018,1,T,7,Private room,2,1.5 baths,1,1,78.00,29
+3567,Edgewood,2/24/2016,1,T,1,Entire home/apt,4,1 bath,2,3,141.00,2
+3574,Edgewood,2/1/2015,1,T,3,Entire home/apt,3,1 bath,1,1,120.00,1
+3575,Union Station,10/15/2015,0.98,T,316,Entire home/apt,6,1 bath,2,3,226.00,3
+3578,Dupont Circle,6/16/2016,0.96,T,2,Entire home/apt,3,1 bath,1,1,218.00,3
+3579,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,0,2,185.00,31
+3580,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,2,3,250.00,31
+3581,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,1,2,225.00,31
+3585,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,2,1 bath,0,2,185.00,31
+3593,Georgetown,9/20/2014,1,T,37,Entire home/apt,2,1 bath,0,1,107.00,1
+3602,Columbia Heights,6/2/2015,0.99,T,5,Private room,2,1 shared bath,1,1,58.00,1
+3605,Columbia Heights,6/4/2014,1,T,6,Entire home/apt,3,1 bath,1,1,99.00,2
+3608,Dupont Circle,4/6/2011,0.99,T,256,,2,1 bath,1,1,65.00,31
+3611,Edgewood,11/28/2018,0.99,T,16,Entire home/apt,5,2 baths,2,3,137.00,3
+3613,Union Station,9/4/2018,0.96,T,1,Entire home/apt,5,1 bath,2,2,175.00,2
+3614,Union Station,5/8/2013,0.9,T,1,Entire home/apt,6,1 bath,2,3,195.00,2
+3621,Dupont Circle,7/11/2023,0.96,T,1,Entire home/apt,3,1 bath,1,2,137.00,2
+3625,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,1 bath,2,3,171.00,1
+3626,Georgetown,9/20/2014,1,T,37,Entire home/apt,3,1 bath,1,2,141.00,1
+3628,Edgewood,9/2/2022,0.97,T,4,Entire home/apt,6,1 bath,1,3,150.00,2
+3632,Edgewood,12/13/2015,0.99,T,1,Entire home/apt,2,1 bath,1,2,139.00,2
+3637,Edgewood,11/2/2014,1,T,1,Entire home/apt,3,1 bath,2,2,147.00,3
+3642,Union Station,7/30/2014,0.99,T,2,Entire home/apt,4,1 bath,1,3,122.00,1
+3645,Union Station,5/11/2015,1,T,4,Entire home/apt,2,1 bath,1,1,82.00,1
+3654,Dupont Circle,6/19/2013,1,T,1,Entire home/apt,2,1 bath,1,1,172.00,3
+3655,Edgewood,1/3/2016,1,T,3,Entire home/apt,4,1 bath,2,2,152.00,2
+3657,Union Station,10/7/2019,1,T,2,Entire home/apt,6,2.5 baths,2,3,388.00,2
+3658,Columbia Heights,11/22/2013,0.93,T,1,Entire home/apt,4,1 bath,2,2,171.00,3
+3665,Capitol Hill,11/8/2016,0.96,T,2,Entire home/apt,3,1 bath,1,2,154.00,3
+3667,Capitol Hill,3/3/2014,0.97,T,1,,2,1 bath,1,1,102.00,1
+3671,Kalorama Heights,10/13/2015,0.96,T,1,Entire home/apt,2,1 bath,1,1,117.00,2
+3679,Columbia Heights,11/30/2018,0.91,T,3,Entire home/apt,5,2 baths,2,3,172.00,3
+3682,Columbia Heights,11/30/2018,0.91,T,3,Entire home/apt,5,2 baths,2,2,229.00,3
+3692,Union Station,8/4/2023,0.97,T,7,Entire home/apt,10,3 baths,3,4,222.00,1
+3696,Union Station,8/4/2023,0.97,T,7,Entire home/apt,14,4 baths,6,7,270.00,1
+3703,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,0,2,180.00,31
+3704,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,0,2,155.00,31
+3706,Union Station,8/4/2023,0.97,T,7,Entire home/apt,6,1 bath,2,3,162.00,1
+3708,Capitol Hill,12/13/2015,0.98,T,2,Entire home/apt,4,1 bath,1,2,156.00,3
+3716,Kalorama Heights,6/28/2017,1,T,1,Entire home/apt,2,1 bath,1,1,168.00,4
+3721,Capitol Hill,5/11/2015,0.96,T,21,Entire home/apt,4,2 baths,2,2,205.00,4
+3722,Shaw,7/31/2014,1,T,23,Entire home/apt,2,1 bath,1,1,169.00,2
+3724,Kalorama Heights,11/5/2012,0.88,T,4,Private room,1,2 shared baths,1,1,100.00,1
+3725,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,1,2,165.00,31
+3728,Kalorama Heights,11/5/2012,0.88,T,4,Private room,2,2 baths,1,1,117.00,1
+3729,Kalorama Heights,11/5/2012,0.88,T,4,Private room,2,2 baths,1,1,100.00,1
+3730,Capitol Hill,9/28/2021,0.93,T,26,Entire home/apt,4,1 bath,0,1,170.00,31
+3734,Capitol Hill,1/6/2016,1,T,15,Entire home/apt,4,1 bath,1,2,215.00,2
+3736,Edgewood,2/26/2015,1,T,5,Entire home/apt,2,1 bath,1,1,135.00,3
+3738,Georgetown,12/19/2022,0.96,T,2,Entire home/apt,7,3.5 baths,4,5,1321.00,1
+3753,Capitol Hill,1/27/2016,1,T,1,Entire home/apt,4,1 bath,2,2,199.00,4
+3758,Edgewood,12/12/2015,0.96,T,3,Entire home/apt,5,2 baths,2,2,93.00,31
+3768,Union Station,7/16/2015,0.85,T,1,Entire home/apt,2,1 bath,1,1,105.00,2
+3776,Shaw,3/28/2012,1,T,3,Entire home/apt,2,1 bath,0,1,69.00,32
+3782,Columbia Heights,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,115.00,3
+3798,Shaw,1/16/2022,0.98,T,2,Entire home/apt,4,2 baths,2,2,201.00,2
+3808,Union Station,10/19/2021,0.99,T,4,Entire home/apt,6,2 baths,2,2,252.00,1
+3809,Downtown,1/25/2022,1,T,6,Private room,4,1 bath,1,2,273.00,1
+3810,Capitol Hill,8/30/2014,1,T,1,Entire home/apt,2,1 bath,1,1,139.00,2
+3813,Edgewood,5/4/2015,0.99,T,2,Entire home/apt,5,2.5 baths,2,2,228.00,1
+3818,Union Station,2/25/2016,0.93,T,2,Entire home/apt,2,1 bath,0,1,121.00,2
+3826,Georgetown,5/18/2009,1,T,108,Entire home/apt,6,3.5 baths,3,4,481.00,1
+3827,Dupont Circle,5/18/2009,1,T,108,Entire home/apt,4,1 bath,1,2,224.00,1
+3828,Edgewood,10/10/2016,0.92,T,1,Entire home/apt,2,1 bath,1,1,93.00,2
+3834,Dupont Circle,12/8/2013,0.99,T,1,Entire home/apt,3,1 bath,1,1,250.00,2
+3858,Union Station,5/29/2012,1,T,5,Entire home/apt,4,1 bath,1,2,127.00,1
+3883,Columbia Heights,5/2/2012,0.98,T,2,Entire home/apt,4,1 bath,2,2,152.00,2
+3888,Columbia Heights,2/1/2014,0.98,T,5,Entire home/apt,2,1 bath,1,1,141.00,2
+3889,Columbia Heights,2/1/2014,0.98,T,5,Entire home/apt,2,1 bath,1,1,129.00,2
+3897,Capitol Hill,1/22/2016,1,T,5,Private room,2,1.5 baths,1,1,90.00,1
+3901,Columbia Heights,10/24/2023,1,T,1,Entire home/apt,4,1 bath,2,2,135.00,1
+3902,Edgewood,1/30/2018,1,T,1,Entire home/apt,3,1 bath,1,2,130.00,1
+3913,Columbia Heights,11/27/2012,1,T,2,Entire home/apt,3,1 bath,1,2,136.00,4
+3919,Union Station,4/12/2016,0.99,T,14,Entire home/apt,2,1 bath,2,2,156.00,31
+3926,Downtown,8/6/2014,1,T,7,Entire home/apt,2,1 bath,1,1,270.00,3
+3928,Edgewood,4/6/2011,0.99,T,256,Entire home/apt,4,1 bath,2,2,79.00,1
+3930,Capitol Hill,7/18/2018,1,T,1,Entire home/apt,4,1 bath,2,2,218.00,2
+3941,Georgetown,3/30/2018,0.99,T,1,Entire home/apt,2,1 bath,1,1,125.00,2
+3948,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,1 bath,2,3,178.00,1
+3953,Columbia Heights,9/15/2019,0.99,T,1,Entire home/apt,4,1 bath,1,1,139.00,1
+3959,Dupont Circle,10/6/2023,1,T,3,Entire home/apt,3,1 bath,1,2,143.00,3
+3962,Columbia Heights,11/9/2023,1,T,5,Private room,1,1 shared bath,1,1,55.00,31
+3970,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,2 baths,2,3,190.00,1
+3974,Capitol Hill,11/22/2023,0.96,T,1,Entire home/apt,6,2.5 baths,2,2,361.00,2
+3977,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,2.5 baths,2,3,207.00,1
+3978,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,2 baths,2,3,218.00,1
+3979,Shaw,11/4/2014,1,T,3,Entire home/apt,4,1 bath,1,1,158.00,1
+3988,Edgewood,5/27/2016,0.99,T,1,Entire home/apt,4,1 bath,1,2,100.00,1
+3998,Union Station,11/25/2023,0.99,T,2,Entire home/apt,4,1 bath,1,2,151.00,1
+4015,Union Station,10/26/2023,0.98,T,23,Entire home/apt,8,2 baths,2,4,229.00,1
+4016,Union Station,10/26/2023,0.98,T,23,Entire home/apt,8,2 baths,2,4,196.00,1
+4018,Shaw,4/4/2012,1,T,2,Entire home/apt,2,1 bath,0,1,86.00,180
+4019,Edgewood,10/27/2022,0.83,T,1,Entire home/apt,4,1 bath,1,1,119.00,1
+4024,Capitol Hill,5/3/2016,1,T,1,Entire home/apt,2,1 bath,1,1,109.00,3
+4026,Capitol Hill,7/4/2015,1,T,5,Entire home/apt,4,1 bath,1,1,145.00,2
+4028,Union Station,10/26/2023,0.98,T,23,Entire home/apt,6,1 bath,2,3,159.00,1
+4054,Dupont Circle,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,167.00,3
+4058,Edgewood,8/10/2019,1,T,23,Entire home/apt,6,1 bath,2,3,139.00,2
+4063,Union Station,12/13/2023,0.99,T,1,Entire home/apt,4,1 bath,1,1,126.00,2
+4076,Union Station,8/10/2019,1,T,23,Entire home/apt,12,2 baths,4,10,296.00,2
+4080,Georgetown,9/20/2014,1,T,37,Entire home/apt,4,1 bath,2,2,196.00,1
+4082,Georgetown,5/14/2020,1,T,9,Entire home/apt,4,1 bath,2,1,162.00,1
+4085,Edgewood,12/16/2023,1,T,1,Entire home/apt,3,1 bath,1,4,125.00,1
+4086,Union Station,8/10/2012,0.76,T,7,Entire home/apt,2,1 bath,1,1,157.00,1
+4094,Capitol Hill,12/21/2023,1,T,1,Entire home/apt,4,1 bath,1,1,151.00,2
+4107,Edgewood,9/10/2012,1,T,19,Entire home/apt,4,1 bath,2,2,198.00,3
+4124,Edgewood,1/13/2016,0.99,T,1,Entire home/apt,3,1 bath,1,1,80.00,2
+4141,Union Station,11/21/2015,0.93,T,1,Entire home/apt,4,1 bath,1,1,176.00,2
+4143,Edgewood,7/31/2014,1,T,23,Entire home/apt,4,2 baths,2,2,178.00,2
+4144,Edgewood,7/31/2014,1,T,23,Entire home/apt,6,3 baths,3,3,264.00,2
+4149,Union Station,2/19/2015,0.86,T,1,Entire home/apt,4,1 bath,1,2,144.00,3
+4150,Columbia Heights,1/10/2024,1,T,3,Entire home/apt,2,1 bath,1,1,152.00,2
+4171,Union Station,8/21/2014,0.97,T,1,Entire home/apt,2,1 bath,1,1,267.00,2
+4180,Columbia Heights,1/10/2024,1,T,3,Entire home/apt,2,1 bath,1,1,124.00,2
+4219,Union Station,2/1/2024,0.95,T,2,Entire home/apt,4,1 bath,2,2,117.00,1
+4234,Columbia Heights,2/4/2024,1,T,1,Entire home/apt,2,1 bath,1,1,218.00,1
+4236,Georgetown,2/6/2024,0.97,T,4,Entire home/apt,5,1 bath,1,0,115.00,2
+4237,Columbia Heights,2/25/2013,1,T,1,Entire home/apt,6,1 bath,2,2,216.00,1
+4238,Union Station,2/7/2024,0.91,T,1,Entire home/apt,4,1 bath,1,2,89.00,2
+4241,Union Station,5/24/2019,0.96,T,1,Entire home/apt,4,1 bath,1,2,193.00,2
+4249,Union Station,10/3/2017,0.67,T,1,Entire home/apt,4,2 baths,2,3,110.00,31
+4251,Edgewood,4/26/2014,0.9,T,2,Private room,2,1 private bath,1,1,107.00,1
+4252,Downtown,6/11/2014,0.98,T,186,Entire home/apt,4,1 bath,1,2,238.00,3
+4253,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,280.00,3
+4254,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,280.00,3
+4255,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,280.00,3
+4258,Capitol Hill,11/18/2021,0.97,T,2,Entire home/apt,6,1.5 baths,2,2,263.00,2
+4301,Dupont Circle,8/26/2019,0.99,T,26,Entire home/apt,4,2 baths,2,2,237.00,2
+4303,Columbia Heights,8/27/2013,0.93,T,1,Entire home/apt,2,1 bath,1,1,73.00,3
+4327,Capitol Hill,2/22/2024,0.99,T,1,Entire home/apt,4,1 bath,1,1,161.00,2
+4332,Shaw,1/11/2015,0.98,T,1,Entire home/apt,2,1 bath,1,1,209.00,2
+4372,Georgetown,7/27/2017,0.97,T,2,,3,1 bath,1,1,178.00,2
+4374,Capitol Hill,7/4/2015,1,T,5,Entire home/apt,4,1 bath,0,1,140.00,2
+4375,Capitol Hill,8/30/2016,0.99,T,1,Entire home/apt,4,1 bath,2,2,275.00,2
+4376,Downtown,6/11/2014,0.98,T,186,Entire home/apt,3,1 bath,1,1,175.00,3
+4377,Downtown,6/11/2014,0.98,T,186,Entire home/apt,5,2 baths,2,3,260.00,3
+4379,Union Station,7/29/2018,0.99,T,18,Entire home/apt,10,3.5 baths,4,5,379.00,1
+4394,Union Station,1/14/2016,0.97,T,3,Entire home/apt,4,1 bath,1,2,129.00,2
+4396,Edgewood,3/11/2016,0.89,T,4,Entire home/apt,6,1.5 baths,2,3,209.00,2
+4397,Edgewood,11/2/2016,0.98,T,9,Private room,1,2 shared baths,1,1,65.00,1
+4402,Union Station,3/11/2024,1,T,9,Entire home/apt,4,1 bath,1,2,104.00,31
+4407,Union Station,3/11/2024,1,T,9,Entire home/apt,4,1 bath,1,2,100.00,31
+4408,Union Station,3/11/2024,1,T,9,Entire home/apt,2,1 bath,0,1,79.00,31
+4409,Union Station,3/11/2024,1,T,9,Entire home/apt,4,2 baths,2,3,125.00,31
+4410,Columbia Heights,3/13/2024,0.89,T,2,Entire home/apt,5,1 bath,2,3,91.00,2
+4416,Union Station,5/5/2016,0.97,T,1,Entire home/apt,4,1 bath,1,2,163.00,2
+4418,Edgewood,3/19/2024,1,T,1,Entire home/apt,3,1 bath,1,2,87.00,2
+4421,Union Station,12/23/2014,0.96,T,3,Entire home/apt,2,1.5 baths,1,1,153.00,2
+4422,Downtown,3/15/2024,1,T,5,Private room,2,1 private bath,1,1,169.00,1
+4423,Shaw,3/15/2024,1,T,5,Private room,4,1 bath,1,2,196.00,1
+4424,Downtown,3/15/2024,1,T,5,Private room,2,1 bath,1,1,174.00,1
+4425,Shaw,3/15/2024,1,T,5,Private room,2,1 bath,1,1,183.00,1
+4431,Edgewood,6/4/2023,0.99,T,4,Entire home/apt,8,3 baths,3,4,257.00,1
+4432,Union Station,2/9/2016,1,T,4,Entire home/apt,2,1 bath,1,1,128.00,2
+4433,Union Station,12/23/2014,0.96,T,3,Entire home/apt,5,2.5 baths,2,2,222.00,2
+4434,Shaw,3/12/2024,1,T,6,Private room,2,1 bath,1,1,166.00,1
+4435,Shaw,3/12/2024,1,T,6,Private room,2,1 bath,1,1,341.00,1
+4436,Shaw,3/12/2024,1,T,6,Private room,4,1 bath,1,2,178.00,1
+4437,Shaw,3/12/2024,1,T,6,Private room,2,1 bath,1,2,187.00,1
+4438,Shaw,3/12/2024,1,T,6,Private room,4,1 private bath,1,2,200.00,1
+4439,Shaw,3/12/2024,1,T,6,,2,1 bath,1,2,171.00,1
+4449,Shaw,5/9/2012,0.95,T,3,Entire home/apt,2,1 bath,0,1,105.00,1
+4451,Union Station,1/28/2014,0.99,T,4,Entire home/apt,5,2.5 baths,3,3,363.00,2
+4458,Columbia Heights,1/6/2012,0.92,T,1,Entire home/apt,2,1 bath,1,1,113.00,2
+4460,Capitol Hill,1/19/2017,0.99,T,1,Entire home/apt,4,1 bath,1,2,188.00,2
+4463,Union Station,3/26/2024,0.96,T,1,Entire home/apt,4,1 bath,1,2,158.00,2
+4466,Edgewood,2/12/2016,0.96,T,3,Entire home/apt,2,1.5 baths,2,2,109.00,31
+4468,Capitol Hill,12/14/2015,0.98,T,2,Entire home/apt,2,1 bath,1,1,81.00,2
+4469,Edgewood,3/18/2017,1,T,7,Entire home/apt,4,1 bath,1,2,166.00,3
+4470,Union Station,3/23/2023,0.96,T,3,Entire home/apt,4,2 baths,2,2,149.00,2
+4471,Union Station,7/2/2014,0.94,T,1,Entire home/apt,4,2 baths,1,2,118.00,2
+4480,Capitol Hill,3/22/2024,0.97,T,1,Entire home/apt,4,1 bath,1,2,268.00,2
+4486,Columbia Heights,1/10/2024,1,T,3,Entire home/apt,2,1 bath,1,1,141.00,2
+4489,Shaw,7/31/2014,1,T,23,Entire home/apt,2,1 bath,1,1,172.00,2
+4491,Shaw,6/14/2016,0.54,T,3,Entire home/apt,2,1 bath,1,1,85.00,31
+4500,Dupont Circle,6/4/2017,0.83,T,1,Entire home/apt,3,1 bath,1,2,157.00,2
+4502,Capitol Hill,12/27/2016,0.93,T,4,Entire home/apt,4,1 bath,1,2,311.00,2
+4503,Union Station,10/1/2017,1,T,1,Entire home/apt,4,1 bath,1,2,101.00,2
+4539,Edgewood,8/2/2014,0.89,T,2,Private room,1,1.5 baths,1,1,89.00,31
+4541,Shaw,4/26/2014,0.91,T,6,Entire home/apt,2,1 bath,1,2,215.00,3
+4544,Columbia Heights,3/1/2017,0.98,T,1,Entire home/apt,4,1 bath,1,2,115.00,2
+4547,Union Station,4/19/2024,1,T,13,Entire home/apt,7,2 baths,2,3,214.00,2
+4558,Edgewood,8/2/2017,0.99,T,2,Entire home/apt,6,2.5 baths,2,4,154.00,2
+4586,Union Station,4/6/2011,0.99,T,256,Entire home/apt,6,2.5 baths,3,4,193.00,1
+4597,Dupont Circle,2/25/2018,1,T,1,Entire home/apt,4,1 bath,1,2,206.00,3
+4600,Kalorama Heights,11/7/2016,1,T,1,Entire home/apt,6,2.5 baths,2,3,335.00,2
+4601,Capitol Hill,1/5/2017,0.93,T,1,Entire home/apt,2,1 bath,1,1,152.00,3
+4602,Edgewood,4/29/2024,0.97,T,3,Entire home/apt,4,1 bath,2,2,170.00,2
+4603,Union Station,2/20/2016,1,T,1,Entire home/apt,4,1 bath,2,2,136.00,2
+4607,Capitol Hill,5/1/2024,1,T,1,Entire home/apt,4,1 bath,2,2,194.00,2
+4618,Capitol Hill,6/6/2017,0.9,T,2,,8,4.5 shared baths,4,5,845.00,3
+4621,Kalorama Heights,5/2/2024,0.99,T,4,Entire home/apt,4,1 bath,2,2,273.00,1
+4626,Capitol Hill,11/27/2017,1,T,1,Entire home/apt,7,2 baths,3,4,259.00,2
+4627,Capitol Hill,8/10/2021,0.97,T,1,Private room,2,1.5 shared baths,1,1,75.00,2
+4631,Columbia Heights,1/18/2018,0.97,T,2,Entire home/apt,4,1 bath,2,2,174.00,2
+4635,Union Station,5/6/2024,0.79,T,2,Entire home/apt,9,2.5 baths,5,5,597.00,3
+4657,Capitol Hill,5/13/2017,1,T,4,Entire home/apt,4,1 bath,2,2,157.00,2
+4658,Union Station,7/28/2014,0.95,T,1,Entire home/apt,5,2.5 baths,2,3,243.00,3
+4661,Columbia Heights,7/28/2016,0.88,T,2,Entire home/apt,4,1 bath,1,2,101.00,14
+4681,Union Station,9/28/2016,1,T,3,Entire home/apt,5,1 bath,2,4,118.00,2
+4683,Edgewood,4/29/2024,0.97,T,3,Entire home/apt,5,2.5 baths,2,2,247.00,2
+4692,Edgewood,9/13/2017,1,T,1,Entire home/apt,4,1 bath,2,2,149.00,3
+4694,Dupont Circle,10/20/2020,0.99,T,4,Entire home/apt,6,1 bath,2,4,218.00,2
+4707,Union Station,9/23/2013,0.97,T,1,Entire home/apt,4,1 bath,1,2,106.00,1
+4708,Capitol Hill,3/12/2014,0.98,T,2,Entire home/apt,3,1 bath,1,1,105.00,1
+4714,Union Station,10/15/2015,0.98,T,316,Entire home/apt,6,2.5 baths,3,3,261.00,3
+4715,Columbia Heights,4/2/2012,0.92,T,3,Entire home/apt,4,2.5 baths,2,2,206.00,2
+4717,Union Station,5/6/2024,0.97,T,1,Entire home/apt,6,2 baths,3,4,200.00,3
+4718,Capitol Hill,3/21/2024,0.98,T,3,Entire home/apt,4,1 bath,2,2,220.00,3
+4719,Capitol Hill,3/21/2024,0.98,T,3,Entire home/apt,4,1 bath,2,2,271.00,3
+4742,Columbia Heights,3/31/2018,1,T,3,Entire home/apt,3,1 bath,1,2,135.00,1
+4747,Capitol Hill,6/8/2012,0.96,T,7,Entire home/apt,5,1 bath,1,3,176.00,2
+4748,Union Station,6/14/2016,0.54,T,3,Entire home/apt,2,1 bath,0,1,69.00,31
+4753,Capitol Hill,4/4/2016,0.93,T,1,Entire home/apt,2,1 bath,1,1,182.00,2
+4771,Edgewood,6/28/2015,0.99,T,4,Entire home/apt,4,1 bath,1,2,118.00,1
+4773,Dupont Circle,6/11/2024,1,T,4,Private room,2,1 bath,1,1,189.00,1
+4774,Foggy Bottom,6/11/2024,1,T,4,Private room,2,1 private bath,1,1,210.00,1
+4775,Foggy Bottom,6/11/2024,1,T,4,Private room,4,1 bath,0,2,224.00,1
+4780,Columbia Heights,6/12/2018,0.99,T,2,Entire home/apt,4,1 bath,1,2,131.00,1
+4795,Union Station,4/26/2014,0.91,T,6,Entire home/apt,2,1 bath,1,1,99.00,31
+4798,Union Station,2/24/2015,0.99,T,1,Entire home/apt,3,1 bath,1,1,116.00,2
+4823,Columbia Heights,8/6/2015,0.97,T,1,Entire home/apt,2,1 bath,1,2,117.00,2
+4825,Capitol Hill,6/28/2024,0.99,T,1,Entire home/apt,6,3 baths,3,3,303.00,2
+4828,Dupont Circle,9/14/2022,1,T,1,Entire home/apt,2,1 bath,1,1,233.00,2
+4835,Union Station,8/10/2019,1,T,23,Entire home/apt,16,3.5 baths,5,12,442.00,2
+4849,Dupont Circle,9/26/2022,0.99,T,69,Entire home/apt,3,1 bath,1,2,177.00,1
+4879,Union Station,4/23/2019,1,T,9,Entire home/apt,2,1 bath,1,1,120.00,31
+4880,Union Station,4/23/2019,1,T,9,Entire home/apt,3,1 bath,2,2,138.00,31
+4884,Union Station,7/31/2016,0.96,T,1,Entire home/apt,4,1 bath,2,2,136.00,1
+4906,Union Station,7/22/2024,0.95,T,1,Entire home/apt,2,1 bath,1,1,124.00,1
+4907,Union Station,12/10/2014,1,T,2,Entire home/apt,5,1.5 baths,2,4,162.00,2
+4910,Capitol Hill,10/3/2023,1,T,7,,10,3.5 baths,3,6,437.00,2
+4911,Capitol Hill,10/3/2023,1,T,7,Entire home/apt,10,3.5 baths,3,5,395.00,2
+4915,Union Station,2/1/2024,0.95,T,2,Entire home/apt,4,1 bath,1,2,117.00,1
+4926,Georgetown,5/31/2016,1,T,1,Entire home/apt,5,2 baths,2,2,392.00,2
+4935,Edgewood,9/22/2015,0.97,T,1,Entire home/apt,4,1 bath,1,2,108.00,2
+4957,Edgewood,1/24/2022,1,T,2,Entire home/apt,4,1 bath,1,3,152.00,1
+4960,Edgewood,12/10/2022,0.94,T,6,Entire home/apt,4,1 bath,1,2,166.00,2
+4962,Edgewood,11/28/2018,0.99,T,16,Entire home/apt,7,2.5 baths,3,3,232.00,3
+4966,Columbia Heights,7/22/2024,1,T,1,Entire home/apt,4,1 bath,1,2,82.00,2
+4976,Union Station,3/2/2015,0.98,T,1,Entire home/apt,3,1 bath,1,1,109.00,1
+4988,Edgewood,3/18/2017,1,T,7,Entire home/apt,2,1 bath,1,1,164.00,3
+4993,Edgewood,12/10/2022,0.94,T,6,Entire home/apt,4,1 bath,1,2,158.00,2
+5000,Capitol Hill,8/14/2024,1,T,1,Entire home/apt,6,2.5 baths,2,3,153.00,2
+5001,Capitol Hill,8/14/2024,1,T,2,Entire home/apt,3,1.5 baths,1,2,114.00,2
+5013,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,121.00,2
+5014,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,4,1 private bath,1,2,146.00,2
+5015,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,140.00,2
+5016,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,153.00,2
+5017,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,4,1 private bath,1,2,150.00,2
+5018,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,130.00,2
+5026,Capitol Hill,6/1/2016,0.99,T,1,Entire home/apt,3,1 bath,1,2,153.00,1
+5027,Union Station,5/8/2016,0.97,T,1,Entire home/apt,3,1 bath,1,1,106.00,1
+5028,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,136.00,2
+5029,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,4,1 private bath,1,2,152.00,2
+5030,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 bath,1,1,133.00,2
+5031,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 bath,1,1,150.00,2
+5032,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,140.00,2
+5033,Dupont Circle,8/15/2024,0.97,T,15,Private room,2,1 private bath,1,1,120.00,2
+5034,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,127.00,2
+5035,Dupont Circle,8/15/2024,0.97,T,15,Hotel room,2,1 private bath,1,1,124.00,2
+5037,Union Station,7/4/2013,0.98,T,2,Entire home/apt,4,1 bath,0,2,120.00,2
+5038,Union Station,3/11/2024,1,T,9,Entire home/apt,2,1 bath,1,1,122.00,31
+5043,Union Station,3/17/2014,0.99,T,2,Entire home/apt,4,1 bath,1,2,152.00,1
+5060,Union Station,4/12/2016,0.99,T,14,Entire home/apt,4,1 bath,2,2,151.00,31
+5070,Edgewood,2/8/2021,0.97,T,3,Entire home/apt,4,1 bath,1,2,190.00,3
+5080,Union Station,10/15/2015,0.98,T,316,Entire home/apt,2,1 bath,1,1,284.00,2
+5090,Kalorama Heights,5/2/2024,0.99,T,4,Entire home/apt,4,1 bath,1,2,171.00,1
+5093,Dupont Circle,10/6/2023,1,T,3,Entire home/apt,3,1 bath,1,1,147.00,3
+5098,Capitol Hill,4/6/2011,0.99,T,256,Entire home/apt,2,1 bath,1,1,115.00,1
+5100,Capitol Hill,11/25/2023,0.99,T,2,Entire home/apt,4,1 bath,1,2,157.00,2
+5110,Downtown,1/2/2022,0.95,T,2,Entire home/apt,6,2.5 baths,3,6,404.00,2
+5113,Union Station,6/24/2018,0.87,T,1,Entire home/apt,3,1 bath,1,2,126.00,2
+5114,Union Station,5/15/2024,0.97,T,6,Entire home/apt,3,1 bath,1,2,98.00,2
+5119,Edgewood,12/2/2021,0.98,T,1,Entire home/apt,4,1 bath,1,2,133.00,2
+5125,Capitol Hill,10/3/2023,1,T,7,Entire home/apt,10,4.5 baths,5,7,641.00,2
+5126,Union Station,7/7/2015,0.89,T,2,Entire home/apt,4,1 bath,1,2,180.00,2
+5128,Edgewood,8/10/2019,1,T,23,Entire home/apt,7,1 bath,2,4,107.00,2
+5130,Edgewood,4/29/2024,0.97,T,3,Entire home/apt,4,1 bath,2,2,187.00,30
+5151,Edgewood,4/6/2011,0.99,T,256,Entire home/apt,9,3.5 baths,4,5,177.00,1
+5160,Capitol Hill,4/10/2018,1,T,2,Entire home/apt,4,1 bath,1,2,234.00,2
+5167,Columbia Heights,10/20/2013,0.89,T,1,Entire home/apt,2,1 bath,0,1,105.00,2
+5174,Union Station,2/18/2016,1,T,1,Entire home/apt,4,1 bath,1,2,148.00,1
+5176,Shaw,2/27/2018,1,T,2,Entire home/apt,4,1 bath,1,3,142.00,2
+5181,Edgewood,12/10/2022,0.94,T,6,Entire home/apt,4,1 bath,1,1,155.00,2
+5199,Downtown,8/6/2024,1,T,10,Private room,2,1 bath,1,1,205.00,1
+5200,Downtown,8/6/2024,1,T,10,Private room,2,1 bath,1,1,205.00,1
+5202,Columbia Heights,10/2/2024,1,T,1,Entire home/apt,5,1.5 baths,2,3,127.00,2
+5204,Downtown,8/6/2024,1,T,10,Hotel room,4,1 bath,1,2,231.00,1
+5208,Columbia Heights,1/30/2014,1,T,5,Entire home/apt,4,1 bath,2,2,122.00,3
+5210,Union Station,8/10/2019,1,T,23,Entire home/apt,16,4 baths,4,12,224.00,2
+5215,Edgewood,10/8/2024,0.98,T,1,Entire home/apt,2,1 bath,1,1,114.00,3
+5218,Edgewood,12/10/2022,0.94,T,6,Entire home/apt,4,1 bath,1,2,169.00,2
+5232,Edgewood,2/28/2011,0.93,T,2,Entire home/apt,2,1 bath,1,1,111.00,2
+5233,Union Station,4/6/2011,0.99,T,256,Entire home/apt,4,1 bath,1,2,101.00,1
+5234,Union Station,4/6/2011,0.99,T,256,Entire home/apt,7,2 baths,3,5,177.00,1
+5247,Union Station,10/16/2024,1,T,1,,3,1 bath,2,3,199.00,2
+5249,Union Station,10/15/2015,0.98,T,316,Entire home/apt,8,3 baths,3,4,365.00,3
+5254,Edgewood,10/20/2013,1,T,1,Entire home/apt,4,1 bath,2,2,142.00,1
+5266,Capitol Hill,9/14/2011,0.97,T,12,Entire home/apt,3,1 bath,1,2,203.00,3
+5269,Capitol Hill,9/14/2011,0.97,T,12,Private room,2,1 private bath,1,1,78.00,2
+5276,Union Station,7/4/2013,0.98,T,2,Entire home/apt,6,1 bath,2,2,225.00,2
+5290,Union Station,5/25/2019,1,T,23,Entire home/apt,3,1 bath,1,2,129.00,2
+5298,Capitol Hill,3/8/2015,0.96,T,2,Entire home/apt,2,1 bath,1,1,129.00,3
+5316,Capitol Hill,11/1/2024,1,T,6,Entire home/apt,6,1.5 baths,2,3,244.00,2
+5318,Capitol Hill,11/1/2024,1,T,6,Entire home/apt,6,1 bath,2,3,208.00,2
+5319,Capitol Hill,11/1/2024,1,T,6,Entire home/apt,4,1 bath,1,2,145.00,2
+5325,Columbia Heights,4/28/2013,0.96,T,1,Entire home/apt,4,1 bath,1,2,136.00,2
+5328,Union Station,4/26/2015,0.98,T,1,Entire home/apt,4,1 bath,1,2,100.00,2
+5333,Union Station,10/15/2015,0.98,T,316,Entire home/apt,7,2.5 baths,3,5,406.00,2
+5338,Union Station,4/19/2024,1,T,13,Entire home/apt,6,2 baths,2,3,293.00,2
+5340,Capitol Hill,11/1/2024,1,T,6,Entire home/apt,6,1 bath,2,2,231.00,2
+5350,Shaw,11/7/2024,1,T,1,Entire home/apt,4,1 bath,1,2,135.00,2
+5362,Union Station,2/8/2023,1,T,1,Entire home/apt,4,1 bath,2,2,204.00,1
+5468,Capitol Hill,5/16/2015,0.96,T,1,,3,1 bath,1,2,111.00,1
+5473,Union Station,10/15/2015,0.98,T,316,Entire home/apt,4,1 bath,1,2,141.00,3
+5479,Union Station,6/28/2017,0.67,T,32,Entire home/apt,2,1 bath,1,2,90.00,31
+5480,Capitol Hill,5/8/2015,0.99,T,1,Entire home/apt,2,1 bath,1,1,129.00,2
+5481,Union Station,6/28/2017,0.67,T,32,Entire home/apt,2,1 bath,1,3,90.00,31
+5485,Union Station,6/28/2017,0.67,T,32,Entire home/apt,2,1 bath,1,2,95.00,31
+5488,Union Station,6/28/2017,0.67,T,32,Entire home/apt,2,1 bath,1,2,92.00,31
+5489,Union Station,6/28/2017,0.67,T,32,Entire home/apt,2,1 bath,1,2,100.00,31
+5491,Union Station,6/28/2017,0.67,T,32,Entire home/apt,2,1 bath,1,2,90.00,31
+5495,Union Station,6/28/2017,0.67,T,32,Entire home/apt,4,2 baths,2,2,170.00,31
+5497,Edgewood,12/15/2016,0.88,T,1,Entire home/apt,4,1 bath,2,2,181.00,2
+5498,Kalorama Heights,8/7/2016,1,T,2,Entire home/apt,4,2 baths,2,2,152.00,1
+5522,Union Station,8/31/2014,0.97,T,1,Entire home/apt,4,1 bath,1,3,176.00,1
+5545,Union Station,2/24/2024,0.92,T,4,Entire home/apt,2,1 bath,1,2,100.00,3
+5558,Union Station,3/20/2017,0.87,T,1,Entire home/apt,3,1 bath,1,2,127.00,1
+5573,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,1 bath,2,3,227.00,1
+5579,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,1 bath,2,3,219.00,1
+5585,Union Station,4/10/2015,0.88,T,1,Entire home/apt,2,1 bath,1,1,155.00,1
+5592,Capitol Hill,1/2/2015,0.85,T,1,Entire home/apt,6,1 bath,2,3,204.00,1
+5601,Georgetown,9/20/2014,1,T,37,Entire home/apt,5,1 bath,2,3,210.00,1
+5624,Union Station,6/22/2020,1,T,1,Entire home/apt,2,1 bath,1,1,161.00,1
+5648,Foggy Bottom,1/8/2024,1,T,4,Private room,4,1 shared bath,1,2,252.00,1
+5650,Edgewood,12/23/2024,0.94,T,1,Entire home/apt,3,1 bath,1,2,234.00,1
+5672,Union Station,2/12/2015,0.99,T,3,Entire home/apt,7,2.5 baths,3,3,222.00,3
+5685,Edgewood,8/1/2011,0.93,T,2,Entire home/apt,2,1 bath,1,1,125.00,1
+5695,Union Station,10/26/2023,0.98,T,23,Entire home/apt,6,2 baths,3,3,261.00,1
+5706,Union Station,4/19/2024,1,T,13,Entire home/apt,7,2 baths,2,3,226.00,2
+5707,Union Station,10/26/2023,0.98,T,23,Entire home/apt,2,1 bath,1,1,114.00,1
+5711,Union Station,4/19/2024,1,T,13,Entire home/apt,6,2 baths,2,3,191.00,2
+5732,Union Station,10/26/2023,0.98,T,23,Entire home/apt,6,1 bath,3,3,173.00,1
+5733,Edgewood,10/26/2023,0.98,T,23,Entire home/apt,6,1 bath,3,3,213.00,1
+5753,Edgewood,10/26/2023,0.98,T,23,Entire home/apt,6,1 bath,3,4,225.00,1
+5771,Edgewood,4/30/2013,0.94,T,1,Entire home/apt,6,1 bath,2,3,132.00,2
+5796,Edgewood,9/5/2021,0.97,T,2,Entire home/apt,6,2.5 baths,3,4,244.00,2
+5812,Union Station,6/25/2022,1,T,3,Entire home/apt,2,1 bath,1,1,182.00,3
+5847,Union Station,9/19/2018,1,T,4,Entire home/apt,4,1 bath,2,2,105.00,2
+5870,Edgewood,11/28/2018,0.99,T,16,Entire home/apt,5,2 baths,2,3,144.00,3
+5897,Edgewood,11/28/2018,0.99,T,16,Entire home/apt,5,2 baths,2,2,151.00,1
+5909,Union Station,2/24/2024,0.92,T,4,Entire home/apt,5,2 baths,2,3,226.00,2
+5946,Union Station,9/29/2021,0.98,T,3,Entire home/apt,5,2 baths,3,3,258.00,3
+5974,Union Station,10/26/2023,0.98,T,23,Entire home/apt,4,1 bath,2,2,135.00,1
+5975,Union Station,10/26/2023,0.98,T,23,Entire home/apt,4,1 bath,2,2,139.00,1
+6087,Union Station,4/19/2024,1,T,13,Entire home/apt,7,2 baths,2,3,222.00,2
+6108,Edgewood,9/3/2010,0.98,T,6,Entire home/apt,6,2.5 baths,3,3,346.00,1
+6109,Edgewood,9/3/2010,0.98,T,6,Entire home/apt,2,1 bath,1,1,106.00,1
+6132,Union Station,4/6/2011,0.99,T,256,Entire home/apt,2,1 bath,1,1,88.00,1
+6152,Union Station,9/19/2018,1,T,4,Entire home/apt,4,1 bath,2,2,107.00,2
+6193,Edgewood,8/2/2012,0.68,T,3,Entire home/apt,4,2 baths,2,3,144.00,2
+6213,Edgewood,11/1/2014,0.99,T,3,Entire home/apt,4,1 bath,1,3,126.00,2
+6225,Edgewood,2/17/2016,0.96,T,40,Entire home/apt,5,1 bath,2,3,124.00,3
+6266,Edgewood,4/19/2024,1,T,13,Entire home/apt,8,2 baths,2,3,330.00,2
+6289,Edgewood,12/15/2014,1,T,2,Entire home/apt,5,2 baths,3,3,244.00,2
+6328,Edgewood,7/31/2014,1,T,23,Entire home/apt,4,1.5 baths,2,2,234.00,2
+6371,Union Station,10/7/2019,1,T,2,Entire home/apt,3,1 bath,1,2,129.00,1
